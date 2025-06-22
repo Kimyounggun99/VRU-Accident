@@ -49,7 +49,50 @@ Each video is paired with a detailed, high-quality description capturing:
 
 ## 🚀 Getting Started
 
-### Clone the repo
+### 🧩 Environment
+
+- Python 3.10
+- CUDA 12.4
+- PyTorch ≥ 2.2
+
+> Tested on Ubuntu 20.04 with NVIDIA TITAN RTX
+
+---
+
+### ⚙️ Installation
+
 ```bash
-git clone https://github.com/VRU-Accident/VRU-Accident.git
+# Create environment
+conda create -n VRU-Accident python=3.10 -y
+conda activate VRU-Accident
+
+# Clone repository
+git clone https://github.com/Kimyounggun99/VRU-Accident.git
 cd VRU-Accident
+
+# Install dependencies
+pip install -r requirements.txt
+
+
+🧠 MLLM Weights Setup
+You must manually download the following model weights:
+
+Mobile-VideoGPT (0.5B): [link1]
+
+Mobile-VideoGPT (1.5B): [link2]
+
+Video-XL-Pro (3B): [link3]
+
+Video-XL-2 (7B): [link4]
+
+Place them under the following directory structure:
+
+```
+./VRU-Accident/Models/
+├── Video_XL_Pro_3B/
+├── Video-XL-2/
+└── Mobile_VideoGPT/
+    ├── Mobile_VideoGPT_05B/
+    └── Mobile_VideoGPT_15B/
+All other model weights will be downloaded automatically during evaluation.
+
