@@ -37,9 +37,12 @@ Each video includes 6 question-answer pairs with 1 correct answer and 3 contextu
 
 ### 📝 Dense Captioning
 Each video is paired with a detailed, high-quality description capturing:
-- Pedestrian/vehicle dynamics
+- Pedestrian/vehicle appearance
 - Environmental context
-- Collision sequence
+- Weather condition
+- Pedestrian/vehicle dynamics
+- Spatial relationship between road users
+- Detailed collision description
 
 ---
 
