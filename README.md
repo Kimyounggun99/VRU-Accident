@@ -120,7 +120,7 @@ Visit our [Hugging Face page !!!!!!!!!!!!! need to change](https://huggingface.c
 │   └── VRU_Accident/
 │          ├── VRU_Accident_VQA_annotation.json
 │          └── VRU_Accident_Dense_Caption.json
-└── VRU_videos/
+└── VRU_videos/ # total number of videos: 1000
     ├── CAP_DATA/
     │      └── VRU_1.mp4, ... , VRU_287.mp4
     ├── DADA_2000/
