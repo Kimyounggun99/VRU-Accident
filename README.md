@@ -257,4 +257,11 @@ python main.py \
 
 - ./Model_Response/
 - ./results/
+- 
+---
+
+### 📢 Acknowledgement
+In addition to the 390 VRU-involved crash videos we newly collected, we also curated VRU-relevant videos from three publicly available accident datasets: [MM-AU](http://www.lotvsmmau.net/), [DADA-2000](https://github.com/JWFangit/LOTVS-DADA), and [DoTA](https://github.com/MoonBlvd/Detection-of-Traffic-Anomaly).
+
+We annotated these videos with fine-grained Video Question Answering (VQA) and Dense Captioning labels as part of the VRU-Accident benchmark. We sincerely thank the original authors of these datasets for their efforts in collecting and sharing valuable crash video data with the research community.
 
