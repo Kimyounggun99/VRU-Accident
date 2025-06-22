@@ -257,7 +257,6 @@ python main.py \
 
 - ./Model_Response/
 - ./results/
-- 
 ---
 
 ### 📢 Acknowledgement
