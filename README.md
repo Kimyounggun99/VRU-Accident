@@ -13,7 +13,7 @@ This benchmark uniquely focuses on understanding the **causal, contextual, and p
 
 ---
 
-## 📦 Dataset Summary
+## 📦 Benchmark Summary
 
 | Task              | Samples | Candidate Options | Unique Answers |
 |-------------------|---------|-------------------|----------------|
