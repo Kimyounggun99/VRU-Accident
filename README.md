@@ -159,8 +159,6 @@ python main.py \
   --save_path ./Model_Response/VQA/InternVL3_8B/VRU_Accident_VQA_response.json \
   --model InternVL3_8B
 ```
-and
-
 ```bash
 python main.py \
   --task Dense_Captioning \
@@ -193,8 +191,6 @@ python main.py \
   --model GPT_4o_mini \
   --api_key <Your_API_Key>
 ```
-
-and 
 
 ```bash
 python main.py \
