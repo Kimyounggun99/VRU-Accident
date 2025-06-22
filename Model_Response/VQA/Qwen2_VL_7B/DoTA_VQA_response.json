@@ -1,0 +1,2602 @@
+{
+  "./VRU_videos/DoTA/VRU_1.mp4": {
+    "weather and light": {
+      "pred": "B",
+      "GT": "B"
+    },
+    "location": {
+      "pred": "D",
+      "GT": "D"
+    },
+    "road type": {
+      "pred": "C",
+      "GT": "D"
+    },
+    "accident type": {
+      "pred": "A",
+      "GT": "D"
+    },
+    "accident reason": {
+      "pred": "C",
+      "GT": "D"
+    },
+    "prevention method": {
+      "pred": "D",
+      "GT": "A"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_2.mp4": {
+    "weather and light": {
+      "pred": "A",
+      "GT": "A"
+    },
+    "location": {
+      "pred": null,
+      "GT": "A"
+    },
+    "road type": {
+      "pred": "C",
+      "GT": "C"
+    },
+    "accident type": {
+      "pred": "D",
+      "GT": "D"
+    },
+    "accident reason": {
+      "pred": null,
+      "GT": "A"
+    },
+    "prevention method": {
+      "pred": "A",
+      "GT": "B"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_3.mp4": {
+    "weather and light": {
+      "pred": "D",
+      "GT": "D"
+    },
+    "location": {
+      "pred": null,
+      "GT": "B"
+    },
+    "road type": {
+      "pred": "A",
+      "GT": "C"
+    },
+    "accident type": {
+      "pred": "D",
+      "GT": "D"
+    },
+    "accident reason": {
+      "pred": null,
+      "GT": "D"
+    },
+    "prevention method": {
+      "pred": "C",
+      "GT": "D"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_4.mp4": {
+    "weather and light": {
+      "pred": null,
+      "GT": "C"
+    },
+    "location": {
+      "pred": null,
+      "GT": "A"
+    },
+    "road type": {
+      "pred": "B",
+      "GT": "A"
+    },
+    "accident type": {
+      "pred": "C",
+      "GT": "B"
+    },
+    "accident reason": {
+      "pred": "B",
+      "GT": "A"
+    },
+    "prevention method": {
+      "pred": "B",
+      "GT": "A"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_5.mp4": {
+    "weather and light": {
+      "pred": "B",
+      "GT": "B"
+    },
+    "location": {
+      "pred": "B",
+      "GT": "B"
+    },
+    "road type": {
+      "pred": "B",
+      "GT": "D"
+    },
+    "accident type": {
+      "pred": "B",
+      "GT": "B"
+    },
+    "accident reason": {
+      "pred": "D",
+      "GT": "D"
+    },
+    "prevention method": {
+      "pred": "C",
+      "GT": "D"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_6.mp4": {
+    "weather and light": {
+      "pred": null,
+      "GT": "C"
+    },
+    "location": {
+      "pred": "C",
+      "GT": "C"
+    },
+    "road type": {
+      "pred": "C",
+      "GT": "A"
+    },
+    "accident type": {
+      "pred": "D",
+      "GT": "D"
+    },
+    "accident reason": {
+      "pred": "C",
+      "GT": "C"
+    },
+    "prevention method": {
+      "pred": "A",
+      "GT": "A"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_7.mp4": {
+    "weather and light": {
+      "pred": "A",
+      "GT": "A"
+    },
+    "location": {
+      "pred": "D",
+      "GT": "D"
+    },
+    "road type": {
+      "pred": "C",
+      "GT": "C"
+    },
+    "accident type": {
+      "pred": "C",
+      "GT": "D"
+    },
+    "accident reason": {
+      "pred": "D",
+      "GT": "B"
+    },
+    "prevention method": {
+      "pred": "D",
+      "GT": "A"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_8.mp4": {
+    "weather and light": {
+      "pred": "A",
+      "GT": "A"
+    },
+    "location": {
+      "pred": null,
+      "GT": "A"
+    },
+    "road type": {
+      "pred": null,
+      "GT": "D"
+    },
+    "accident type": {
+      "pred": "C",
+      "GT": "C"
+    },
+    "accident reason": {
+      "pred": "C",
+      "GT": "D"
+    },
+    "prevention method": {
+      "pred": "C",
+      "GT": "C"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_9.mp4": {
+    "weather and light": {
+      "pred": null,
+      "GT": "D"
+    },
+    "location": {
+      "pred": null,
+      "GT": "C"
+    },
+    "road type": {
+      "pred": "A",
+      "GT": "C"
+    },
+    "accident type": {
+      "pred": "D",
+      "GT": "D"
+    },
+    "accident reason": {
+      "pred": "C",
+      "GT": "C"
+    },
+    "prevention method": {
+      "pred": "C",
+      "GT": "A"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_10.mp4": {
+    "weather and light": {
+      "pred": "D",
+      "GT": "A"
+    },
+    "location": {
+      "pred": null,
+      "GT": "D"
+    },
+    "road type": {
+      "pred": "A",
+      "GT": "A"
+    },
+    "accident type": {
+      "pred": "A",
+      "GT": "A"
+    },
+    "accident reason": {
+      "pred": "C",
+      "GT": "C"
+    },
+    "prevention method": {
+      "pred": "B",
+      "GT": "B"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_11.mp4": {
+    "weather and light": {
+      "pred": "B",
+      "GT": "B"
+    },
+    "location": {
+      "pred": null,
+      "GT": "B"
+    },
+    "road type": {
+      "pred": "C",
+      "GT": "A"
+    },
+    "accident type": {
+      "pred": "A",
+      "GT": "A"
+    },
+    "accident reason": {
+      "pred": "C",
+      "GT": "C"
+    },
+    "prevention method": {
+      "pred": "D",
+      "GT": "B"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_12.mp4": {
+    "weather and light": {
+      "pred": "A",
+      "GT": "C"
+    },
+    "location": {
+      "pred": null,
+      "GT": "A"
+    },
+    "road type": {
+      "pred": "C",
+      "GT": "C"
+    },
+    "accident type": {
+      "pred": "D",
+      "GT": "D"
+    },
+    "accident reason": {
+      "pred": null,
+      "GT": "C"
+    },
+    "prevention method": {
+      "pred": "D",
+      "GT": "D"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_13.mp4": {
+    "weather and light": {
+      "pred": null,
+      "GT": "C"
+    },
+    "location": {
+      "pred": null,
+      "GT": "B"
+    },
+    "road type": {
+      "pred": "A",
+      "GT": "B"
+    },
+    "accident type": {
+      "pred": "D",
+      "GT": "D"
+    },
+    "accident reason": {
+      "pred": "B",
+      "GT": "B"
+    },
+    "prevention method": {
+      "pred": "C",
+      "GT": "D"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_14.mp4": {
+    "weather and light": {
+      "pred": "A",
+      "GT": "A"
+    },
+    "location": {
+      "pred": null,
+      "GT": "C"
+    },
+    "road type": {
+      "pred": null,
+      "GT": "A"
+    },
+    "accident type": {
+      "pred": "B",
+      "GT": "B"
+    },
+    "accident reason": {
+      "pred": null,
+      "GT": "D"
+    },
+    "prevention method": {
+      "pred": "B",
+      "GT": "A"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_15.mp4": {
+    "weather and light": {
+      "pred": "D",
+      "GT": "D"
+    },
+    "location": {
+      "pred": null,
+      "GT": "D"
+    },
+    "road type": {
+      "pred": null,
+      "GT": "D"
+    },
+    "accident type": {
+      "pred": "B",
+      "GT": "B"
+    },
+    "accident reason": {
+      "pred": "B",
+      "GT": "B"
+    },
+    "prevention method": {
+      "pred": "C",
+      "GT": "C"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_16.mp4": {
+    "weather and light": {
+      "pred": "C",
+      "GT": "C"
+    },
+    "location": {
+      "pred": null,
+      "GT": "B"
+    },
+    "road type": {
+      "pred": "C",
+      "GT": "A"
+    },
+    "accident type": {
+      "pred": "B",
+      "GT": "B"
+    },
+    "accident reason": {
+      "pred": null,
+      "GT": "B"
+    },
+    "prevention method": {
+      "pred": "C",
+      "GT": "C"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_17.mp4": {
+    "weather and light": {
+      "pred": "A",
+      "GT": "B"
+    },
+    "location": {
+      "pred": null,
+      "GT": "B"
+    },
+    "road type": {
+      "pred": null,
+      "GT": "D"
+    },
+    "accident type": {
+      "pred": "A",
+      "GT": "C"
+    },
+    "accident reason": {
+      "pred": null,
+      "GT": "A"
+    },
+    "prevention method": {
+      "pred": "B",
+      "GT": "C"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_18.mp4": {
+    "weather and light": {
+      "pred": "A",
+      "GT": "A"
+    },
+    "location": {
+      "pred": "C",
+      "GT": "C"
+    },
+    "road type": {
+      "pred": null,
+      "GT": "A"
+    },
+    "accident type": {
+      "pred": "C",
+      "GT": "C"
+    },
+    "accident reason": {
+      "pred": "A",
+      "GT": "A"
+    },
+    "prevention method": {
+      "pred": "C",
+      "GT": "C"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_19.mp4": {
+    "weather and light": {
+      "pred": null,
+      "GT": "C"
+    },
+    "location": {
+      "pred": null,
+      "GT": "A"
+    },
+    "road type": {
+      "pred": null,
+      "GT": "C"
+    },
+    "accident type": {
+      "pred": "B",
+      "GT": "B"
+    },
+    "accident reason": {
+      "pred": "C",
+      "GT": "D"
+    },
+    "prevention method": {
+      "pred": "C",
+      "GT": "A"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_20.mp4": {
+    "weather and light": {
+      "pred": "A",
+      "GT": "A"
+    },
+    "location": {
+      "pred": null,
+      "GT": "B"
+    },
+    "road type": {
+      "pred": null,
+      "GT": "C"
+    },
+    "accident type": {
+      "pred": "B",
+      "GT": "B"
+    },
+    "accident reason": {
+      "pred": "C",
+      "GT": "D"
+    },
+    "prevention method": {
+      "pred": "D",
+      "GT": "D"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_21.mp4": {
+    "weather and light": {
+      "pred": null,
+      "GT": "B"
+    },
+    "location": {
+      "pred": null,
+      "GT": "D"
+    },
+    "road type": {
+      "pred": null,
+      "GT": "B"
+    },
+    "accident type": {
+      "pred": "C",
+      "GT": "C"
+    },
+    "accident reason": {
+      "pred": "D",
+      "GT": "A"
+    },
+    "prevention method": {
+      "pred": "D",
+      "GT": "C"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_22.mp4": {
+    "weather and light": {
+      "pred": "A",
+      "GT": "A"
+    },
+    "location": {
+      "pred": "B",
+      "GT": "B"
+    },
+    "road type": {
+      "pred": "A",
+      "GT": "D"
+    },
+    "accident type": {
+      "pred": "A",
+      "GT": "A"
+    },
+    "accident reason": {
+      "pred": "C",
+      "GT": "C"
+    },
+    "prevention method": {
+      "pred": "A",
+      "GT": "A"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_23.mp4": {
+    "weather and light": {
+      "pred": "A",
+      "GT": "D"
+    },
+    "location": {
+      "pred": null,
+      "GT": "C"
+    },
+    "road type": {
+      "pred": "B",
+      "GT": "B"
+    },
+    "accident type": {
+      "pred": "A",
+      "GT": "A"
+    },
+    "accident reason": {
+      "pred": "D",
+      "GT": "C"
+    },
+    "prevention method": {
+      "pred": "D",
+      "GT": "A"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_24.mp4": {
+    "weather and light": {
+      "pred": "A",
+      "GT": "A"
+    },
+    "location": {
+      "pred": null,
+      "GT": "D"
+    },
+    "road type": {
+      "pred": null,
+      "GT": "B"
+    },
+    "accident type": {
+      "pred": "B",
+      "GT": "A"
+    },
+    "accident reason": {
+      "pred": "C",
+      "GT": "B"
+    },
+    "prevention method": {
+      "pred": "D",
+      "GT": "A"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_25.mp4": {
+    "weather and light": {
+      "pred": null,
+      "GT": "A"
+    },
+    "location": {
+      "pred": null,
+      "GT": "B"
+    },
+    "road type": {
+      "pred": "A",
+      "GT": "D"
+    },
+    "accident type": {
+      "pred": "C",
+      "GT": "C"
+    },
+    "accident reason": {
+      "pred": null,
+      "GT": "B"
+    },
+    "prevention method": {
+      "pred": "D",
+      "GT": "D"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_26.mp4": {
+    "weather and light": {
+      "pred": "D",
+      "GT": "D"
+    },
+    "location": {
+      "pred": null,
+      "GT": "D"
+    },
+    "road type": {
+      "pred": null,
+      "GT": "D"
+    },
+    "accident type": {
+      "pred": "C",
+      "GT": "C"
+    },
+    "accident reason": {
+      "pred": null,
+      "GT": "B"
+    },
+    "prevention method": {
+      "pred": "B",
+      "GT": "A"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_27.mp4": {
+    "weather and light": {
+      "pred": "C",
+      "GT": "C"
+    },
+    "location": {
+      "pred": null,
+      "GT": "B"
+    },
+    "road type": {
+      "pred": null,
+      "GT": "B"
+    },
+    "accident type": {
+      "pred": "B",
+      "GT": "B"
+    },
+    "accident reason": {
+      "pred": "D",
+      "GT": "D"
+    },
+    "prevention method": {
+      "pred": "D",
+      "GT": "B"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_28.mp4": {
+    "weather and light": {
+      "pred": null,
+      "GT": "D"
+    },
+    "location": {
+      "pred": null,
+      "GT": "D"
+    },
+    "road type": {
+      "pred": null,
+      "GT": "B"
+    },
+    "accident type": {
+      "pred": "D",
+      "GT": "D"
+    },
+    "accident reason": {
+      "pred": "B",
+      "GT": "C"
+    },
+    "prevention method": {
+      "pred": "B",
+      "GT": "A"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_29.mp4": {
+    "weather and light": {
+      "pred": "C",
+      "GT": "C"
+    },
+    "location": {
+      "pred": null,
+      "GT": "A"
+    },
+    "road type": {
+      "pred": "B",
+      "GT": "D"
+    },
+    "accident type": {
+      "pred": "A",
+      "GT": "A"
+    },
+    "accident reason": {
+      "pred": "B",
+      "GT": "D"
+    },
+    "prevention method": {
+      "pred": "B",
+      "GT": "B"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_30.mp4": {
+    "weather and light": {
+      "pred": "B",
+      "GT": "B"
+    },
+    "location": {
+      "pred": null,
+      "GT": "B"
+    },
+    "road type": {
+      "pred": "B",
+      "GT": "B"
+    },
+    "accident type": {
+      "pred": "A",
+      "GT": "A"
+    },
+    "accident reason": {
+      "pred": "C",
+      "GT": "B"
+    },
+    "prevention method": {
+      "pred": "D",
+      "GT": "D"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_31.mp4": {
+    "weather and light": {
+      "pred": "D",
+      "GT": "D"
+    },
+    "location": {
+      "pred": null,
+      "GT": "B"
+    },
+    "road type": {
+      "pred": null,
+      "GT": "D"
+    },
+    "accident type": {
+      "pred": "A",
+      "GT": "D"
+    },
+    "accident reason": {
+      "pred": "B",
+      "GT": "B"
+    },
+    "prevention method": {
+      "pred": "D",
+      "GT": "B"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_32.mp4": {
+    "weather and light": {
+      "pred": "B",
+      "GT": "A"
+    },
+    "location": {
+      "pred": null,
+      "GT": "D"
+    },
+    "road type": {
+      "pred": null,
+      "GT": "D"
+    },
+    "accident type": {
+      "pred": "C",
+      "GT": "C"
+    },
+    "accident reason": {
+      "pred": "B",
+      "GT": "D"
+    },
+    "prevention method": {
+      "pred": "B",
+      "GT": "B"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_33.mp4": {
+    "weather and light": {
+      "pred": "B",
+      "GT": "B"
+    },
+    "location": {
+      "pred": "D",
+      "GT": "D"
+    },
+    "road type": {
+      "pred": "B",
+      "GT": "C"
+    },
+    "accident type": {
+      "pred": "C",
+      "GT": "C"
+    },
+    "accident reason": {
+      "pred": "C",
+      "GT": "C"
+    },
+    "prevention method": {
+      "pred": "D",
+      "GT": "B"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_34.mp4": {
+    "weather and light": {
+      "pred": "A",
+      "GT": "A"
+    },
+    "location": {
+      "pred": null,
+      "GT": "B"
+    },
+    "road type": {
+      "pred": null,
+      "GT": "A"
+    },
+    "accident type": {
+      "pred": "C",
+      "GT": "C"
+    },
+    "accident reason": {
+      "pred": "B",
+      "GT": "B"
+    },
+    "prevention method": {
+      "pred": "B",
+      "GT": "C"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_35.mp4": {
+    "weather and light": {
+      "pred": "A",
+      "GT": "C"
+    },
+    "location": {
+      "pred": null,
+      "GT": "A"
+    },
+    "road type": {
+      "pred": "D",
+      "GT": "B"
+    },
+    "accident type": {
+      "pred": "D",
+      "GT": "B"
+    },
+    "accident reason": {
+      "pred": "D",
+      "GT": "D"
+    },
+    "prevention method": {
+      "pred": "C",
+      "GT": "A"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_36.mp4": {
+    "weather and light": {
+      "pred": "A",
+      "GT": "A"
+    },
+    "location": {
+      "pred": null,
+      "GT": "C"
+    },
+    "road type": {
+      "pred": "B",
+      "GT": "D"
+    },
+    "accident type": {
+      "pred": null,
+      "GT": "C"
+    },
+    "accident reason": {
+      "pred": "D",
+      "GT": "C"
+    },
+    "prevention method": {
+      "pred": "D",
+      "GT": "D"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_37.mp4": {
+    "weather and light": {
+      "pred": null,
+      "GT": "A"
+    },
+    "location": {
+      "pred": null,
+      "GT": "D"
+    },
+    "road type": {
+      "pred": "A",
+      "GT": "C"
+    },
+    "accident type": {
+      "pred": "B",
+      "GT": "A"
+    },
+    "accident reason": {
+      "pred": "D",
+      "GT": "A"
+    },
+    "prevention method": {
+      "pred": "C",
+      "GT": "B"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_38.mp4": {
+    "weather and light": {
+      "pred": "A",
+      "GT": "A"
+    },
+    "location": {
+      "pred": null,
+      "GT": "A"
+    },
+    "road type": {
+      "pred": "B",
+      "GT": "B"
+    },
+    "accident type": {
+      "pred": "B",
+      "GT": "D"
+    },
+    "accident reason": {
+      "pred": "C",
+      "GT": "D"
+    },
+    "prevention method": {
+      "pred": "C",
+      "GT": "C"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_39.mp4": {
+    "weather and light": {
+      "pred": "A",
+      "GT": "C"
+    },
+    "location": {
+      "pred": null,
+      "GT": "D"
+    },
+    "road type": {
+      "pred": null,
+      "GT": "C"
+    },
+    "accident type": {
+      "pred": "B",
+      "GT": "C"
+    },
+    "accident reason": {
+      "pred": "C",
+      "GT": "A"
+    },
+    "prevention method": {
+      "pred": "B",
+      "GT": "A"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_40.mp4": {
+    "weather and light": {
+      "pred": "C",
+      "GT": "C"
+    },
+    "location": {
+      "pred": null,
+      "GT": "A"
+    },
+    "road type": {
+      "pred": null,
+      "GT": "C"
+    },
+    "accident type": {
+      "pred": "B",
+      "GT": "B"
+    },
+    "accident reason": {
+      "pred": "D",
+      "GT": "D"
+    },
+    "prevention method": {
+      "pred": "D",
+      "GT": "B"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_41.mp4": {
+    "weather and light": {
+      "pred": "C",
+      "GT": "C"
+    },
+    "location": {
+      "pred": "B",
+      "GT": "B"
+    },
+    "road type": {
+      "pred": "B",
+      "GT": "B"
+    },
+    "accident type": {
+      "pred": "B",
+      "GT": "B"
+    },
+    "accident reason": {
+      "pred": "A",
+      "GT": "A"
+    },
+    "prevention method": {
+      "pred": "D",
+      "GT": "B"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_42.mp4": {
+    "weather and light": {
+      "pred": "B",
+      "GT": "B"
+    },
+    "location": {
+      "pred": null,
+      "GT": "B"
+    },
+    "road type": {
+      "pred": null,
+      "GT": "A"
+    },
+    "accident type": {
+      "pred": "A",
+      "GT": "B"
+    },
+    "accident reason": {
+      "pred": "C",
+      "GT": "C"
+    },
+    "prevention method": {
+      "pred": "D",
+      "GT": "D"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_43.mp4": {
+    "weather and light": {
+      "pred": "C",
+      "GT": "C"
+    },
+    "location": {
+      "pred": null,
+      "GT": "B"
+    },
+    "road type": {
+      "pred": "C",
+      "GT": "B"
+    },
+    "accident type": {
+      "pred": "A",
+      "GT": "A"
+    },
+    "accident reason": {
+      "pred": "C",
+      "GT": "D"
+    },
+    "prevention method": {
+      "pred": "C",
+      "GT": "B"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_44.mp4": {
+    "weather and light": {
+      "pred": "C",
+      "GT": "C"
+    },
+    "location": {
+      "pred": null,
+      "GT": "A"
+    },
+    "road type": {
+      "pred": "B",
+      "GT": "A"
+    },
+    "accident type": {
+      "pred": "C",
+      "GT": "D"
+    },
+    "accident reason": {
+      "pred": "C",
+      "GT": "D"
+    },
+    "prevention method": {
+      "pred": "C",
+      "GT": "C"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_45.mp4": {
+    "weather and light": {
+      "pred": "A",
+      "GT": "A"
+    },
+    "location": {
+      "pred": null,
+      "GT": "A"
+    },
+    "road type": {
+      "pred": "A",
+      "GT": "A"
+    },
+    "accident type": {
+      "pred": "D",
+      "GT": "D"
+    },
+    "accident reason": {
+      "pred": "D",
+      "GT": "B"
+    },
+    "prevention method": {
+      "pred": "C",
+      "GT": "C"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_46.mp4": {
+    "weather and light": {
+      "pred": "C",
+      "GT": "C"
+    },
+    "location": {
+      "pred": "D",
+      "GT": "D"
+    },
+    "road type": {
+      "pred": "C",
+      "GT": "D"
+    },
+    "accident type": {
+      "pred": "C",
+      "GT": "C"
+    },
+    "accident reason": {
+      "pred": "A",
+      "GT": "A"
+    },
+    "prevention method": {
+      "pred": "D",
+      "GT": "B"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_47.mp4": {
+    "weather and light": {
+      "pred": "B",
+      "GT": "B"
+    },
+    "location": {
+      "pred": null,
+      "GT": "A"
+    },
+    "road type": {
+      "pred": null,
+      "GT": "B"
+    },
+    "accident type": {
+      "pred": "A",
+      "GT": "A"
+    },
+    "accident reason": {
+      "pred": "B",
+      "GT": "B"
+    },
+    "prevention method": {
+      "pred": "D",
+      "GT": "A"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_48.mp4": {
+    "weather and light": {
+      "pred": "D",
+      "GT": "D"
+    },
+    "location": {
+      "pred": "D",
+      "GT": "D"
+    },
+    "road type": {
+      "pred": "C",
+      "GT": "C"
+    },
+    "accident type": {
+      "pred": "C",
+      "GT": "C"
+    },
+    "accident reason": {
+      "pred": "A",
+      "GT": "B"
+    },
+    "prevention method": {
+      "pred": "D",
+      "GT": "D"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_49.mp4": {
+    "weather and light": {
+      "pred": "C",
+      "GT": "C"
+    },
+    "location": {
+      "pred": "C",
+      "GT": "C"
+    },
+    "road type": {
+      "pred": "B",
+      "GT": "A"
+    },
+    "accident type": {
+      "pred": "B",
+      "GT": "A"
+    },
+    "accident reason": {
+      "pred": "C",
+      "GT": "B"
+    },
+    "prevention method": {
+      "pred": "D",
+      "GT": "C"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_50.mp4": {
+    "weather and light": {
+      "pred": "C",
+      "GT": "C"
+    },
+    "location": {
+      "pred": "C",
+      "GT": "C"
+    },
+    "road type": {
+      "pred": null,
+      "GT": "C"
+    },
+    "accident type": {
+      "pred": "D",
+      "GT": "C"
+    },
+    "accident reason": {
+      "pred": "A",
+      "GT": "C"
+    },
+    "prevention method": {
+      "pred": "D",
+      "GT": "D"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_51.mp4": {
+    "weather and light": {
+      "pred": "B",
+      "GT": "A"
+    },
+    "location": {
+      "pred": "D",
+      "GT": "D"
+    },
+    "road type": {
+      "pred": "C",
+      "GT": "A"
+    },
+    "accident type": {
+      "pred": "A",
+      "GT": "B"
+    },
+    "accident reason": {
+      "pred": "D",
+      "GT": "D"
+    },
+    "prevention method": {
+      "pred": "B",
+      "GT": "B"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_52.mp4": {
+    "weather and light": {
+      "pred": "A",
+      "GT": "A"
+    },
+    "location": {
+      "pred": null,
+      "GT": "C"
+    },
+    "road type": {
+      "pred": null,
+      "GT": "A"
+    },
+    "accident type": {
+      "pred": "D",
+      "GT": "D"
+    },
+    "accident reason": {
+      "pred": null,
+      "GT": "A"
+    },
+    "prevention method": {
+      "pred": "C",
+      "GT": "B"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_53.mp4": {
+    "weather and light": {
+      "pred": "A",
+      "GT": "A"
+    },
+    "location": {
+      "pred": null,
+      "GT": "A"
+    },
+    "road type": {
+      "pred": null,
+      "GT": "B"
+    },
+    "accident type": {
+      "pred": null,
+      "GT": "D"
+    },
+    "accident reason": {
+      "pred": "C",
+      "GT": "B"
+    },
+    "prevention method": {
+      "pred": "C",
+      "GT": "B"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_54.mp4": {
+    "weather and light": {
+      "pred": "B",
+      "GT": "B"
+    },
+    "location": {
+      "pred": "D",
+      "GT": "D"
+    },
+    "road type": {
+      "pred": "C",
+      "GT": "C"
+    },
+    "accident type": {
+      "pred": "A",
+      "GT": "C"
+    },
+    "accident reason": {
+      "pred": "B",
+      "GT": "A"
+    },
+    "prevention method": {
+      "pred": "D",
+      "GT": "D"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_55.mp4": {
+    "weather and light": {
+      "pred": "D",
+      "GT": "D"
+    },
+    "location": {
+      "pred": "C",
+      "GT": "C"
+    },
+    "road type": {
+      "pred": null,
+      "GT": "C"
+    },
+    "accident type": {
+      "pred": "B",
+      "GT": "B"
+    },
+    "accident reason": {
+      "pred": "C",
+      "GT": "B"
+    },
+    "prevention method": {
+      "pred": "C",
+      "GT": "A"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_56.mp4": {
+    "weather and light": {
+      "pred": "C",
+      "GT": "C"
+    },
+    "location": {
+      "pred": "C",
+      "GT": "C"
+    },
+    "road type": {
+      "pred": null,
+      "GT": "B"
+    },
+    "accident type": {
+      "pred": "B",
+      "GT": "A"
+    },
+    "accident reason": {
+      "pred": "B",
+      "GT": "D"
+    },
+    "prevention method": {
+      "pred": "B",
+      "GT": "B"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_57.mp4": {
+    "weather and light": {
+      "pred": "B",
+      "GT": "B"
+    },
+    "location": {
+      "pred": "D",
+      "GT": "D"
+    },
+    "road type": {
+      "pred": "B",
+      "GT": "A"
+    },
+    "accident type": {
+      "pred": null,
+      "GT": "B"
+    },
+    "accident reason": {
+      "pred": "D",
+      "GT": "D"
+    },
+    "prevention method": {
+      "pred": "A",
+      "GT": "A"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_58.mp4": {
+    "weather and light": {
+      "pred": "A",
+      "GT": "A"
+    },
+    "location": {
+      "pred": null,
+      "GT": "C"
+    },
+    "road type": {
+      "pred": null,
+      "GT": "D"
+    },
+    "accident type": {
+      "pred": "B",
+      "GT": "B"
+    },
+    "accident reason": {
+      "pred": "D",
+      "GT": "C"
+    },
+    "prevention method": {
+      "pred": "C",
+      "GT": "C"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_59.mp4": {
+    "weather and light": {
+      "pred": "B",
+      "GT": "B"
+    },
+    "location": {
+      "pred": null,
+      "GT": "B"
+    },
+    "road type": {
+      "pred": "B",
+      "GT": "D"
+    },
+    "accident type": {
+      "pred": "B",
+      "GT": "A"
+    },
+    "accident reason": {
+      "pred": "C",
+      "GT": "A"
+    },
+    "prevention method": {
+      "pred": "A",
+      "GT": "C"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_60.mp4": {
+    "weather and light": {
+      "pred": "D",
+      "GT": "D"
+    },
+    "location": {
+      "pred": "D",
+      "GT": "D"
+    },
+    "road type": {
+      "pred": "C",
+      "GT": "B"
+    },
+    "accident type": {
+      "pred": "B",
+      "GT": "A"
+    },
+    "accident reason": {
+      "pred": "D",
+      "GT": "B"
+    },
+    "prevention method": {
+      "pred": "A",
+      "GT": "B"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_61.mp4": {
+    "weather and light": {
+      "pred": "B",
+      "GT": "B"
+    },
+    "location": {
+      "pred": "C",
+      "GT": "C"
+    },
+    "road type": {
+      "pred": "A",
+      "GT": "C"
+    },
+    "accident type": {
+      "pred": "B",
+      "GT": "B"
+    },
+    "accident reason": {
+      "pred": "D",
+      "GT": "D"
+    },
+    "prevention method": {
+      "pred": "D",
+      "GT": "B"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_62.mp4": {
+    "weather and light": {
+      "pred": null,
+      "GT": "C"
+    },
+    "location": {
+      "pred": "C",
+      "GT": "C"
+    },
+    "road type": {
+      "pred": null,
+      "GT": "D"
+    },
+    "accident type": {
+      "pred": "D",
+      "GT": "D"
+    },
+    "accident reason": {
+      "pred": "D",
+      "GT": "A"
+    },
+    "prevention method": {
+      "pred": "C",
+      "GT": "B"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_63.mp4": {
+    "weather and light": {
+      "pred": null,
+      "GT": "D"
+    },
+    "location": {
+      "pred": "C",
+      "GT": "C"
+    },
+    "road type": {
+      "pred": "A",
+      "GT": "A"
+    },
+    "accident type": {
+      "pred": "A",
+      "GT": "A"
+    },
+    "accident reason": {
+      "pred": "B",
+      "GT": "B"
+    },
+    "prevention method": {
+      "pred": "D",
+      "GT": "B"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_64.mp4": {
+    "weather and light": {
+      "pred": "B",
+      "GT": "B"
+    },
+    "location": {
+      "pred": null,
+      "GT": "B"
+    },
+    "road type": {
+      "pred": null,
+      "GT": "C"
+    },
+    "accident type": {
+      "pred": "D",
+      "GT": "D"
+    },
+    "accident reason": {
+      "pred": "D",
+      "GT": "A"
+    },
+    "prevention method": {
+      "pred": "D",
+      "GT": "A"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_65.mp4": {
+    "weather and light": {
+      "pred": null,
+      "GT": "C"
+    },
+    "location": {
+      "pred": null,
+      "GT": "A"
+    },
+    "road type": {
+      "pred": "B",
+      "GT": "B"
+    },
+    "accident type": {
+      "pred": "A",
+      "GT": "B"
+    },
+    "accident reason": {
+      "pred": "C",
+      "GT": "A"
+    },
+    "prevention method": {
+      "pred": "C",
+      "GT": "A"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_66.mp4": {
+    "weather and light": {
+      "pred": null,
+      "GT": "C"
+    },
+    "location": {
+      "pred": null,
+      "GT": "B"
+    },
+    "road type": {
+      "pred": null,
+      "GT": "C"
+    },
+    "accident type": {
+      "pred": null,
+      "GT": "C"
+    },
+    "accident reason": {
+      "pred": "C",
+      "GT": "A"
+    },
+    "prevention method": {
+      "pred": "D",
+      "GT": "B"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_67.mp4": {
+    "weather and light": {
+      "pred": "B",
+      "GT": "B"
+    },
+    "location": {
+      "pred": null,
+      "GT": "D"
+    },
+    "road type": {
+      "pred": null,
+      "GT": "B"
+    },
+    "accident type": {
+      "pred": "C",
+      "GT": "C"
+    },
+    "accident reason": {
+      "pred": "C",
+      "GT": "C"
+    },
+    "prevention method": {
+      "pred": "B",
+      "GT": "B"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_68.mp4": {
+    "weather and light": {
+      "pred": null,
+      "GT": "C"
+    },
+    "location": {
+      "pred": null,
+      "GT": "C"
+    },
+    "road type": {
+      "pred": null,
+      "GT": "D"
+    },
+    "accident type": {
+      "pred": "A",
+      "GT": "A"
+    },
+    "accident reason": {
+      "pred": "C",
+      "GT": "C"
+    },
+    "prevention method": {
+      "pred": "D",
+      "GT": "B"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_69.mp4": {
+    "weather and light": {
+      "pred": "C",
+      "GT": "C"
+    },
+    "location": {
+      "pred": "A",
+      "GT": "A"
+    },
+    "road type": {
+      "pred": "A",
+      "GT": "A"
+    },
+    "accident type": {
+      "pred": "C",
+      "GT": "C"
+    },
+    "accident reason": {
+      "pred": "C",
+      "GT": "B"
+    },
+    "prevention method": {
+      "pred": "C",
+      "GT": "D"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_70.mp4": {
+    "weather and light": {
+      "pred": "B",
+      "GT": "B"
+    },
+    "location": {
+      "pred": null,
+      "GT": "B"
+    },
+    "road type": {
+      "pred": null,
+      "GT": "C"
+    },
+    "accident type": {
+      "pred": "B",
+      "GT": "B"
+    },
+    "accident reason": {
+      "pred": "C",
+      "GT": "D"
+    },
+    "prevention method": {
+      "pred": "D",
+      "GT": "C"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_71.mp4": {
+    "weather and light": {
+      "pred": "B",
+      "GT": "B"
+    },
+    "location": {
+      "pred": null,
+      "GT": "D"
+    },
+    "road type": {
+      "pred": "A",
+      "GT": "C"
+    },
+    "accident type": {
+      "pred": "A",
+      "GT": "A"
+    },
+    "accident reason": {
+      "pred": "B",
+      "GT": "B"
+    },
+    "prevention method": {
+      "pred": "D",
+      "GT": "C"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_72.mp4": {
+    "weather and light": {
+      "pred": "A",
+      "GT": "A"
+    },
+    "location": {
+      "pred": null,
+      "GT": "D"
+    },
+    "road type": {
+      "pred": null,
+      "GT": "D"
+    },
+    "accident type": {
+      "pred": null,
+      "GT": "D"
+    },
+    "accident reason": {
+      "pred": "C",
+      "GT": "B"
+    },
+    "prevention method": {
+      "pred": "B",
+      "GT": "A"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_73.mp4": {
+    "weather and light": {
+      "pred": "A",
+      "GT": "A"
+    },
+    "location": {
+      "pred": null,
+      "GT": "A"
+    },
+    "road type": {
+      "pred": "C",
+      "GT": "B"
+    },
+    "accident type": {
+      "pred": "B",
+      "GT": "B"
+    },
+    "accident reason": {
+      "pred": "D",
+      "GT": "D"
+    },
+    "prevention method": {
+      "pred": "B",
+      "GT": "B"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_74.mp4": {
+    "weather and light": {
+      "pred": "B",
+      "GT": "B"
+    },
+    "location": {
+      "pred": null,
+      "GT": "D"
+    },
+    "road type": {
+      "pred": null,
+      "GT": "B"
+    },
+    "accident type": {
+      "pred": "A",
+      "GT": "A"
+    },
+    "accident reason": {
+      "pred": null,
+      "GT": "A"
+    },
+    "prevention method": {
+      "pred": "A",
+      "GT": "A"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_75.mp4": {
+    "weather and light": {
+      "pred": "C",
+      "GT": "C"
+    },
+    "location": {
+      "pred": null,
+      "GT": "A"
+    },
+    "road type": {
+      "pred": null,
+      "GT": "D"
+    },
+    "accident type": {
+      "pred": "C",
+      "GT": "C"
+    },
+    "accident reason": {
+      "pred": "B",
+      "GT": "B"
+    },
+    "prevention method": {
+      "pred": "C",
+      "GT": "A"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_76.mp4": {
+    "weather and light": {
+      "pred": "B",
+      "GT": "B"
+    },
+    "location": {
+      "pred": null,
+      "GT": "C"
+    },
+    "road type": {
+      "pred": "B",
+      "GT": "B"
+    },
+    "accident type": {
+      "pred": "C",
+      "GT": "B"
+    },
+    "accident reason": {
+      "pred": "D",
+      "GT": "A"
+    },
+    "prevention method": {
+      "pred": "C",
+      "GT": "C"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_77.mp4": {
+    "weather and light": {
+      "pred": "B",
+      "GT": "C"
+    },
+    "location": {
+      "pred": null,
+      "GT": "B"
+    },
+    "road type": {
+      "pred": "A",
+      "GT": "D"
+    },
+    "accident type": {
+      "pred": "A",
+      "GT": "D"
+    },
+    "accident reason": {
+      "pred": "D",
+      "GT": "A"
+    },
+    "prevention method": {
+      "pred": "B",
+      "GT": "B"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_78.mp4": {
+    "weather and light": {
+      "pred": null,
+      "GT": "A"
+    },
+    "location": {
+      "pred": "D",
+      "GT": "D"
+    },
+    "road type": {
+      "pred": "C",
+      "GT": "B"
+    },
+    "accident type": {
+      "pred": "C",
+      "GT": "B"
+    },
+    "accident reason": {
+      "pred": "D",
+      "GT": "A"
+    },
+    "prevention method": {
+      "pred": "D",
+      "GT": "D"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_79.mp4": {
+    "weather and light": {
+      "pred": "A",
+      "GT": "B"
+    },
+    "location": {
+      "pred": "C",
+      "GT": "C"
+    },
+    "road type": {
+      "pred": "A",
+      "GT": "D"
+    },
+    "accident type": {
+      "pred": "C",
+      "GT": "C"
+    },
+    "accident reason": {
+      "pred": "D",
+      "GT": "B"
+    },
+    "prevention method": {
+      "pred": "D",
+      "GT": "A"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_80.mp4": {
+    "weather and light": {
+      "pred": "D",
+      "GT": "C"
+    },
+    "location": {
+      "pred": "C",
+      "GT": "C"
+    },
+    "road type": {
+      "pred": "B",
+      "GT": "D"
+    },
+    "accident type": {
+      "pred": "C",
+      "GT": "A"
+    },
+    "accident reason": {
+      "pred": "C",
+      "GT": "D"
+    },
+    "prevention method": {
+      "pred": "D",
+      "GT": "C"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_81.mp4": {
+    "weather and light": {
+      "pred": "A",
+      "GT": "D"
+    },
+    "location": {
+      "pred": null,
+      "GT": "B"
+    },
+    "road type": {
+      "pred": "A",
+      "GT": "D"
+    },
+    "accident type": {
+      "pred": "B",
+      "GT": "A"
+    },
+    "accident reason": {
+      "pred": "B",
+      "GT": "B"
+    },
+    "prevention method": {
+      "pred": "D",
+      "GT": "D"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_82.mp4": {
+    "weather and light": {
+      "pred": "A",
+      "GT": "D"
+    },
+    "location": {
+      "pred": null,
+      "GT": "B"
+    },
+    "road type": {
+      "pred": null,
+      "GT": "D"
+    },
+    "accident type": {
+      "pred": "B",
+      "GT": "A"
+    },
+    "accident reason": {
+      "pred": "B",
+      "GT": "A"
+    },
+    "prevention method": {
+      "pred": "D",
+      "GT": "D"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_83.mp4": {
+    "weather and light": {
+      "pred": "B",
+      "GT": "A"
+    },
+    "location": {
+      "pred": "A",
+      "GT": "A"
+    },
+    "road type": {
+      "pred": "B",
+      "GT": "B"
+    },
+    "accident type": {
+      "pred": "D",
+      "GT": "D"
+    },
+    "accident reason": {
+      "pred": "D",
+      "GT": "A"
+    },
+    "prevention method": {
+      "pred": "D",
+      "GT": "D"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_84.mp4": {
+    "weather and light": {
+      "pred": "D",
+      "GT": "D"
+    },
+    "location": {
+      "pred": null,
+      "GT": "C"
+    },
+    "road type": {
+      "pred": "B",
+      "GT": "C"
+    },
+    "accident type": {
+      "pred": "B",
+      "GT": "A"
+    },
+    "accident reason": {
+      "pred": "A",
+      "GT": "B"
+    },
+    "prevention method": {
+      "pred": "D",
+      "GT": "D"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_85.mp4": {
+    "weather and light": {
+      "pred": "B",
+      "GT": "A"
+    },
+    "location": {
+      "pred": null,
+      "GT": "A"
+    },
+    "road type": {
+      "pred": "B",
+      "GT": "C"
+    },
+    "accident type": {
+      "pred": "B",
+      "GT": "A"
+    },
+    "accident reason": {
+      "pred": "C",
+      "GT": "C"
+    },
+    "prevention method": {
+      "pred": "C",
+      "GT": "A"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_86.mp4": {
+    "weather and light": {
+      "pred": "D",
+      "GT": "D"
+    },
+    "location": {
+      "pred": null,
+      "GT": "A"
+    },
+    "road type": {
+      "pred": null,
+      "GT": "B"
+    },
+    "accident type": {
+      "pred": "C",
+      "GT": "C"
+    },
+    "accident reason": {
+      "pred": null,
+      "GT": "D"
+    },
+    "prevention method": {
+      "pred": "D",
+      "GT": "D"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_87.mp4": {
+    "weather and light": {
+      "pred": "B",
+      "GT": "B"
+    },
+    "location": {
+      "pred": null,
+      "GT": "C"
+    },
+    "road type": {
+      "pred": "C",
+      "GT": "A"
+    },
+    "accident type": {
+      "pred": "D",
+      "GT": "D"
+    },
+    "accident reason": {
+      "pred": null,
+      "GT": "B"
+    },
+    "prevention method": {
+      "pred": "C",
+      "GT": "A"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_88.mp4": {
+    "weather and light": {
+      "pred": null,
+      "GT": "D"
+    },
+    "location": {
+      "pred": null,
+      "GT": "C"
+    },
+    "road type": {
+      "pred": null,
+      "GT": "D"
+    },
+    "accident type": {
+      "pred": "B",
+      "GT": "B"
+    },
+    "accident reason": {
+      "pred": "B",
+      "GT": "A"
+    },
+    "prevention method": {
+      "pred": "D",
+      "GT": "B"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_89.mp4": {
+    "weather and light": {
+      "pred": "A",
+      "GT": "B"
+    },
+    "location": {
+      "pred": null,
+      "GT": "D"
+    },
+    "road type": {
+      "pred": null,
+      "GT": "D"
+    },
+    "accident type": {
+      "pred": "A",
+      "GT": "A"
+    },
+    "accident reason": {
+      "pred": "C",
+      "GT": "A"
+    },
+    "prevention method": {
+      "pred": "D",
+      "GT": "D"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_90.mp4": {
+    "weather and light": {
+      "pred": "D",
+      "GT": "D"
+    },
+    "location": {
+      "pred": null,
+      "GT": "A"
+    },
+    "road type": {
+      "pred": null,
+      "GT": "D"
+    },
+    "accident type": {
+      "pred": "C",
+      "GT": "C"
+    },
+    "accident reason": {
+      "pred": null,
+      "GT": "D"
+    },
+    "prevention method": {
+      "pred": null,
+      "GT": "B"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_91.mp4": {
+    "weather and light": {
+      "pred": "C",
+      "GT": "C"
+    },
+    "location": {
+      "pred": "C",
+      "GT": "C"
+    },
+    "road type": {
+      "pred": "B",
+      "GT": "D"
+    },
+    "accident type": {
+      "pred": "D",
+      "GT": "D"
+    },
+    "accident reason": {
+      "pred": "D",
+      "GT": "D"
+    },
+    "prevention method": {
+      "pred": "D",
+      "GT": "B"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_92.mp4": {
+    "weather and light": {
+      "pred": "D",
+      "GT": "D"
+    },
+    "location": {
+      "pred": null,
+      "GT": "D"
+    },
+    "road type": {
+      "pred": null,
+      "GT": "A"
+    },
+    "accident type": {
+      "pred": "B",
+      "GT": "B"
+    },
+    "accident reason": {
+      "pred": "B",
+      "GT": "B"
+    },
+    "prevention method": {
+      "pred": "C",
+      "GT": "C"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_93.mp4": {
+    "weather and light": {
+      "pred": null,
+      "GT": "B"
+    },
+    "location": {
+      "pred": null,
+      "GT": "D"
+    },
+    "road type": {
+      "pred": null,
+      "GT": "B"
+    },
+    "accident type": {
+      "pred": "B",
+      "GT": "B"
+    },
+    "accident reason": {
+      "pred": null,
+      "GT": "B"
+    },
+    "prevention method": {
+      "pred": "D",
+      "GT": "A"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_94.mp4": {
+    "weather and light": {
+      "pred": "B",
+      "GT": "B"
+    },
+    "location": {
+      "pred": "B",
+      "GT": "B"
+    },
+    "road type": {
+      "pred": "B",
+      "GT": "D"
+    },
+    "accident type": {
+      "pred": "C",
+      "GT": "C"
+    },
+    "accident reason": {
+      "pred": "A",
+      "GT": "A"
+    },
+    "prevention method": {
+      "pred": "C",
+      "GT": "C"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_95.mp4": {
+    "weather and light": {
+      "pred": "D",
+      "GT": "D"
+    },
+    "location": {
+      "pred": null,
+      "GT": "D"
+    },
+    "road type": {
+      "pred": null,
+      "GT": "C"
+    },
+    "accident type": {
+      "pred": "A",
+      "GT": "A"
+    },
+    "accident reason": {
+      "pred": "D",
+      "GT": "A"
+    },
+    "prevention method": {
+      "pred": "C",
+      "GT": "A"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_96.mp4": {
+    "weather and light": {
+      "pred": "D",
+      "GT": "D"
+    },
+    "location": {
+      "pred": "C",
+      "GT": "C"
+    },
+    "road type": {
+      "pred": "A",
+      "GT": "A"
+    },
+    "accident type": {
+      "pred": null,
+      "GT": "D"
+    },
+    "accident reason": {
+      "pred": "C",
+      "GT": "C"
+    },
+    "prevention method": {
+      "pred": "C",
+      "GT": "A"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_97.mp4": {
+    "weather and light": {
+      "pred": "B",
+      "GT": "A"
+    },
+    "location": {
+      "pred": "C",
+      "GT": "C"
+    },
+    "road type": {
+      "pred": "B",
+      "GT": "D"
+    },
+    "accident type": {
+      "pred": "B",
+      "GT": "B"
+    },
+    "accident reason": {
+      "pred": "C",
+      "GT": "A"
+    },
+    "prevention method": {
+      "pred": "D",
+      "GT": "D"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_98.mp4": {
+    "weather and light": {
+      "pred": "C",
+      "GT": "C"
+    },
+    "location": {
+      "pred": null,
+      "GT": "C"
+    },
+    "road type": {
+      "pred": null,
+      "GT": "C"
+    },
+    "accident type": {
+      "pred": "B",
+      "GT": "B"
+    },
+    "accident reason": {
+      "pred": null,
+      "GT": "D"
+    },
+    "prevention method": {
+      "pred": "D",
+      "GT": "B"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_99.mp4": {
+    "weather and light": {
+      "pred": null,
+      "GT": "D"
+    },
+    "location": {
+      "pred": null,
+      "GT": "C"
+    },
+    "road type": {
+      "pred": "B",
+      "GT": "B"
+    },
+    "accident type": {
+      "pred": "A",
+      "GT": "A"
+    },
+    "accident reason": {
+      "pred": "D",
+      "GT": "C"
+    },
+    "prevention method": {
+      "pred": "C",
+      "GT": "C"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_100.mp4": {
+    "weather and light": {
+      "pred": "C",
+      "GT": "C"
+    },
+    "location": {
+      "pred": null,
+      "GT": "D"
+    },
+    "road type": {
+      "pred": "C",
+      "GT": "C"
+    },
+    "accident type": {
+      "pred": "B",
+      "GT": "C"
+    },
+    "accident reason": {
+      "pred": "A",
+      "GT": "B"
+    },
+    "prevention method": {
+      "pred": "B",
+      "GT": "B"
+    }
+  }
+}

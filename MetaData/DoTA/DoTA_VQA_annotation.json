@@ -1,0 +1,3202 @@
+{
+  "./VRU_videos/DoTA/VRU_1.mp4": {
+    "weather and light": {
+      "question": "What's the weather and lighting? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. cloudy day, B. sunny day, C. stormy night, D. rainy afternoon",
+      "GT": "B"
+    },
+    "location": {
+      "question": "Where did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. urban, B. coastal, C. suburban, D. rural",
+      "GT": "D"
+    },
+    "road type": {
+      "question": "What type of road is shown? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. local, B. residential, C. motorway, D. arterials",
+      "GT": "D"
+    },
+    "accident type": {
+      "question": "What kind of accident occurred? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. pedestrian was hit by surrounding vehicle, B. bicycle falls off the road, C. motorcycle hits a parked car, D. ego-car hits a crossing pedestrian",
+      "GT": "D"
+    },
+    "accident reason": {
+      "question": "Why did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Driver was speeding through the intersection, B. Cyclist does not notice the coming vehicles when crossing the street., C. Another vehicle ran a red light unexpectedly., D. Pedestrian does not notice the coming vehicles when crossing the street",
+      "GT": "D"
+    },
+    "prevention method": {
+      "question": "How could this accident be prevented? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Pedestrians should follow traffic rules, B. Cyclists should wear helmets and use bike lanes, C. Bus drivers should increase their speed to clear intersections faster, D. Motorists should always check their mirrors before making turns",
+      "GT": "A"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_2.mp4": {
+    "weather and light": {
+      "question": "What's the weather and lighting? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. sunny day, B. cloudy evening, C. stormy afternoon, D. rainy morning",
+      "GT": "A"
+    },
+    "location": {
+      "question": "Where did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. urban, B. rural, C. suburban, D. industrial",
+      "GT": "A"
+    },
+    "road type": {
+      "question": "What type of road is shown? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. residential, B. alley, C. arterials, D. highway",
+      "GT": "C"
+    },
+    "accident type": {
+      "question": "What kind of accident occurred? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. bicycle collides with car, B. ego-car hits a crossing pedestrian, C. truck rolls over on highway, D. car hits pedestrian",
+      "GT": "D"
+    },
+    "accident reason": {
+      "question": "Why did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Vehicles do not notice the pedestrians when driving, B. Cyclist does not notice the coming vehicles when crossing the street., C. The road was slippery from rain, D. A tire blew out unexpectedly",
+      "GT": "A"
+    },
+    "prevention method": {
+      "question": "How could this accident be prevented? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Pedestrians should always use designated crosswalks, B. Drivers should strictly follow traffic rules, C. Motorcyclists should wear protective gear while riding, D. Truck drivers should keep a safe distance from other vehicles",
+      "GT": "B"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_3.mp4": {
+    "weather and light": {
+      "question": "What's the weather and lighting? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. cloudy day, B. stormy night, C. rainy afternoon, D. sunny day",
+      "GT": "D"
+    },
+    "location": {
+      "question": "Where did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. rural, B. urban, C. mountain, D. coastal",
+      "GT": "B"
+    },
+    "road type": {
+      "question": "What type of road is shown? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. highway, B. cul-de-sac, C. intersection, D. alley",
+      "GT": "C"
+    },
+    "accident type": {
+      "question": "What kind of accident occurred? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. bicycle collides with car, B. ego-car hits a crossing pedestrian, C. motorcycle crashes into barrier, D. car hits pedestrian",
+      "GT": "D"
+    },
+    "accident reason": {
+      "question": "Why did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Cyclist does not notice the coming vehicles when crossing the street., B. Bicycle suddenly swerved into the street, C. Road construction caused sudden lane changes, D. Pedestrians didn't follow traffic rules",
+      "GT": "D"
+    },
+    "prevention method": {
+      "question": "How could this accident be prevented? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Cyclists should wear reflective clothing for better visibility, B. Bus drivers should adhere to speed limits in urban areas, C. Motorists should avoid texting while driving to ensure safety, D. Pedestrians should follow traffic rules",
+      "GT": "D"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_4.mp4": {
+    "weather and light": {
+      "question": "What's the weather and lighting? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. cloudy evening, B. stormy afternoon, C. sunny day, D. rainy morning",
+      "GT": "C"
+    },
+    "location": {
+      "question": "Where did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. urban, B. rural, C. industrial, D. suburban",
+      "GT": "A"
+    },
+    "road type": {
+      "question": "What type of road is shown? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. arterials, B. residential, C. highway, D. dirt",
+      "GT": "A"
+    },
+    "accident type": {
+      "question": "What kind of accident occurred? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. car rear-ends another car, B. motorbike hits pedestrian, C. bicycle collides with a car, D. truck overturns on highway",
+      "GT": "B"
+    },
+    "accident reason": {
+      "question": "Why did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Pedestrian does not notice the coming cyclists when crossing the street., B. Pedestrian does not notice the coming vehicles when crossing the street., C. Cyclist does not notice the coming vehicles when crossing the street., D. Road was slippery due to rain",
+      "GT": "A"
+    },
+    "prevention method": {
+      "question": "How could this accident be prevented? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Pedestrians should follow traffic rules, B. Cyclists should wear helmets and use bike lanes, C. Bus drivers should stop at every red light without exception, D. Motorists should keep their headlights on during the day",
+      "GT": "A"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_5.mp4": {
+    "weather and light": {
+      "question": "What's the weather and lighting? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. cloudy day, B. clear night, C. stormy night, D. foggy evening",
+      "GT": "B"
+    },
+    "location": {
+      "question": "Where did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. urban, B. rural, C. suburban, D. coastal",
+      "GT": "B"
+    },
+    "road type": {
+      "question": "What type of road is shown? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. local, B. express, C. residential, D. arterials",
+      "GT": "D"
+    },
+    "accident type": {
+      "question": "What kind of accident occurred? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. car collides with another car, B. ego-car hits a pedestrian, C. bicycle crashes into a fence, D. motorcycle falls off the road",
+      "GT": "B"
+    },
+    "accident reason": {
+      "question": "Why did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. poor road conditions led to the accident, B. Vehicle malfunction caused the crash, C. Speeding car lost control on the turn, D. Pedestrian moves or stays on the road",
+      "GT": "D"
+    },
+    "prevention method": {
+      "question": "How could this accident be prevented? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Cyclists should use designated bike lanes at all times, B. Bus drivers need to ensure all passengers are seated before moving, C. Motorists should always check their mirrors before changing lanes, D. Pedestrians should follow traffic rules",
+      "GT": "D"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_6.mp4": {
+    "weather and light": {
+      "question": "What's the weather and lighting? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. cloudy day, B. stormy night, C. clear night, D. foggy evening",
+      "GT": "C"
+    },
+    "location": {
+      "question": "Where did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. urban, B. suburban, C. rural, D. coastal",
+      "GT": "C"
+    },
+    "road type": {
+      "question": "What type of road is shown? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. arterials, B. residential, C. highway, D. alley",
+      "GT": "A"
+    },
+    "accident type": {
+      "question": "What kind of accident occurred? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. car rear-ends another vehicle, B. bicycle collides with a car, C. motorcycle crashes into a fence, D. ego-car hits a pedestrian",
+      "GT": "D"
+    },
+    "accident reason": {
+      "question": "Why did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. poor road conditions led to the accident, B. Cyclist does not notice the coming vehicles when crossing the street., C. The vehicle evades other vehicles, pedestrians or objects and changes lanes emergently, D. Road conditions were icy and slippery",
+      "GT": "C"
+    },
+    "prevention method": {
+      "question": "How could this accident be prevented? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Vehicles should maintain a safe following distance for emergency braking, B. Motorcyclists should wear bright colors to increase visibility on the road, C. Bus drivers should regularly check their mirrors for blind spots before merging, D. Cyclists should use hand signals to indicate their turns and stops clearly",
+      "GT": "A"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_7.mp4": {
+    "weather and light": {
+      "question": "What's the weather and lighting? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. clear night, B. cloudy day, C. stormy evening, D. rainy night",
+      "GT": "A"
+    },
+    "location": {
+      "question": "Where did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. rural, B. suburban, C. highway, D. urban",
+      "GT": "D"
+    },
+    "road type": {
+      "question": "What type of road is shown? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. residential, B. industrial, C. arterials, D. expressway",
+      "GT": "C"
+    },
+    "accident type": {
+      "question": "What kind of accident occurred? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. bicycle collides with car, B. ego-car hits a crossing pedestrian, C. truck overturns on highway, D. car hits pedestrian",
+      "GT": "D"
+    },
+    "accident reason": {
+      "question": "Why did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Driver was texting while driving, B. Pedestrians didn't follow traffic rules, C. Road was slippery due to rain, D. Cyclist does not notice the coming vehicles when crossing the street.",
+      "GT": "B"
+    },
+    "prevention method": {
+      "question": "How could this accident be prevented? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Pedestrians should follow traffic rules, B. Cyclists should wear bright colors to increase visibility, C. Bus drivers should avoid stopping in pedestrian zones, D. Motorists should always check their mirrors before turning",
+      "GT": "A"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_8.mp4": {
+    "weather and light": {
+      "question": "What's the weather and lighting? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. snowy day, B. cloudy day, C. stormy night, D. rainy evening",
+      "GT": "A"
+    },
+    "location": {
+      "question": "Where did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. urban, B. rural, C. suburban, D. industrial",
+      "GT": "A"
+    },
+    "road type": {
+      "question": "What type of road is shown? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. residential, B. highway, C. alley, D. arterials",
+      "GT": "D"
+    },
+    "accident type": {
+      "question": "What kind of accident occurred? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. bicycle collides with car, B. ego-car hits a crossing pedestrian, C. car hits pedestrian, D. truck overturns on highway",
+      "GT": "C"
+    },
+    "accident reason": {
+      "question": "Why did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Cyclist does not notice the coming vehicles when crossing the street., B. Poor road conditions caused the crash, C. Road was slippery due to rain while driving, D. Vehicles do not notice the pedestrians when driving",
+      "GT": "D"
+    },
+    "prevention method": {
+      "question": "How could this accident be prevented? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Motorcyclists should wear proper safety gear, B. Pedestrians should be more vigilant at crossings, C. Drivers should obey speed limits, D. Cyclists should signal their turns more clearly",
+      "GT": "C"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_9.mp4": {
+    "weather and light": {
+      "question": "What's the weather and lighting? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. cloudy evening, B. stormy afternoon, C. foggy morning, D. sunny day",
+      "GT": "D"
+    },
+    "location": {
+      "question": "Where did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. rural, B. suburban, C. urban, D. remote",
+      "GT": "C"
+    },
+    "road type": {
+      "question": "What type of road is shown? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. local, B. express, C. arterials, D. highway",
+      "GT": "C"
+    },
+    "accident type": {
+      "question": "What kind of accident occurred? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. bicycle collides with car, B. ego-car hits a crossing pedestrian, C. truck overturns on road, D. car hits pedestrian",
+      "GT": "D"
+    },
+    "accident reason": {
+      "question": "Why did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Driver was speeding through the intersection, B. Cyclist does not notice the coming vehicles when crossing the street., C. Pedestrians didn't follow traffic rules, D. Car malfunction caused sudden stop",
+      "GT": "C"
+    },
+    "prevention method": {
+      "question": "How could this accident be prevented? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Pedestrians should follow traffic rules, B. Cyclists should wear bright clothing to increase visibility, C. Bus drivers should stop at all traffic signals to ensure safety, D. Skateboarders should avoid riding on busy streets during peak hours",
+      "GT": "A"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_10.mp4": {
+    "weather and light": {
+      "question": "What's the weather and lighting? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. sunny day, B. cloudy evening, C. stormy afternoon, D. foggy morning",
+      "GT": "A"
+    },
+    "location": {
+      "question": "Where did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. rural, B. coastal, C. mountainous, D. urban",
+      "GT": "D"
+    },
+    "road type": {
+      "question": "What type of road is shown? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. intersection, B. highway, C. cul-de-sac, D. alley",
+      "GT": "A"
+    },
+    "accident type": {
+      "question": "What kind of accident occurred? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. car hits pedestrian, B. bicycle collides with car, C. ego-car hits a crossing pedestrian, D. truck rolls over on highway",
+      "GT": "A"
+    },
+    "accident reason": {
+      "question": "Why did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Cyclist does not notice the coming vehicles when crossing the street., B. Car malfunction caused the crash, C. Pedestrians didn't follow traffic rules, D. Bicyclist suddenly swerved into traffic",
+      "GT": "C"
+    },
+    "prevention method": {
+      "question": "How could this accident be prevented? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Cyclists should wear helmets and follow traffic signals, B. Pedestrians should follow traffic rules, C. Bus drivers should drive at lower speeds in busy areas, D. Motorists should always check their mirrors before changing lanes",
+      "GT": "B"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_11.mp4": {
+    "weather and light": {
+      "question": "What's the weather and lighting? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. cloudy day, B. clear night, C. stormy evening, D. foggy afternoon",
+      "GT": "B"
+    },
+    "location": {
+      "question": "Where did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. intersection, B. highway, C. parking lot, D. city street",
+      "GT": "B"
+    },
+    "road type": {
+      "question": "What type of road is shown? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. arterials, B. streets, C. highways, D. lanes",
+      "GT": "A"
+    },
+    "accident type": {
+      "question": "What kind of accident occurred? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. ego-car hits a pedestrian, B. car collides with another vehicle, C. bicycle hits a parked car, D. motorcycle skids on wet road",
+      "GT": "A"
+    },
+    "accident reason": {
+      "question": "Why did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Driver was speeding through the intersection, B. Vehicle brake failure caused the crash, C. Pedestrian moves or stays on the road, D. Distracted driver was using their phone",
+      "GT": "C"
+    },
+    "prevention method": {
+      "question": "How could this accident be prevented? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Cyclists should wear bright clothing to enhance visibility, B. Pedestrians should follow traffic rules, C. Bus drivers must maintain a safe distance from pedestrians, D. Motorists should always check their mirrors before turning",
+      "GT": "B"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_12.mp4": {
+    "weather and light": {
+      "question": "What's the weather and lighting? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. cloudy day, B. stormy night, C. clear night, D. foggy evening",
+      "GT": "C"
+    },
+    "location": {
+      "question": "Where did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. urban, B. rural, C. suburban, D. coastal",
+      "GT": "A"
+    },
+    "road type": {
+      "question": "What type of road is shown? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. highway, B. cul-de-sac, C. intersection, D. alley",
+      "GT": "C"
+    },
+    "accident type": {
+      "question": "What kind of accident occurred? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. bicycle collides with car, B. ego-car hits a crossing pedestrian, C. truck overturns on highway, D. car hits pedestrian",
+      "GT": "D"
+    },
+    "accident reason": {
+      "question": "Why did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. driver was texting on their phone, B. Cyclist does not notice the coming vehicles when crossing the street., C. vehicles run red light, D. vehicle lost control on a wet road",
+      "GT": "C"
+    },
+    "prevention method": {
+      "question": "How could this accident be prevented? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Motorcyclists should wear protective gear while riding, B. Pedestrians should always look both ways before crossing, C. Bus drivers should avoid driving during inclement weather, D. Drivers should strictly follow traffic rules",
+      "GT": "D"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_13.mp4": {
+    "weather and light": {
+      "question": "What's the weather and lighting? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. cloudy night, B. stormy day, C. sunny day, D. rainy evening",
+      "GT": "C"
+    },
+    "location": {
+      "question": "Where did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. rural, B. urban, C. suburban, D. mountain",
+      "GT": "B"
+    },
+    "road type": {
+      "question": "What type of road is shown? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. residential, B. arterials, C. motorway, D. alley",
+      "GT": "B"
+    },
+    "accident type": {
+      "question": "What kind of accident occurred? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. bicycle collides with car, B. ego-car hits a crossing pedestrian, C. truck rear-ends another truck, D. car hits pedestrian",
+      "GT": "D"
+    },
+    "accident reason": {
+      "question": "Why did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Driver was speeding through the intersection, B. Pedestrian runs or stays onto the road, C. Cyclist does not notice the coming vehicles when crossing the street., D. Car engine malfunction caused sudden stop",
+      "GT": "B"
+    },
+    "prevention method": {
+      "question": "How could this accident be prevented? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Cyclists should wear helmets and use bike lanes, B. Bus drivers should maintain a safe distance from pedestrians, C. Motorists should stop at red lights and check for pedestrians, D. Pedestrians should follow traffic rules.",
+      "GT": "D"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_14.mp4": {
+    "weather and light": {
+      "question": "What's the weather and lighting? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. sunny day, B. cloudy night, C. stormy day, D. rainy evening",
+      "GT": "A"
+    },
+    "location": {
+      "question": "Where did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. rural, B. suburban, C. urban, D. industrial",
+      "GT": "C"
+    },
+    "road type": {
+      "question": "What type of road is shown? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. arterials, B. local, C. alley, D. expressway",
+      "GT": "A"
+    },
+    "accident type": {
+      "question": "What kind of accident occurred? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. pedestrian was hit by surrounding vehicle, B. ego-car hits a crossing pedestrian, C. bicycle collides with parked car, D. motorcycle skids on wet road",
+      "GT": "B"
+    },
+    "accident reason": {
+      "question": "Why did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Cyclist does not notice the coming vehicles when crossing the street., B. road construction caused a sudden stop, C. Road was slippery due to rain, D. vehicles drive too fast with short braking distance",
+      "GT": "D"
+    },
+    "prevention method": {
+      "question": "How could this accident be prevented? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Drivers should slow down and yield at zebra crossings, B. Pedestrians should look both ways before crossing the street, C. Motorcyclists should maintain a safe distance from other vehicles, D. Bus drivers should always use turn signals when changing lanes",
+      "GT": "A"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_15.mp4": {
+    "weather and light": {
+      "question": "What's the weather and lighting? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. cloudy day, B. stormy night, C. rainy evening, D. clear night",
+      "GT": "D"
+    },
+    "location": {
+      "question": "Where did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. rural, B. highway, C. mountain, D. urban",
+      "GT": "D"
+    },
+    "road type": {
+      "question": "What type of road is shown? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. local, B. express, C. cul-de-sac, D. arterials",
+      "GT": "D"
+    },
+    "accident type": {
+      "question": "What kind of accident occurred? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. car rear-ends a stopped vehicle, B. ego-car hits a crossing cyclist, C. truck collides with a pedestrian, D. motorcycle crashes into a guardrail",
+      "GT": "B"
+    },
+    "accident reason": {
+      "question": "Why did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Cyclist does not notice the coming vehicles when crossing the street., B. The pedestrian crossed the road at a location other than a crosswalk, C. The traffic lights were malfunctioning, D. The road was slippery due to rain",
+      "GT": "B"
+    },
+    "prevention method": {
+      "question": "How could this accident be prevented? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Motorists should always check their blind spots before changing lanes, B. Cyclists should wear helmets and reflective gear while riding, C. Pedestrians must use crosswalks and wait for the green signal, D. Cyclists should strictly follow traffic rules and stop at red lights",
+      "GT": "C"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_16.mp4": {
+    "weather and light": {
+      "question": "What's the weather and lighting? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. cloudy evening, B. stormy afternoon, C. sunny day, D. rainy morning",
+      "GT": "C"
+    },
+    "location": {
+      "question": "Where did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. rural, B. urban, C. suburban, D. highway",
+      "GT": "B"
+    },
+    "road type": {
+      "question": "What type of road is shown? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. arterials, B. residential, C. highway, D. alley",
+      "GT": "A"
+    },
+    "accident type": {
+      "question": "What kind of accident occurred? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. ego-car hits a crossing pedestrian, B. car hits pedestrian, C. motorcycle crashes into tree, D. truck hits another truck",
+      "GT": "B"
+    },
+    "accident reason": {
+      "question": "Why did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Driver was speeding through a red light, B. Vehicles do not notice the pedestrians when driving, C. Heavy rain caused poor visibility for everyone, D. Mechanical failure in the vehicle led to the crash",
+      "GT": "B"
+    },
+    "prevention method": {
+      "question": "How could this accident be prevented? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Cyclists should wear bright clothing while riding, B. Bus drivers should reduce speed near busy intersections, C. Pedestrians should follow traffic rules, D. Skateboarders should avoid riding on crowded sidewalks",
+      "GT": "C"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_17.mp4": {
+    "weather and light": {
+      "question": "What's the weather and lighting? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. cloudy evening, B. sunny day, C. stormy afternoon, D. foggy morning",
+      "GT": "B"
+    },
+    "location": {
+      "question": "Where did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. rural, B. urban, C. suburban, D. industrial",
+      "GT": "B"
+    },
+    "road type": {
+      "question": "What type of road is shown? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. residential, B. highway, C. alley, D. arterials",
+      "GT": "D"
+    },
+    "accident type": {
+      "question": "What kind of accident occurred? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. car collision at intersection, B. bicycle crash on sidewalk, C. cyclist hits pedestrian, D. motorcycle spill on highway",
+      "GT": "C"
+    },
+    "accident reason": {
+      "question": "Why did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Cyclist runs the red light, B. Cyclist does not notice the coming vehicles when crossing the street., C. Vehicle malfunction caused the crash, D. Pedestrian stepped into the road unexpectedly",
+      "GT": "A"
+    },
+    "prevention method": {
+      "question": "How could this accident be prevented? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Drivers should always check their mirrors before changing lanes, B. Pedestrians should use designated crosswalks at all times, C. Cyclists should stay alert to their surroundings, D. Motorists should reduce their speed in busy areas to prevent accidents",
+      "GT": "C"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_18.mp4": {
+    "weather and light": {
+      "question": "What's the weather and lighting? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. sunny day, B. cloudy evening, C. stormy afternoon, D. rainy morning",
+      "GT": "A"
+    },
+    "location": {
+      "question": "Where did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. rural, B. coastal, C. urban, D. mountainous",
+      "GT": "C"
+    },
+    "road type": {
+      "question": "What type of road is shown? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. arterials, B. residential, C. highway, D. alley",
+      "GT": "A"
+    },
+    "accident type": {
+      "question": "What kind of accident occurred? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. bicycle collides with car, B. ego-car hits a crossing pedestrian, C. car hits pedestrian, D. truck hits a traffic light",
+      "GT": "C"
+    },
+    "accident reason": {
+      "question": "Why did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Pedestrian does not notice the coming vehicles when crossing the street., B. Driver was speeding through the intersection, C. Cyclist does not notice the coming vehicles when crossing the street., D. Car malfunction caused sudden brake failure",
+      "GT": "A"
+    },
+    "prevention method": {
+      "question": "How could this accident be prevented? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Cyclists should wear reflective clothing while riding, B. Bus drivers should maintain a safe distance from pedestrians, C. Pedestrians should follow traffic rules, D. Motorists should always check their mirrors before turning",
+      "GT": "C"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_19.mp4": {
+    "weather and light": {
+      "question": "What's the weather and lighting? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. cloudy night, B. rainy day, C. sunny day, D. stormy evening",
+      "GT": "C"
+    },
+    "location": {
+      "question": "Where did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. urban, B. rural, C. suburban, D. industrial",
+      "GT": "A"
+    },
+    "road type": {
+      "question": "What type of road is shown? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. residential, B. motorway, C. arterials, D. alley",
+      "GT": "C"
+    },
+    "accident type": {
+      "question": "What kind of accident occurred? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. bicycle collides with car, B. car hits pedestrian, C. ego-car hits a crossing pedestrian, D. truck overturns on highway",
+      "GT": "B"
+    },
+    "accident reason": {
+      "question": "Why did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Cyclist does not notice the coming vehicles when crossing the street., B. Vehicle malfunction caused the crash, C. Cyclist ignored traffic signals completely, D. Pedestrian didn't follow traffic rules.",
+      "GT": "D"
+    },
+    "prevention method": {
+      "question": "How could this accident be prevented? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Pedestrians should follow traffic rules, B. Cyclists should wear bright clothing to enhance visibility, C. Bus drivers should check their mirrors more frequently, D. Skateboarders should avoid riding near busy intersections",
+      "GT": "A"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_20.mp4": {
+    "weather and light": {
+      "question": "What's the weather and lighting? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. snowy day, B. cloudy day, C. rainy night, D. stormy evening",
+      "GT": "A"
+    },
+    "location": {
+      "question": "Where did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. rural, B. urban, C. suburban, D. industrial",
+      "GT": "B"
+    },
+    "road type": {
+      "question": "What type of road is shown? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. residential, B. motorway, C. arterials, D. alley",
+      "GT": "C"
+    },
+    "accident type": {
+      "question": "What kind of accident occurred? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. bicycle collides with car, B. car hits pedestrian, C. motorcycle crashes into wall, D. ego-car hits a crossing pedestrian",
+      "GT": "B"
+    },
+    "accident reason": {
+      "question": "Why did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. poor road conditions led to the accident, B. The road was under construction, C. Cyclist does not notice the coming vehicles when crossing the street., D. Vehicles do not notice the pedestrians when driving",
+      "GT": "D"
+    },
+    "prevention method": {
+      "question": "How could this accident be prevented? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Drivers should slow down and yield at zebra crossings at intersection, B. Bus drivers should maintain a safe distance and check mirrors frequently, C. Motorcyclists should wear protective gear and stay within speed limits, D. Pedestrians should always look both ways before crossing the street",
+      "GT": "D"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_21.mp4": {
+    "weather and light": {
+      "question": "What's the weather and lighting? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. cloudy day, B. snowy day, C. rainy night, D. stormy evening",
+      "GT": "B"
+    },
+    "location": {
+      "question": "Where did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. rural, B. suburban, C. industrial, D. urban",
+      "GT": "D"
+    },
+    "road type": {
+      "question": "What type of road is shown? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. local, B. arterials, C. expressway, D. alley",
+      "GT": "B"
+    },
+    "accident type": {
+      "question": "What kind of accident occurred? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. pedestrian was hit by surrounding vehicle, B. motorcycle crashes into a fence, C. ego-car hits a crossing pedestrian, D. bicycle falls off a sidewalk",
+      "GT": "C"
+    },
+    "accident reason": {
+      "question": "Why did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Pedestrian didn't follow traffic rules, B. Driver was speeding through the intersection, C. Cyclist does not notice the coming vehicles when crossing the street., D. Road was icy and slippery",
+      "GT": "A"
+    },
+    "prevention method": {
+      "question": "How could this accident be prevented? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Cyclists should wear helmets while riding near traffic, B. Bus drivers should always check their mirrors before turning, C. Pedestrians should follow traffic rules, D. Motorists should avoid using mobile phones while driving",
+      "GT": "C"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_22.mp4": {
+    "weather and light": {
+      "question": "What's the weather and lighting? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. clear night, B. cloudy day, C. stormy evening, D. rainy night",
+      "GT": "A"
+    },
+    "location": {
+      "question": "Where did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. rural, B. urban, C. suburban, D. industrial",
+      "GT": "B"
+    },
+    "road type": {
+      "question": "What type of road is shown? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. highway, B. alley, C. cul-de-sac, D. arterials",
+      "GT": "D"
+    },
+    "accident type": {
+      "question": "What kind of accident occurred? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. ego-car hits a pedestrian, B. car collides with another vehicle, C. motorcycle overturns on the road, D. bicycle crashes into a fence",
+      "GT": "A"
+    },
+    "accident reason": {
+      "question": "Why did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Cyclist does not notice the coming vehicles when crossing the street., B. Vehicle lost control on the wet road, C. Pedestrian moves or stays on the road, D. Traffic signal was malfunctioning at the intersection",
+      "GT": "C"
+    },
+    "prevention method": {
+      "question": "How could this accident be prevented? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Pedestrians should follow traffic rules, B. Cyclists should wear helmets and use bike lanes, C. Bus drivers need to maintain a safe distance from pedestrians, D. Motorists should always check their mirrors before turning",
+      "GT": "A"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_23.mp4": {
+    "weather and light": {
+      "question": "What's the weather and lighting? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. cloudy day, B. stormy evening, C. rainy night, D. sunny day",
+      "GT": "D"
+    },
+    "location": {
+      "question": "Where did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. rural, B. coastal, C. urban, D. mountainous",
+      "GT": "C"
+    },
+    "road type": {
+      "question": "What type of road is shown? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. local, B. arterials, C. express, D. residential",
+      "GT": "B"
+    },
+    "accident type": {
+      "question": "What kind of accident occurred? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. car hits pedestrian, B. bicycle collides with car, C. ego-car hits a crossing pedestrian, D. truck overturns on highway",
+      "GT": "A"
+    },
+    "accident reason": {
+      "question": "Why did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. poor road conditions led to the accident, B. Road was slippery due to rain, C. Pedestrian moves or stays on the road, D. Road was slippery due to rain",
+      "GT": "C"
+    },
+    "prevention method": {
+      "question": "How could this accident be prevented? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Pedestrians should follow traffic rules, B. Cyclists should wear helmets and use bike lanes, C. Bus drivers should maintain a safe distance from pedestrians, D. Motorists should always check their mirrors before changing lanes",
+      "GT": "A"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_24.mp4": {
+    "weather and light": {
+      "question": "What's the weather and lighting? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. clear night, B. cloudy day, C. stormy evening, D. rainy night",
+      "GT": "A"
+    },
+    "location": {
+      "question": "Where did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. rural, B. coastal, C. suburban, D. urban",
+      "GT": "D"
+    },
+    "road type": {
+      "question": "What type of road is shown? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. residential, B. arterials, C. motorway, D. alley",
+      "GT": "B"
+    },
+    "accident type": {
+      "question": "What kind of accident occurred? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. ego-car hits a pedestrian, B. car collides with another vehicle, C. bicycle crashes into a fence, D. motorcycle veers off the road",
+      "GT": "A"
+    },
+    "accident reason": {
+      "question": "Why did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. poor road conditions led to the accident, B. The vehicle evades other vehicles, pedestrians or objects and changes lanes emergently, C. Cyclist does not notice the coming vehicles when crossing the street., D. Weather conditions were perfect for driving",
+      "GT": "B"
+    },
+    "prevention method": {
+      "question": "How could this accident be prevented? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Vehicles should maintain a safe following distance for emergency braking, B. Truck drivers should ensure their loads are properly secured to prevent shifting, C. Bicyclists should always wear helmets to improve their safety on the road, D. Motorists should regularly check their brakes to ensure they are functioning properly",
+      "GT": "A"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_25.mp4": {
+    "weather and light": {
+      "question": "What's the weather and lighting? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. snowy day, B. cloudy afternoon, C. stormy evening, D. rainy morning",
+      "GT": "A"
+    },
+    "location": {
+      "question": "Where did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. rural, B. urban, C. suburban, D. highway",
+      "GT": "B"
+    },
+    "road type": {
+      "question": "What type of road is shown? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. local, B. express, C. cul-de-sac, D. arterials",
+      "GT": "D"
+    },
+    "accident type": {
+      "question": "What kind of accident occurred? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. car collides with another car, B. bicycle hits a parked car, C. ego-car hits a pedestrian, D. motorcycle skids on wet road",
+      "GT": "C"
+    },
+    "accident reason": {
+      "question": "Why did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. poor road conditions led to the accident, B. Vehicles do not notice the pedestrians when driving, C. Road was slippery due to rain, D. Weather conditions were extremely poor",
+      "GT": "B"
+    },
+    "prevention method": {
+      "question": "How could this accident be prevented? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. drivers should maintain a safe distance from other vehicles to avoid collisions, B. bus drivers need to watch for pedestrians crossing the street unexpectedly, C. motorcyclists should avoid sudden lane changes when approaching traffic lights, D. vehicles's vision are blocked and there is no time to brake",
+      "GT": "D"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_26.mp4": {
+    "weather and light": {
+      "question": "What's the weather and lighting? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. cloudy night, B. rainy afternoon, C. stormy evening, D. sunny day",
+      "GT": "D"
+    },
+    "location": {
+      "question": "Where did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. rural, B. suburban, C. industrial, D. urban",
+      "GT": "D"
+    },
+    "road type": {
+      "question": "What type of road is shown? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. residential, B. motorway, C. alley, D. arterials",
+      "GT": "D"
+    },
+    "accident type": {
+      "question": "What kind of accident occurred? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. bicycle hits parked car, B. truck collides with another truck, C. car hits pedestrian, D. ego-car hits a crossing pedestrian",
+      "GT": "C"
+    },
+    "accident reason": {
+      "question": "Why did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Cyclist does not notice the coming vehicles when crossing the street., B. Pedestrian moves or stays onto road, C. Vehicle speeding through the intersection, D. Obstructed view due to parked cars",
+      "GT": "B"
+    },
+    "prevention method": {
+      "question": "How could this accident be prevented? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Pedestrians should follow traffic rules., B. Drivers should watch for pedestrians while making turns, C. Cyclists should always wear helmets when riding near traffic, D. Bus drivers should signal before stopping at bus stops",
+      "GT": "A"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_27.mp4": {
+    "weather and light": {
+      "question": "What's the weather and lighting? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. cloudy evening, B. stormy afternoon, C. sunny day, D. rainy morning",
+      "GT": "C"
+    },
+    "location": {
+      "question": "Where did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. rural, B. urban, C. coastal, D. mountainous",
+      "GT": "B"
+    },
+    "road type": {
+      "question": "What type of road is shown? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. roundabout, B. T-junction, C. intersection, D. cul-de-sac",
+      "GT": "B"
+    },
+    "accident type": {
+      "question": "What kind of accident occurred? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. bicycle collides with car, B. car hits pedestrian, C. ego-car hits a crossing pedestrian, D. truck overturns on highway",
+      "GT": "B"
+    },
+    "accident reason": {
+      "question": "Why did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Driver was speeding through the intersection, B. Bicycle suddenly swerved into traffic, C. Cyclist does not notice the coming vehicles when crossing the street., D. Pedestrian suddenly moves onto road.",
+      "GT": "D"
+    },
+    "prevention method": {
+      "question": "How could this accident be prevented? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Cyclists should wear reflective gear at night, B. Pedestrians should follow traffic rules, C. Bus drivers should stop at every bus stop to ensure safety, D. Motorists should always check their blind spots before turning",
+      "GT": "B"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_28.mp4": {
+    "weather and light": {
+      "question": "What's the weather and lighting? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. cloudy evening, B. rainy afternoon, C. stormy night, D. sunny day",
+      "GT": "D"
+    },
+    "location": {
+      "question": "Where did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. rural, B. suburban, C. remote, D. urban",
+      "GT": "D"
+    },
+    "road type": {
+      "question": "What type of road is shown? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. residential, B. arterials, C. motorway, D. alley",
+      "GT": "B"
+    },
+    "accident type": {
+      "question": "What kind of accident occurred? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. car rear-ends another vehicle, B. bicycle collides with a car, C. motorcycle crashes into a wall, D. truck hits pedestrian",
+      "GT": "D"
+    },
+    "accident reason": {
+      "question": "Why did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Cyclist does not notice the coming vehicles when crossing the street., B. Pedestrian does not notice the coming bus when crossing the street., C. Pedestrian failed to escape from bus., D. Road conditions were icy and slippery",
+      "GT": "C"
+    },
+    "prevention method": {
+      "question": "How could this accident be prevented? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Drivers should see surrounding before starting to move., B. Pedestrians should remain alert and avoid crossing at red lights, C. Motorcyclists should wear protective gear and ride cautiously, D. Traffic authorities should increase the number of speed bumps on roads",
+      "GT": "A"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_29.mp4": {
+    "weather and light": {
+      "question": "What's the weather and lighting? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. cloudy evening, B. stormy afternoon, C. snowy day, D. rainy morning",
+      "GT": "C"
+    },
+    "location": {
+      "question": "Where did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. urban, B. rural, C. mountainous, D. coastal",
+      "GT": "A"
+    },
+    "road type": {
+      "question": "What type of road is shown? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. residential, B. motorway, C. alley, D. arterials",
+      "GT": "D"
+    },
+    "accident type": {
+      "question": "What kind of accident occurred? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. car hits pedestrian, B. bicycle collides with car, C. motorcycle crashes into tree, D. ego-car hits a crossing pedestrian",
+      "GT": "A"
+    },
+    "accident reason": {
+      "question": "Why did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Cyclist does not notice the coming vehicles when crossing the street., B. Bad weather made the road slippery, C. Mechanical failure caused the vehicle to stop, D. Vehicles do not notice the pedestrians when driving",
+      "GT": "D"
+    },
+    "prevention method": {
+      "question": "How could this accident be prevented? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Pedestrians should always use designated crosswalks, B. Drivers should strictly follow traffic rules, C. Bus drivers should maintain a safe distance from other vehicles, D. Motorcyclists should wear protective gear at all times",
+      "GT": "B"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_30.mp4": {
+    "weather and light": {
+      "question": "What's the weather and lighting? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. cloudy day, B. snowy day, C. stormy evening, D. rainy afternoon",
+      "GT": "B"
+    },
+    "location": {
+      "question": "Where did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. rural, B. urban, C. suburban, D. industrial",
+      "GT": "B"
+    },
+    "road type": {
+      "question": "What type of road is shown? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. local, B. arterials, C. highway, D. cul-de-sac",
+      "GT": "B"
+    },
+    "accident type": {
+      "question": "What kind of accident occurred? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. car hits pedestrian, B. bicycle collides with car, C. ego-car hits a crossing pedestrian, D. truck overturns on highway",
+      "GT": "A"
+    },
+    "accident reason": {
+      "question": "Why did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. poor road conditions led to the accident, B. vehicles drive too fast with short braking distance, C. Cyclist does not notice the coming vehicles when crossing the street., D. road was under construction with no signs",
+      "GT": "B"
+    },
+    "prevention method": {
+      "question": "How could this accident be prevented? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Motorcyclists should increase their visibility by wearing bright colors in low light conditions, B. Bus drivers should conduct regular maintenance checks to ensure vehicle safety before long trips, C. Cyclists should always use crosswalks to avoid accidents in busy areas, D. Vehicles should avoid speeding in bad weather or on challenging roads like mountains and curves",
+      "GT": "D"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_31.mp4": {
+    "weather and light": {
+      "question": "What's the weather and lighting? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. cloudy evening, B. rainy afternoon, C. stormy night, D. snowy day",
+      "GT": "D"
+    },
+    "location": {
+      "question": "Where did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. rural, B. urban, C. suburban, D. highway",
+      "GT": "B"
+    },
+    "road type": {
+      "question": "What type of road is shown? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. residential, B. highway, C. dirt, D. arterials",
+      "GT": "D"
+    },
+    "accident type": {
+      "question": "What kind of accident occurred? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. pedestrian was hit by surrounding vehicle, B. bicycle rider falls off bike, C. motorcycle crashes into a wall, D. ego-car hits a crossing pedestrian",
+      "GT": "D"
+    },
+    "accident reason": {
+      "question": "Why did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Driver was speeding through the intersection, B. Pedestrian suddenly runs onto road, C. Cyclist does not notice the coming vehicles when crossing the street., D. Distracted driver was texting while driving",
+      "GT": "B"
+    },
+    "prevention method": {
+      "question": "How could this accident be prevented? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Cyclists should wear helmets while riding on the road, B. Pedestrians should follow traffic rules, C. Bus drivers should ensure all passengers are seated before moving, D. Motorists should avoid using their phones while driving",
+      "GT": "B"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_32.mp4": {
+    "weather and light": {
+      "question": "What's the weather and lighting? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. sunny day, B. cloudy evening, C. stormy afternoon, D. foggy morning",
+      "GT": "A"
+    },
+    "location": {
+      "question": "Where did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. rural, B. suburban, C. industrial, D. urban",
+      "GT": "D"
+    },
+    "road type": {
+      "question": "What type of road is shown? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. roundabout, B. intersection, C. cul-de-sac, D. T-junction",
+      "GT": "D"
+    },
+    "accident type": {
+      "question": "What kind of accident occurred? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. bicycle collides with another bike, B. ego-car hits a crossing pedestrian, C. car hits pedestrian, D. motorcycle crashes into a guardrail",
+      "GT": "C"
+    },
+    "accident reason": {
+      "question": "Why did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Driver was speeding through the intersection, B. Cyclist does not notice the coming vehicles when crossing the street., C. Bicyclist swerved into the vehicle's path, D. Vehicle's vision was blocked.",
+      "GT": "D"
+    },
+    "prevention method": {
+      "question": "How could this accident be prevented? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Cyclists should wear reflective clothing at night, B. When the vehicle vision is blocked, the vehicle should avoid to increase speed., C. Bus drivers must adhere to speed limits near schools, D. Skateboarders need to avoid riding on busy streets",
+      "GT": "B"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_33.mp4": {
+    "weather and light": {
+      "question": "What's the weather and lighting? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. cloudy day, B. clear night, C. stormy evening, D. rainy night",
+      "GT": "B"
+    },
+    "location": {
+      "question": "Where did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. rural, B. coastal, C. mountainous, D. urban",
+      "GT": "D"
+    },
+    "road type": {
+      "question": "What type of road is shown? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. residential, B. highway, C. arterials, D. alley",
+      "GT": "C"
+    },
+    "accident type": {
+      "question": "What kind of accident occurred? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. car collides with another vehicle, B. pedestrian was hit by surrounding vehicle, C. ego-car hits a crossing pedestrian, D. motorcycle skids on wet road",
+      "GT": "C"
+    },
+    "accident reason": {
+      "question": "Why did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Driver was speeding through the intersection, B. Cyclist does not notice the coming vehicles when crossing the street., C. Pedestrian does not notice the coming vehicles when crossing the street., D. Cyclist failed to stop at the stop sign",
+      "GT": "C"
+    },
+    "prevention method": {
+      "question": "How could this accident be prevented? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Cyclists should wear bright clothing while riding, B. Pedestrians should follow traffic rules, C. Bus drivers should signal before changing lanes, D. Motorists should always check their mirrors before turning",
+      "GT": "B"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_34.mp4": {
+    "weather and light": {
+      "question": "What's the weather and lighting? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. snowy day, B. cloudy day, C. stormy evening, D. rainy night",
+      "GT": "A"
+    },
+    "location": {
+      "question": "Where did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. rural, B. urban, C. suburban, D. remote",
+      "GT": "B"
+    },
+    "road type": {
+      "question": "What type of road is shown? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. arterials, B. residential, C. highway, D. cul-de-sac",
+      "GT": "A"
+    },
+    "accident type": {
+      "question": "What kind of accident occurred? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. bicycle collides with car, B. ego-car hits a crossing pedestrian, C. car hits pedestrian, D. truck overturns on highway",
+      "GT": "C"
+    },
+    "accident reason": {
+      "question": "Why did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Cyclist does not notice the coming vehicles when crossing the street., B. Pedestrian does not notice the coming vehicles when crossing the street., C. Vehicle malfunction caused the crash, D. Road construction created unsafe conditions",
+      "GT": "B"
+    },
+    "prevention method": {
+      "question": "How could this accident be prevented? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Cyclists should wear helmets and use bike lanes, B. Drivers should always stop at red lights for pedestrian safety, C. Driver should avoid to increase speed when the vision is blocked., D. Motorcyclists need to reduce their speed in busy areas",
+      "GT": "C"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_35.mp4": {
+    "weather and light": {
+      "question": "What's the weather and lighting? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. cloudy day, B. stormy evening, C. clear night, D. rainy night",
+      "GT": "C"
+    },
+    "location": {
+      "question": "Where did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. urban, B. rural, C. coastal, D. desert",
+      "GT": "A"
+    },
+    "road type": {
+      "question": "What type of road is shown? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. residential, B. arterials, C. alley, D. highway",
+      "GT": "B"
+    },
+    "accident type": {
+      "question": "What kind of accident occurred? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. bicycle collides with car, B. ego-car hits pedestrian, C. motorcycle crashes into wall, D. ego-car hits a crossing pedestrian",
+      "GT": "B"
+    },
+    "accident reason": {
+      "question": "Why did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Driver was speeding through the intersection, B. Bicycle rider swerved without signaling, C. Car malfunction caused sudden brake failure, D. Pedestrians didn't follow traffic rules",
+      "GT": "D"
+    },
+    "prevention method": {
+      "question": "How could this accident be prevented? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Pedestrians should follow traffic rules, B. Motorcyclists should wear brighter helmets to increase visibility, C. Bus drivers need to maintain lower speeds in busy areas, D. Cyclists should signal their turns more frequently to prevent accidents",
+      "GT": "A"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_36.mp4": {
+    "weather and light": {
+      "question": "What's the weather and lighting? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. sunny day, B. cloudy night, C. stormy afternoon, D. rainy morning",
+      "GT": "A"
+    },
+    "location": {
+      "question": "Where did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. rural, B. suburban, C. urban, D. industrial",
+      "GT": "C"
+    },
+    "road type": {
+      "question": "What type of road is shown? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. roundabout, B. intersection, C. cul-de-sac, D. T-junction",
+      "GT": "D"
+    },
+    "accident type": {
+      "question": "What kind of accident occurred? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. pedestrian was hit by surrounding vehicle, B. bicycle collides with parked car, C. ego-car hits a crossing pedestrian, D. motorcycle crashes into a barrier",
+      "GT": "C"
+    },
+    "accident reason": {
+      "question": "Why did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Cyclist does not notice the coming vehicles when crossing the street., B. road was slippery due to rain, C. vehicles do not notice the pedestrians, D. pedestrian was jaywalking at the intersection",
+      "GT": "C"
+    },
+    "prevention method": {
+      "question": "How could this accident be prevented? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Cyclists should wear reflective clothing at night, B. Bus drivers should ensure passengers board safely, C. Motorists should avoid using their phones while driving, D. Vehicle should reduce speed when turning.",
+      "GT": "D"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_37.mp4": {
+    "weather and light": {
+      "question": "What's the weather and lighting? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. sunny day, B. cloudy day, C. stormy night, D. rainy afternoon",
+      "GT": "A"
+    },
+    "location": {
+      "question": "Where did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. rural, B. suburban, C. industrial, D. urban",
+      "GT": "D"
+    },
+    "road type": {
+      "question": "What type of road is shown? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. local, B. express, C. arterials, D. residential",
+      "GT": "C"
+    },
+    "accident type": {
+      "question": "What kind of accident occurred? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. ego-car hits a crossing pedestrian, B. pedestrian was hit by surrounding vehicle, C. bicycle collides with a car, D. motorcycle crashes into a barrier",
+      "GT": "A"
+    },
+    "accident reason": {
+      "question": "Why did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Pedestrians didn't follow traffic rules, B. Cyclists does not notice the coming vehicles when crossing the street., C. Vehicle malfunction caused the crash, D. Speeding driver ran the stop sign",
+      "GT": "A"
+    },
+    "prevention method": {
+      "question": "How could this accident be prevented? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Motorists should always check their mirrors before turning, B. Pedestrians should follow traffic rules, C. Bicyclists should wear helmets and follow traffic signals, D. Bus drivers should stop at every intersection for safety",
+      "GT": "B"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_38.mp4": {
+    "weather and light": {
+      "question": "What's the weather and lighting? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. sunny day, B. cloudy evening, C. stormy afternoon, D. rainy morning",
+      "GT": "A"
+    },
+    "location": {
+      "question": "Where did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. urban, B. rural, C. suburban, D. industrial",
+      "GT": "A"
+    },
+    "road type": {
+      "question": "What type of road is shown? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. local, B. arterials, C. express, D. cul-de-sac",
+      "GT": "B"
+    },
+    "accident type": {
+      "question": "What kind of accident occurred? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. bicycle collides with car, B. ego-car hits a crossing pedestrian, C. truck hits parked vehicle, D. car hits pedestrian",
+      "GT": "D"
+    },
+    "accident reason": {
+      "question": "Why did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. poor road conditions led to the accident, B. Cyclists does not notice the coming vehicles when crossing the street., C. Mechanical failure caused sudden brake loss, D. The vehicle evades other vehicles, pedestrians or objects and changes lanes emergently",
+      "GT": "D"
+    },
+    "prevention method": {
+      "question": "How could this accident be prevented? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Cyclists should always wear helmets while riding, B. Pedestrians should follow traffic rules and wait for signals, C. Drivers should strictly follow traffic rules, D. Bus drivers should maintain a safe distance from other vehicles",
+      "GT": "C"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_39.mp4": {
+    "weather and light": {
+      "question": "What's the weather and lighting? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. cloudy day, B. stormy night, C. sunny day, D. rainy afternoon",
+      "GT": "C"
+    },
+    "location": {
+      "question": "Where did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. rural, B. suburban, C. industrial, D. urban",
+      "GT": "D"
+    },
+    "road type": {
+      "question": "What type of road is shown? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. residential, B. highway, C. arterials, D. alley",
+      "GT": "C"
+    },
+    "accident type": {
+      "question": "What kind of accident occurred? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. bike collides with car, B. ego-car hits a crossing pedestrian, C. car hits pedestrian, D. truck overturns on highway",
+      "GT": "C"
+    },
+    "accident reason": {
+      "question": "Why did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. The vehicle driver is in distracted driving, B. The cyclists was speeding through a red light, C. Pedestrians does not notice the coming vehicles when crossing the street., D. The Road was slippery due to rain while driving",
+      "GT": "A"
+    },
+    "prevention method": {
+      "question": "How could this accident be prevented? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Drivers should obey speed limits, B. Pedestrians should always use crosswalks when crossing streets, C. Motorcyclists should wear helmets and protective gear at all times, D. Truck drivers must perform regular maintenance checks on their vehicles",
+      "GT": "A"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_40.mp4": {
+    "weather and light": {
+      "question": "What's the weather and lighting? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. cloudy night, B. stormy day, C. sunny day, D. rainy evening",
+      "GT": "C"
+    },
+    "location": {
+      "question": "Where did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. urban, B. rural, C. coastal, D. mountainous",
+      "GT": "A"
+    },
+    "road type": {
+      "question": "What type of road is shown? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. highways, B. lanes, C. arterials, D. alleys",
+      "GT": "C"
+    },
+    "accident type": {
+      "question": "What kind of accident occurred? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. bicycle collides with car, B. car hits pedestrian, C. motorcycle crashes into wall, D. ego-car hits a crossing pedestrian",
+      "GT": "B"
+    },
+    "accident reason": {
+      "question": "Why did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. driver was texting while driving, B. road was under construction and poorly marked, C. Cyclists does not notice the coming vehicles when crossing the street., D. vehicles drive too fast with short braking distance",
+      "GT": "D"
+    },
+    "prevention method": {
+      "question": "How could this accident be prevented? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Traffic signals should be upgraded to improve visibility for all road users, B. Truck should reduce speed at crosswalk, C. Emergency responders should arrive faster to assist in accidents, D. Road maintenance crews should regularly check for hazards on the road",
+      "GT": "B"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_41.mp4": {
+    "weather and light": {
+      "question": "What's the weather and lighting? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. cloudy evening, B. stormy morning, C. sunny day, D. rainy afternoon",
+      "GT": "C"
+    },
+    "location": {
+      "question": "Where did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. rural, B. urban, C. suburban, D. industrial",
+      "GT": "B"
+    },
+    "road type": {
+      "question": "What type of road is shown? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. highway, B. intersection, C. cul-de-sac, D. alley",
+      "GT": "B"
+    },
+    "accident type": {
+      "question": "What kind of accident occurred? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. bicycle collides with car, B. car hits pedestrian, C. motorcycle crashes into wall, D. ego-car hits a crossing pedestrian",
+      "GT": "B"
+    },
+    "accident reason": {
+      "question": "Why did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Pedestrian does not notice the coming vehicles when crossing the street., B. Cyclists does not notice the coming vehicles when crossing the street., C. Vehicle malfunction caused sudden loss of control, D. Cyclist ignored the stop sign at the junction",
+      "GT": "A"
+    },
+    "prevention method": {
+      "question": "How could this accident be prevented? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Cyclists should wear reflective gear while riding, B. Pedestrians should follow traffic rules, C. Bus drivers should be trained to watch for pedestrians, D. Motorists should stop at all traffic signals to enhance safety",
+      "GT": "B"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_42.mp4": {
+    "weather and light": {
+      "question": "What's the weather and lighting? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. cloudy evening, B. rainy afternoon, C. sunny day, D. stormy night",
+      "GT": "B"
+    },
+    "location": {
+      "question": "Where did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. rural, B. urban, C. suburban, D. highway",
+      "GT": "B"
+    },
+    "road type": {
+      "question": "What type of road is shown? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. T-junction, B. intersection, C. roundabout, D. cul-de-sac",
+      "GT": "A"
+    },
+    "accident type": {
+      "question": "What kind of accident occurred? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. car collision at intersection, B. Car hits car, C. bicycle accident on highway, D. fall from a height",
+      "GT": "B"
+    },
+    "accident reason": {
+      "question": "Why did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Cyclists does not notice the coming vehicles when crossing the street., B. Pedestrian does not notice the coming vehicles when crossing the street., C. The vehicle driver is in distracted driving, D. Another driver ran a red light",
+      "GT": "C"
+    },
+    "prevention method": {
+      "question": "How could this accident be prevented? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Motorcyclists should increase their speed to navigate around obstacles quickly and avoid collisions., B. Bus drivers must always use their horn when changing lanes to alert other vehicles and pedestrians., C. Cyclists should wear bright clothing and keep a safe distance from other vehicles at all times., D. Vehicles should avoid high speeds when changing lanes or turning and carefully observe approaching vehicles.",
+      "GT": "D"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_43.mp4": {
+    "weather and light": {
+      "question": "What's the weather and lighting? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. cloudy day, B. stormy evening, C. clear night, D. foggy afternoon",
+      "GT": "C"
+    },
+    "location": {
+      "question": "Where did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. rural, B. urban, C. suburban, D. industrial",
+      "GT": "B"
+    },
+    "road type": {
+      "question": "What type of road is shown? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. residential, B. arterials, C. highway, D. cul-de-sac",
+      "GT": "B"
+    },
+    "accident type": {
+      "question": "What kind of accident occurred? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. car hits pedestrian, B. bicycle collides with car, C. ego-car hits a crossing pedestrian, D. motorcycle crashes into barrier",
+      "GT": "A"
+    },
+    "accident reason": {
+      "question": "Why did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. poor road conditions led to the accident, B. Vehicle malfunction caused the accident, C. Speeding car lost control on the road, D. Pedestrian moves or stays on the road",
+      "GT": "D"
+    },
+    "prevention method": {
+      "question": "How could this accident be prevented? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Bus drivers should maintain a safe distance from other vehicles, B. Pedestrians should follow traffic rules at all times, C. Drivers should turn on the haedlight., D. Motorcyclists should wear protective gear while riding",
+      "GT": "B"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_44.mp4": {
+    "weather and light": {
+      "question": "What's the weather and lighting? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. cloudy day, B. rainy evening, C. sunny day, D. stormy afternoon",
+      "GT": "C"
+    },
+    "location": {
+      "question": "Where did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. urban, B. rural, C. suburban, D. industrial",
+      "GT": "A"
+    },
+    "road type": {
+      "question": "What type of road is shown? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. arterials, B. highways, C. alleys, D. lanes",
+      "GT": "A"
+    },
+    "accident type": {
+      "question": "What kind of accident occurred? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. bicycle collides with car, B. motorcycle crashes into wall, C. ego-car hits a crossing pedestrian, D. car hits pedestrian",
+      "GT": "D"
+    },
+    "accident reason": {
+      "question": "Why did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. driver was speeding through the intersection, B. Cyclists does not notice the coming vehicles when crossing the street., C. pedestrians were jaywalking across the street, D. vehicles do not notice the pedestrians",
+      "GT": "D"
+    },
+    "prevention method": {
+      "question": "How could this accident be prevented? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Pedestrians should use pedestrian crossings at all times, B. Motorcyclists should wear helmets and protective gear, C. Drivers should reduce the speed., D. Bus drivers should adhere to scheduled stops and avoid speeding",
+      "GT": "C"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_45.mp4": {
+    "weather and light": {
+      "question": "What's the weather and lighting? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. sunny day, B. cloudy night, C. stormy day, D. rainy evening",
+      "GT": "A"
+    },
+    "location": {
+      "question": "Where did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. urban, B. rural, C. suburban, D. industrial",
+      "GT": "A"
+    },
+    "road type": {
+      "question": "What type of road is shown? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. arterials, B. residential, C. cul-de-sac, D. alley",
+      "GT": "A"
+    },
+    "accident type": {
+      "question": "What kind of accident occurred? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. car collides with another car, B. bicycle crashes into a tree, C. bus rolls over on highway, D. motorbike hits pedestrian",
+      "GT": "D"
+    },
+    "accident reason": {
+      "question": "Why did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Cyclists does not notice the coming vehicles when crossing the street., B. Pedestrians didn't follow traffic rules, C. Road was slippery due to rain, D. Motorcycle was speeding through the intersection",
+      "GT": "B"
+    },
+    "prevention method": {
+      "question": "How could this accident be prevented? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Cyclists should wear reflective clothing at night, B. Bus drivers should avoid stopping suddenly in traffic, C. Pedestrians should follow traffic rules, D. Motorists should check their mirrors before making turns",
+      "GT": "C"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_46.mp4": {
+    "weather and light": {
+      "question": "What's the weather and lighting? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. cloudy day, B. stormy evening, C. clear night, D. rainy night",
+      "GT": "C"
+    },
+    "location": {
+      "question": "Where did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. rural, B. suburban, C. remote, D. urban",
+      "GT": "D"
+    },
+    "road type": {
+      "question": "What type of road is shown? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. highway, B. alley, C. cul-de-sac, D. arterials",
+      "GT": "D"
+    },
+    "accident type": {
+      "question": "What kind of accident occurred? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. bicycle collides with car, B. ego-car hits a crossing pedestrian, C. car hits pedestrian, D. truck overturns on highway",
+      "GT": "C"
+    },
+    "accident reason": {
+      "question": "Why did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Pedestrian moves or stays on the road, B. Cyclists does not notice the coming vehicles when crossing the street., C. Vehicle had a brake failure, D. Road was slippery due to rain",
+      "GT": "A"
+    },
+    "prevention method": {
+      "question": "How could this accident be prevented? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Cyclists should wear reflective gear while riding, B. Pedestrians should follow traffic rules, C. Bus drivers should maintain a safe distance from pedestrians, D. Motorists should be more cautious at crosswalks",
+      "GT": "B"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_47.mp4": {
+    "weather and light": {
+      "question": "What's the weather and lighting? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. sunny day, B. rainy day, C. cloudy night, D. stormy evening",
+      "GT": "B"
+    },
+    "location": {
+      "question": "Where did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. urban, B. rural, C. suburban, D. remote",
+      "GT": "A"
+    },
+    "road type": {
+      "question": "What type of road is shown? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. alleys, B. arterials, C. highways, D. lanes",
+      "GT": "B"
+    },
+    "accident type": {
+      "question": "What kind of accident occurred? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. car hits pedestrian, B. bicycle collides with car, C. motorcycle crashes into wall, D. ego-car hits a crossing pedestrian",
+      "GT": "A"
+    },
+    "accident reason": {
+      "question": "Why did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Driver was speeding through the intersection, B. Pedestrians didn't follow traffic rules, C. Cyclists does not notice the coming vehicles when crossing the street., D. Bicycle swerved into the road unexpectedly",
+      "GT": "B"
+    },
+    "prevention method": {
+      "question": "How could this accident be prevented? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Pedestrians should follow traffic rules, B. Cyclists should wear helmets and use bike lanes, C. Bus drivers should be trained to watch for pedestrians, D. Motorists should always stop at red lights and check for pedestrians",
+      "GT": "A"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_48.mp4": {
+    "weather and light": {
+      "question": "What's the weather and lighting? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. cloudy night, B. stormy evening, C. rainy afternoon, D. sunny day",
+      "GT": "D"
+    },
+    "location": {
+      "question": "Where did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. rural, B. suburban, C. highway, D. urban",
+      "GT": "D"
+    },
+    "road type": {
+      "question": "What type of road is shown? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. highway, B. cul-de-sac, C. intersection, D. alley",
+      "GT": "C"
+    },
+    "accident type": {
+      "question": "What kind of accident occurred? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. bicycle collides with car, B. ego-car hits a crossing pedestrian, C. car hits pedestrian, D. motorcycle crashes into wall",
+      "GT": "C"
+    },
+    "accident reason": {
+      "question": "Why did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Cyclists does not notice the coming vehicles when crossing the street., B. Vehicle speed was too fast, C. Vehicle malfunction caused the crash, D. Speeding car lost control on the turn",
+      "GT": "B"
+    },
+    "prevention method": {
+      "question": "How could this accident be prevented? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Cyclists should wear helmets to enhance safety, B. Bus drivers should stop at every intersection to check for pedestrians, C. Motorists should always use turn signals to indicate their intentions, D. Vehicle should reduce speed when turning.",
+      "GT": "D"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_49.mp4": {
+    "weather and light": {
+      "question": "What's the weather and lighting? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. cloudy night, B. rainy morning, C. sunny day, D. stormy afternoon",
+      "GT": "C"
+    },
+    "location": {
+      "question": "Where did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. rural, B. suburban, C. urban, D. remote",
+      "GT": "C"
+    },
+    "road type": {
+      "question": "What type of road is shown? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. intersection, B. highway, C. cul-de-sac, D. alley",
+      "GT": "A"
+    },
+    "accident type": {
+      "question": "What kind of accident occurred? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. ego-car hits a crossing pedestrian, B. pedestrian was hit by surrounding vehicle, C. bicycle collides with a car, D. motorcycle crashes into a wall",
+      "GT": "A"
+    },
+    "accident reason": {
+      "question": "Why did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Cyclists does not notice the coming vehicles when crossing the street., B. Vehicles do not notice the pedestrians when driving, C. The traffic lights were malfunctioning, D. A vehicle lost control on the wet road",
+      "GT": "B"
+    },
+    "prevention method": {
+      "question": "How could this accident be prevented? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Passengers should always wear seatbelts while traveling, B. Cyclists should signal their intentions clearly to avoid collisions, C. Drivers should reduce traffic rule when the vision is blocked., D. Bus drivers should maintain a safe distance from other vehicles",
+      "GT": "C"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_50.mp4": {
+    "weather and light": {
+      "question": "What's the weather and lighting? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. cloudy day, B. rainy night, C. snowy day, D. stormy evening",
+      "GT": "C"
+    },
+    "location": {
+      "question": "Where did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. rural, B. suburban, C. urban, D. remote",
+      "GT": "C"
+    },
+    "road type": {
+      "question": "What type of road is shown? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. residential, B. highway, C. arterials, D. alley",
+      "GT": "C"
+    },
+    "accident type": {
+      "question": "What kind of accident occurred? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. car collides with another vehicle, B. bicycle hits a parked car, C. ego-car hits a pedestrian, D. motorcycle falls on the road",
+      "GT": "C"
+    },
+    "accident reason": {
+      "question": "Why did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Pedestrians does not notice the coming vehicles when crossing the street., B. Cyclists does not notice the coming vehicles when crossing the street., C. The vehicle driver is in distracted driving, D. The vehicle's brakes failed suddenly",
+      "GT": "C"
+    },
+    "prevention method": {
+      "question": "How could this accident be prevented? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Pedestrians should always use crosswalks when crossing the street, B. Motorcyclists should maintain a safe distance from other vehicles, C. Bus drivers must conduct regular vehicle maintenance checks, D. Drivers should obey speed limits",
+      "GT": "D"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_51.mp4": {
+    "weather and light": {
+      "question": "What's the weather and lighting? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. sunny day, B. cloudy day, C. stormy night, D. rainy afternoon",
+      "GT": "A"
+    },
+    "location": {
+      "question": "Where did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. rural, B. suburban, C. remote, D. urban",
+      "GT": "D"
+    },
+    "road type": {
+      "question": "What type of road is shown? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. arterials, B. residential, C. highway, D. sidewalk",
+      "GT": "A"
+    },
+    "accident type": {
+      "question": "What kind of accident occurred? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. car collision at intersection, B. Car hits motorcycle or cyclist, C. motorcycle crash on highway, D. bicycle accident in park",
+      "GT": "B"
+    },
+    "accident reason": {
+      "question": "Why did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Pedestrians does not notice the coming vehicles when crossing the street., B. Cyclists does not notice the coming vehicles when crossing the street., C. Another driver ran a red light, D. The vehicle driver is in distracted driving",
+      "GT": "D"
+    },
+    "prevention method": {
+      "question": "How could this accident be prevented? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Motorcyclists should always wear protective gear and maintain a safe distance from other vehicles., B. Vehicles should avoid high speeds when changing lanes or turning and carefully observe approaching vehicles and pedestrians., C. Bus drivers should regularly inspect their vehicles and ensure all safety features are functional., D. Cyclists should signal their intentions clearly and be aware of their surroundings while riding.",
+      "GT": "B"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_52.mp4": {
+    "weather and light": {
+      "question": "What's the weather and lighting? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. sunny day, B. cloudy day, C. stormy night, D. rainy evening",
+      "GT": "A"
+    },
+    "location": {
+      "question": "Where did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. rural, B. suburban, C. urban, D. mountain",
+      "GT": "C"
+    },
+    "road type": {
+      "question": "What type of road is shown? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. T-junction, B. roundabout, C. cul-de-sac, D. intersection",
+      "GT": "A"
+    },
+    "accident type": {
+      "question": "What kind of accident occurred? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. bicycle collides with car, B. motorcycle crashes into wall, C. ego-car hits a crossing pedestrian, D. car hits pedestrian",
+      "GT": "D"
+    },
+    "accident reason": {
+      "question": "Why did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Vehicles do not notice the pedestrians when driving, B. poor road conditions led to the accident, C. Road conditions were icy and slippery, D. Road was slippery due to rain",
+      "GT": "A"
+    },
+    "prevention method": {
+      "question": "How could this accident be prevented? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Motorcyclists should wear protective gear to enhance safety, B. Drivers should strictly follow traffic rules, C. Pedestrians should always use crosswalks for safer passage, D. Bus drivers should reduce speed when approaching intersections",
+      "GT": "B"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_53.mp4": {
+    "weather and light": {
+      "question": "What's the weather and lighting? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. sunny day, B. cloudy day, C. rainy evening, D. stormy night",
+      "GT": "A"
+    },
+    "location": {
+      "question": "Where did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. urban, B. rural, C. suburban, D. coastal",
+      "GT": "A"
+    },
+    "road type": {
+      "question": "What type of road is shown? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. highway, B. intersection, C. cul-de-sac, D. alley",
+      "GT": "B"
+    },
+    "accident type": {
+      "question": "What kind of accident occurred? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. car collision at an intersection, B. bicycle accident on a sidewalk, C. motorcycle crash on the highway, D. Car hits motorcycle or cyclist",
+      "GT": "D"
+    },
+    "accident reason": {
+      "question": "Why did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. pEDESTRIAN does not notice the coming vehicles when crossing the street., B. Motorcycle driver is inattentive, C. Another driver ran a red light, D. Road was slippery from recent rain",
+      "GT": "B"
+    },
+    "prevention method": {
+      "question": "How could this accident be prevented? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Pedestrians should always use crosswalks and look both ways before crossing, B. Motorcyclists should strictly follow traffic rules and stop at red lights, C. Motorcyclists must wear protective gear and avoid riding in poor weather conditions, D. Truck drivers should ensure their vehicles are well-maintained to prevent mechanical failures",
+      "GT": "B"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_54.mp4": {
+    "weather and light": {
+      "question": "What's the weather and lighting? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. cloudy day, B. clear night, C. stormy night, D. rainy evening",
+      "GT": "B"
+    },
+    "location": {
+      "question": "Where did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. rural, B. mountain, C. desert, D. urban",
+      "GT": "D"
+    },
+    "road type": {
+      "question": "What type of road is shown? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. highway, B. alley, C. intersection, D. cul-de-sac",
+      "GT": "C"
+    },
+    "accident type": {
+      "question": "What kind of accident occurred? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. car collision at intersection, B. bicycle crash on the road, C. ego-car hits a motorcycle or cyclist, D. falling tree on parked car",
+      "GT": "C"
+    },
+    "accident reason": {
+      "question": "Why did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Motorcycle driver is inattentive, B. Another vehicle ran a red light, C. Road was wet and slippery, D. Motorcycle had a mechanical failure",
+      "GT": "A"
+    },
+    "prevention method": {
+      "question": "How could this accident be prevented? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Motorcyclists should wear brighter clothing to increase visibility, B. Drivers should maintain a safe distance from other cars at all times, C. Cyclists should avoid weaving between lanes when approaching intersections, D. Motorcyclists should strictly follow traffic rules and stop at red lights",
+      "GT": "D"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_55.mp4": {
+    "weather and light": {
+      "question": "What's the weather and lighting? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. cloudy evening, B. stormy night, C. rainy afternoon, D. sunny day",
+      "GT": "D"
+    },
+    "location": {
+      "question": "Where did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. rural, B. suburban, C. urban, D. industrial",
+      "GT": "C"
+    },
+    "road type": {
+      "question": "What type of road is shown? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. highway, B. alley, C. intersection, D. cul-de-sac",
+      "GT": "C"
+    },
+    "accident type": {
+      "question": "What kind of accident occurred? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. car collision at intersection, B. ego-car hits a motorcycle or cyclist, C. bicycle crash on sidewalk, D. truck overturning on highway",
+      "GT": "B"
+    },
+    "accident reason": {
+      "question": "Why did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Cyclists does not notice the coming vehicles when crossing the street., B. vehicles run red light, C. Pedestrians does not notice the coming vehicles when crossing the street., D. another car changed lanes abruptly",
+      "GT": "B"
+    },
+    "prevention method": {
+      "question": "How could this accident be prevented? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Drivers should strictly follow traffic rules, B. Motorcyclists should wear helmets and protective gear at all times, C. Pedestrians should follow traffic rules and wait for signals, D. Bus drivers should maintain a safe distance from other vehicles",
+      "GT": "A"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_56.mp4": {
+    "weather and light": {
+      "question": "What's the weather and lighting? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. cloudy day, B. stormy night, C. sunny day, D. rainy afternoon",
+      "GT": "C"
+    },
+    "location": {
+      "question": "Where did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. rural, B. suburban, C. urban, D. industrial",
+      "GT": "C"
+    },
+    "road type": {
+      "question": "What type of road is shown? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. highways, B. arterials, C. cul-de-sacs, D. lanes",
+      "GT": "B"
+    },
+    "accident type": {
+      "question": "What kind of accident occurred? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. ego-car hits a motorcycle or cyclist, B. car collision at intersection, C. motorcycle crash on highway, D. bicycle accident in park",
+      "GT": "A"
+    },
+    "accident reason": {
+      "question": "Why did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. driver was distracted by a phone call, B. Pedestrians does not notice the coming vehicles when crossing the street., C. Cyclists does not notice the coming vehicles when crossing the street., D. Ego-car drives too fast and the braking distance is short",
+      "GT": "D"
+    },
+    "prevention method": {
+      "question": "How could this accident be prevented? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Truck drivers should use wider mirrors to improve visibility of blind spots, B. Vehicles should maintain a safe following distance for emergency braking, C. Pedestrians should wear bright clothing to be more visible at night, D. Motorcyclists should practice emergency maneuvers for sudden stops",
+      "GT": "B"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_57.mp4": {
+    "weather and light": {
+      "question": "What's the weather and lighting? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. cloudy night, B. sunny day, C. stormy day, D. rainy evening",
+      "GT": "B"
+    },
+    "location": {
+      "question": "Where did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. urban, B. suburban, C. coastal, D. rural",
+      "GT": "D"
+    },
+    "road type": {
+      "question": "What type of road is shown? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. intersection, B. highway, C. cul-de-sac, D. alley",
+      "GT": "A"
+    },
+    "accident type": {
+      "question": "What kind of accident occurred? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. car collision at intersection, B. ego-car hits a motorcycle or cyclist, C. motorcycle crash on highway, D. pedestrian hit by vehicle",
+      "GT": "B"
+    },
+    "accident reason": {
+      "question": "Why did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Motorcycle had a mechanical failure, B. Pedestrians does not notice the coming vehicles when crossing the street., C. Road was slippery from recent rain, D. Motorcycle driver is inattentive",
+      "GT": "D"
+    },
+    "prevention method": {
+      "question": "How could this accident be prevented? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Motorcyclists should strictly follow traffic rules and stop at red lights, B. Motorcyclists should wear bright colors to increase visibility on the road, C. Car drivers should ensure their vehicles are well-maintained to prevent breakdowns, D. Pedestrians should always use crosswalks to reduce the risk of accidents",
+      "GT": "A"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_58.mp4": {
+    "weather and light": {
+      "question": "What's the weather and lighting? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. sunny day, B. cloudy evening, C. stormy afternoon, D. rainy morning",
+      "GT": "A"
+    },
+    "location": {
+      "question": "Where did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. urban, B. suburban, C. rural, D. highway",
+      "GT": "C"
+    },
+    "road type": {
+      "question": "What type of road is shown? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. residential, B. highway, C. alley, D. arterials",
+      "GT": "D"
+    },
+    "accident type": {
+      "question": "What kind of accident occurred? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. car collides with a parked vehicle, B. ego-car hits a crossing cyclist, C. motorcycle crashes into a barrier, D. bus rear-ends a waiting taxi",
+      "GT": "B"
+    },
+    "accident reason": {
+      "question": "Why did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Pedestrians does not notice the coming vehicles when crossing the street., B. Road was slippery due to recent rain, C. Cyclist does not notice the coming vehicles when crossing the road, D. Cyclist was distracted by their phone",
+      "GT": "C"
+    },
+    "prevention method": {
+      "question": "How could this accident be prevented? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Pedestrians should use their phones while walking to stay informed about traffic, B. Motorcyclists should drive faster to avoid getting caught in traffic jams, C. Cyclists should cross carefully without rushing and stay alert to traffic, D. Bus drivers should honk their horns more frequently to alert cyclists",
+      "GT": "C"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_59.mp4": {
+    "weather and light": {
+      "question": "What's the weather and lighting? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. cloudy day, B. clear night, C. stormy night, D. foggy evening",
+      "GT": "B"
+    },
+    "location": {
+      "question": "Where did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. intersection, B. highway, C. parking lot, D. residential area",
+      "GT": "B"
+    },
+    "road type": {
+      "question": "What type of road is shown? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. residential, B. expressway, C. cul-de-sac, D. arterials",
+      "GT": "D"
+    },
+    "accident type": {
+      "question": "What kind of accident occurred? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. ego-car hits a pedestrian, B. car collides with another vehicle, C. bicycle rider falls off, D. motorcycle crashes into a wall",
+      "GT": "A"
+    },
+    "accident reason": {
+      "question": "Why did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Pedestrian moves or stays on the road, B. poor road conditions led to the accident, C. Cyclists does not notice the coming vehicles when crossing the street., D. Road conditions were icy and slippery",
+      "GT": "A"
+    },
+    "prevention method": {
+      "question": "How could this accident be prevented? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Drivers should be more aware of cyclist crossings, B. Bus drivers should ensure proper maintenance of their vehicles, C. Pedestrians should follow traffic rules, D. Cyclists must wear reflective clothing at night",
+      "GT": "C"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_60.mp4": {
+    "weather and light": {
+      "question": "What's the weather and lighting? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. cloudy evening, B. stormy afternoon, C. rainy morning, D. sunny day",
+      "GT": "D"
+    },
+    "location": {
+      "question": "Where did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. rural, B. suburban, C. remote, D. urban",
+      "GT": "D"
+    },
+    "road type": {
+      "question": "What type of road is shown? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. roundabout, B. T-junction, C. crossroad, D. dead-end",
+      "GT": "B"
+    },
+    "accident type": {
+      "question": "What kind of accident occurred? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. ego-car hits a motorcycle or cyclist, B. car collision at an intersection, C. bicycle crash on the sidewalk, D. motorcycle accident on the highway",
+      "GT": "A"
+    },
+    "accident reason": {
+      "question": "Why did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Cyclists does not notice the coming vehicles when crossing the street., B. Motorcycle driver is inattentive, C. Road was slippery due to rain, D. Another vehicle collided unexpectedly",
+      "GT": "B"
+    },
+    "prevention method": {
+      "question": "How could this accident be prevented? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Pedestrians should always use crosswalks and look both ways before crossing, B. Motorcyclists should strictly follow traffic rules, C. Motorcyclists should wear bright clothing to increase visibility on the road, D. Car drivers must ensure their vehicles are well-maintained to avoid breakdowns",
+      "GT": "B"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_61.mp4": {
+    "weather and light": {
+      "question": "What's the weather and lighting? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. cloudy day, B. clear night, C. stormy evening, D. foggy night",
+      "GT": "B"
+    },
+    "location": {
+      "question": "Where did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. rural, B. suburban, C. urban, D. coastal",
+      "GT": "C"
+    },
+    "road type": {
+      "question": "What type of road is shown? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. highways, B. lanes, C. arterials, D. alleys",
+      "GT": "C"
+    },
+    "accident type": {
+      "question": "What kind of accident occurred? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. car collides with another car, B. ego-car hits a pedestrian, C. bicycle hits a parked car, D. motorcycle crashes into a barrier",
+      "GT": "B"
+    },
+    "accident reason": {
+      "question": "Why did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Driver was speeding through the intersection, B. Cyclists does not notice the coming vehicles when crossing the street., C. Motorcyclist swerved to avoid a pothole, D. Pedestrians didn't follow traffic rules",
+      "GT": "D"
+    },
+    "prevention method": {
+      "question": "How could this accident be prevented? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Cyclists should wear helmets while riding, B. Pedestrians should follow traffic rules, C. Bus drivers should ensure all passengers are seated, D. Motorists should check their mirrors before changing lanes",
+      "GT": "B"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_62.mp4": {
+    "weather and light": {
+      "question": "What's the weather and lighting? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. cloudy evening, B. stormy afternoon, C. sunny day, D. foggy morning",
+      "GT": "C"
+    },
+    "location": {
+      "question": "Where did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. rural, B. suburban, C. urban, D. industrial",
+      "GT": "C"
+    },
+    "road type": {
+      "question": "What type of road is shown? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. highways, B. alleys, C. sidewalks, D. arterials",
+      "GT": "D"
+    },
+    "accident type": {
+      "question": "What kind of accident occurred? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. car collides with another vehicle, B. motorcycle crashes into a barrier, C. pedestrian was hit by surrounding vehicle, D. ego-car hits a crossing pedestrian",
+      "GT": "D"
+    },
+    "accident reason": {
+      "question": "Why did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Pedestrians didn't follow traffic rules, B. Driver was speeding through the intersection, C. Vehicle malfunction caused sudden brake failure, D. Bicyclist swerved unexpectedly into traffic",
+      "GT": "A"
+    },
+    "prevention method": {
+      "question": "How could this accident be prevented? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Cyclists should wear helmets and use bike lanes, B. Pedestrians should follow traffic rules, C. Motorists should be alert and avoid using their phones, D. Bus drivers should reduce speed near schools and playgrounds",
+      "GT": "B"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_63.mp4": {
+    "weather and light": {
+      "question": "What's the weather and lighting? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. cloudy night, B. rainy afternoon, C. stormy morning, D. sunny day",
+      "GT": "D"
+    },
+    "location": {
+      "question": "Where did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. rural, B. suburban, C. urban, D. industrial",
+      "GT": "C"
+    },
+    "road type": {
+      "question": "What type of road is shown? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. arterials, B. highways, C. alleys, D. lanes",
+      "GT": "A"
+    },
+    "accident type": {
+      "question": "What kind of accident occurred? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. car hits pedestrian, B. bicycle collides with car, C. ego-car hits a crossing pedestrian, D. truck hits traffic signal",
+      "GT": "A"
+    },
+    "accident reason": {
+      "question": "Why did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Driver was speeding through the intersection, B. Pedestrians didn't follow traffic rules, C. Bicycle swerved into the road unexpectedly, D. Cyclists does not notice the coming vehicles when crossing the street.",
+      "GT": "B"
+    },
+    "prevention method": {
+      "question": "How could this accident be prevented? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Cyclists should wear helmets and follow traffic signals, B. Pedestrians should follow traffic rules, C. Bus drivers must check their mirrors for pedestrians before moving, D. Motorists should avoid using their phones while driving",
+      "GT": "B"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_64.mp4": {
+    "weather and light": {
+      "question": "What's the weather and lighting? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. cloudy day, B. sunny day, C. stormy night, D. foggy evening",
+      "GT": "B"
+    },
+    "location": {
+      "question": "Where did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. rural, B. urban, C. suburban, D. remote",
+      "GT": "B"
+    },
+    "road type": {
+      "question": "What type of road is shown? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. intersection, B. roundabout, C. T-junction, D. cul-de-sac",
+      "GT": "C"
+    },
+    "accident type": {
+      "question": "What kind of accident occurred? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. ego-car rear-ends another vehicle, B. pedestrian was hit by surrounding vehicle, C. motorcycle skids on wet pavement, D. ego-car hits a crossing pedestrian",
+      "GT": "D"
+    },
+    "accident reason": {
+      "question": "Why did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Pedestrians didn't follow traffic rules, B. Driver was speeding through the intersection, C. Cyclists does not notice the coming vehicles when crossing the street., D. Pedestrians does not notice the coming vehicles when crossing the street.",
+      "GT": "A"
+    },
+    "prevention method": {
+      "question": "How could this accident be prevented? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Pedestrians should follow traffic rules, B. Cyclists should wear helmets while riding, C. Drivers should avoid using their phones while driving, D. Motorists should stop for pedestrians at all times",
+      "GT": "A"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_65.mp4": {
+    "weather and light": {
+      "question": "What's the weather and lighting? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. cloudy day, B. stormy night, C. sunny day, D. rainy evening",
+      "GT": "C"
+    },
+    "location": {
+      "question": "Where did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. urban, B. rural, C. suburban, D. coastal",
+      "GT": "A"
+    },
+    "road type": {
+      "question": "What type of road is shown? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. residential, B. arterials, C. rural, D. highway",
+      "GT": "B"
+    },
+    "accident type": {
+      "question": "What kind of accident occurred? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. pedestrian was hit by surrounding vehicle, B. ego-car hits a crossing pedestrian, C. motorcycle crashes into a wall, D. bicycle falls on a wet road",
+      "GT": "B"
+    },
+    "accident reason": {
+      "question": "Why did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Vehicle's vision was blined, B. Driver was speeding through the intersection, C. Bicyclist swerved into the path of the car, D. Cyclists does not notice the coming vehicles when crossing the street.",
+      "GT": "A"
+    },
+    "prevention method": {
+      "question": "How could this accident be prevented? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Pedestrians should look both ways before crossing., B. Cyclists should wear helmets to enhance safety, C. Drivers should always check their mirrors before turning, D. Motorcyclists should signal their intentions clearly when changing lanes",
+      "GT": "A"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_66.mp4": {
+    "weather and light": {
+      "question": "What's the weather and lighting? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. cloudy night, B. rainy afternoon, C. sunny day, D. stormy evening",
+      "GT": "C"
+    },
+    "location": {
+      "question": "Where did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. rural, B. urban, C. suburban, D. highway",
+      "GT": "B"
+    },
+    "road type": {
+      "question": "What type of road is shown? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. local, B. highway, C. arterials, D. cul-de-sac",
+      "GT": "C"
+    },
+    "accident type": {
+      "question": "What kind of accident occurred? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. car rear-ends another vehicle, B. bicycle collides with a car, C. truck hits pedestrian, D. motorcycle crashes into a barrier",
+      "GT": "C"
+    },
+    "accident reason": {
+      "question": "Why did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Mechanical faiure of truck, B. Driver was under the influence of alcohol, C. Pedestrians does not notice the coming vehicles when crossing the street., D. Cyclists does not notice the coming vehicles when crossing the street.",
+      "GT": "A"
+    },
+    "prevention method": {
+      "question": "How could this accident be prevented? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Traffic authorities should install more traffic signals at intersections, B. Driver should inspect their vehicle before driving., C. Cyclists should wear reflective gear to increase visibility, D. Bus companies should conduct regular safety training for their drivers",
+      "GT": "B"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_67.mp4": {
+    "weather and light": {
+      "question": "What's the weather and lighting? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. cloudy day, B. clear night, C. stormy evening, D. foggy night",
+      "GT": "B"
+    },
+    "location": {
+      "question": "Where did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. rural, B. suburban, C. industrial, D. urban",
+      "GT": "D"
+    },
+    "road type": {
+      "question": "What type of road is shown? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. roundabout, B. T-junction, C. intersection, D. cul-de-sac",
+      "GT": "B"
+    },
+    "accident type": {
+      "question": "What kind of accident occurred? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. bicycle hits car, B. ego-car hits a crossing pedestrian, C. car hits pedestrian, D. truck rolls over on highway",
+      "GT": "C"
+    },
+    "accident reason": {
+      "question": "Why did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Cyclists does not notice the coming vehicles when crossing the street., B. Vehicle had a flat tire, C. Pedestrian does not notice the coming vehicles when crossing the street., D. Road was under construction and poorly marked",
+      "GT": "C"
+    },
+    "prevention method": {
+      "question": "How could this accident be prevented? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Cyclists should wear helmets and ride on bike lanes, B. Pedestrians should follow traffic rules, C. Bus drivers should always check their mirrors before turning, D. Motorists should reduce speed in residential areas",
+      "GT": "B"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_68.mp4": {
+    "weather and light": {
+      "question": "What's the weather and lighting? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. cloudy day, B. stormy night, C. sunny day, D. foggy evening",
+      "GT": "C"
+    },
+    "location": {
+      "question": "Where did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. rural, B. suburban, C. urban, D. industrial",
+      "GT": "C"
+    },
+    "road type": {
+      "question": "What type of road is shown? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. residential, B. motorway, C. alleys, D. arterials",
+      "GT": "D"
+    },
+    "accident type": {
+      "question": "What kind of accident occurred? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. car hits pedestrian, B. ego-car hits a crossing pedestrian, C. car crashes into building, D. motorcycle skids on road",
+      "GT": "A"
+    },
+    "accident reason": {
+      "question": "Why did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Driver was speeding through the intersection, B. Cyclists does not notice the coming vehicles when crossing the street., C. Pedestrians does not notice the coming vehicles when crossing the street., D. Bicyclist ignored the stop sign",
+      "GT": "C"
+    },
+    "prevention method": {
+      "question": "How could this accident be prevented? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Cyclists should signal their turns and ride in designated lanes, B. Pedestrians should see both ways before crossing., C. Bus drivers should always check their mirrors before changing lanes, D. Motorists should maintain a safe distance from pedestrians at intersections",
+      "GT": "B"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_69.mp4": {
+    "weather and light": {
+      "question": "What's the weather and lighting? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. cloudy night, B. rainy afternoon, C. sunny day, D. stormy morning",
+      "GT": "C"
+    },
+    "location": {
+      "question": "Where did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. rural, B. suburban, C. urban, D. highway",
+      "GT": "A"
+    },
+    "road type": {
+      "question": "What type of road is shown? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. curve, B. straight, C. hill, D. intersection",
+      "GT": "A"
+    },
+    "accident type": {
+      "question": "What kind of accident occurred? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. car collides with another car, B. bicycle crashes into a tree, C. ego-car hits a pedestrian, D. motorcycle skids on wet road",
+      "GT": "C"
+    },
+    "accident reason": {
+      "question": "Why did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Cyclists does not notice the coming vehicles when crossing the street., B. Pedestrian moves or stays on the road, C. Pedestrians does not notice the coming vehicles when crossing the street., D. Traffic signal was malfunctioning at the time",
+      "GT": "B"
+    },
+    "prevention method": {
+      "question": "How could this accident be prevented? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Cyclists should wear helmets and follow bike lanes, B. Bus drivers should be more vigilant at crosswalks, C. Motorists should always check their mirrors before turning, D. Pedestrians should use sidewalk.",
+      "GT": "D"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_70.mp4": {
+    "weather and light": {
+      "question": "What's the weather and lighting? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. cloudy day, B. sunny day, C. stormy night, D. rainy afternoon",
+      "GT": "B"
+    },
+    "location": {
+      "question": "Where did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. rural, B. urban, C. suburban, D. industrial",
+      "GT": "B"
+    },
+    "road type": {
+      "question": "What type of road is shown? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. local, B. express, C. arterials, D. residential",
+      "GT": "C"
+    },
+    "accident type": {
+      "question": "What kind of accident occurred? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. bicycle collides with car, B. car hits pedestrian, C. ego-car hits a crossing pedestrian, D. truck overturns on highway",
+      "GT": "B"
+    },
+    "accident reason": {
+      "question": "Why did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Driver was texting on their phone, B. Cyclists does not notice the coming vehicles when crossing the street., C. Another car ran a stop sign, D. Pedestrians didn't follow traffic rules",
+      "GT": "D"
+    },
+    "prevention method": {
+      "question": "How could this accident be prevented? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Cyclists should wear helmets and use bike lanes, B. Bus drivers should adhere to speed limits near schools, C. Pedestrians should follow traffic rules, D. Motorists should check their mirrors before changing lanes",
+      "GT": "C"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_71.mp4": {
+    "weather and light": {
+      "question": "What's the weather and lighting? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. cloudy day, B. sunny day, C. rainy evening, D. stormy night",
+      "GT": "B"
+    },
+    "location": {
+      "question": "Where did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. rural, B. suburban, C. industrial, D. urban",
+      "GT": "D"
+    },
+    "road type": {
+      "question": "What type of road is shown? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. residential, B. freeway, C. arterials, D. dirt",
+      "GT": "C"
+    },
+    "accident type": {
+      "question": "What kind of accident occurred? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. car hits pedestrian, B. bike collides with car, C. truck crashes into building, D. ego-car hits a crossing pedestrian",
+      "GT": "A"
+    },
+    "accident reason": {
+      "question": "Why did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Cyclists does not notice the coming vehicles when crossing the street., B. Pedestrians does not notice the coming vehicles when crossing the street., C. Vehicle malfunction caused the crash, D. Motorcyclist lost control on the wet road",
+      "GT": "B"
+    },
+    "prevention method": {
+      "question": "How could this accident be prevented? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Cyclists should wear helmets and use bike lanes, B. Bus drivers should stop at all traffic signals, C. Pedestrians should see both ways before crossing., D. Motorists should check their mirrors before making turns",
+      "GT": "C"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_72.mp4": {
+    "weather and light": {
+      "question": "What's the weather and lighting? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. sunny day, B. cloudy night, C. stormy day, D. rainy evening",
+      "GT": "A"
+    },
+    "location": {
+      "question": "Where did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. rural, B. suburban, C. industrial, D. urban",
+      "GT": "D"
+    },
+    "road type": {
+      "question": "What type of road is shown? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. highway, B. alley, C. cul-de-sac, D. intersection",
+      "GT": "D"
+    },
+    "accident type": {
+      "question": "What kind of accident occurred? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. car collision at intersection, B. bicycle crash on highway, C. slip and fall in store, D. cyclist hits pedestrian",
+      "GT": "D"
+    },
+    "accident reason": {
+      "question": "Why did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Cyclists does not notice the coming vehicles when crossing the street., B. The cyclist lacked proper control of the bicycle, C. Pedestrians does not notice the coming vehicles when crossing the street., D. A vehicle suddenly swerved into the cyclist's lane",
+      "GT": "B"
+    },
+    "prevention method": {
+      "question": "How could this accident be prevented? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Cyclist need to improve their vehicle handling skills to reduce the risk of accidents, B. Motorists should always maintain a safe distance from cyclists to prevent collisions, C. Pedestrians need to be more vigilant and look out for approaching cyclists on the road, D. Cyclists should wear more protective gear to minimize injuries in case of accidents",
+      "GT": "A"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_73.mp4": {
+    "weather and light": {
+      "question": "What's the weather and lighting? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. sunny day, B. cloudy night, C. stormy afternoon, D. rainy morning",
+      "GT": "A"
+    },
+    "location": {
+      "question": "Where did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. urban, B. rural, C. coastal, D. mountainous",
+      "GT": "A"
+    },
+    "road type": {
+      "question": "What type of road is shown? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. residential, B. arterials, C. highway, D. alley",
+      "GT": "B"
+    },
+    "accident type": {
+      "question": "What kind of accident occurred? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. bicycle collides with car, B. car hits pedestrian, C. motorcycle crashes into wall, D. ego-car hits a crossing pedestrian",
+      "GT": "B"
+    },
+    "accident reason": {
+      "question": "Why did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Driver was speeding through the intersection, B. Bicycle suddenly swerved into traffic, C. Cyclists does not notice the coming vehicles when crossing the street., D. Pedestrians didn't follow traffic rules",
+      "GT": "D"
+    },
+    "prevention method": {
+      "question": "How could this accident be prevented? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Cyclists should wear bright clothing while riding, B. Pedestrians should follow traffic rules, C. Bus drivers should honk their horns more frequently, D. Scooter riders should avoid busy streets during rush hour",
+      "GT": "B"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_74.mp4": {
+    "weather and light": {
+      "question": "What's the weather and lighting? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. cloudy day, B. sunny day, C. stormy night, D. rainy afternoon",
+      "GT": "B"
+    },
+    "location": {
+      "question": "Where did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. rural, B. coastal, C. suburban, D. urban",
+      "GT": "D"
+    },
+    "road type": {
+      "question": "What type of road is shown? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. residential, B. arterials, C. highway, D. alley",
+      "GT": "B"
+    },
+    "accident type": {
+      "question": "What kind of accident occurred? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. car hits pedestrian, B. bicycle collides with car, C. motorcycle crashes into wall, D. ego-car hits a crossing pedestrian",
+      "GT": "A"
+    },
+    "accident reason": {
+      "question": "Why did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. vehicles drive too fast with short braking distance, B. Cyclists does not notice the coming vehicles when crossing the street., C. road conditions were icy and slippery, D. the Road was slippery due to rain",
+      "GT": "A"
+    },
+    "prevention method": {
+      "question": "How could this accident be prevented? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Drivers should slow down and yield at zebra crossings, B. Cyclists should use hand signals to communicate their intentions, C. Motorcyclists should wear reflective gear to increase visibility, D. Bus drivers should regularly check their mirrors for pedestrians",
+      "GT": "A"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_75.mp4": {
+    "weather and light": {
+      "question": "What's the weather and lighting? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. cloudy day, B. stormy evening, C. clear night, D. foggy morning",
+      "GT": "C"
+    },
+    "location": {
+      "question": "Where did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. urban, B. rural, C. coastal, D. mountainous",
+      "GT": "A"
+    },
+    "road type": {
+      "question": "What type of road is shown? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. residential, B. highway, C. alley, D. arterials",
+      "GT": "D"
+    },
+    "accident type": {
+      "question": "What kind of accident occurred? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. car collides with another vehicle, B. bicycle falls off a curb, C. ego-car hits a pedestrian, D. truck hits a traffic pole",
+      "GT": "C"
+    },
+    "accident reason": {
+      "question": "Why did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Driver was speeding through the intersection, B. Pedestrian moves or stays on the road, C. Cyclists does not notice the coming vehicles when crossing the street., D. Weather conditions were poor and slippery",
+      "GT": "B"
+    },
+    "prevention method": {
+      "question": "How could this accident be prevented? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Pedestrians should see both way before crossing., B. Cyclists should use designated bike lanes for safety, C. Bus drivers must check for pedestrians before stopping, D. Motorists should always signal when changing lanes",
+      "GT": "A"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_76.mp4": {
+    "weather and light": {
+      "question": "What's the weather and lighting? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. cloudy night, B. sunny day, C. stormy afternoon, D. rainy morning",
+      "GT": "B"
+    },
+    "location": {
+      "question": "Where did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. rural, B. desert, C. urban, D. mountain",
+      "GT": "C"
+    },
+    "road type": {
+      "question": "What type of road is shown? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. local, B. arterials, C. cul-de-sac, D. expressway",
+      "GT": "B"
+    },
+    "accident type": {
+      "question": "What kind of accident occurred? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. bicycle collides with car, B. car hits pedestrian, C. ego-car hits a crossing pedestrian, D. truck overturns on highway",
+      "GT": "B"
+    },
+    "accident reason": {
+      "question": "Why did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Vehicles do not notice the pedestrians when driving, B. Cyclists does not notice the coming vehicles when crossing the street., C. Mechanical failure in the vehicle occurred, D. Speeding in a residential area led to collision",
+      "GT": "A"
+    },
+    "prevention method": {
+      "question": "How could this accident be prevented? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Bus drivers should maintain a safe distance from pedestrians at crossings, B. Motorcyclists should always wear helmets and protective gear while riding, C. Drivers should slow down and yield crossing pedestrian., D. Cyclists should signal their turns to alert drivers at zebra crossings",
+      "GT": "C"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_77.mp4": {
+    "weather and light": {
+      "question": "What's the weather and lighting? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. cloudy night, B. rainy afternoon, C. sunny day, D. stormy evening",
+      "GT": "C"
+    },
+    "location": {
+      "question": "Where did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. rural, B. urban, C. suburban, D. remote",
+      "GT": "B"
+    },
+    "road type": {
+      "question": "What type of road is shown? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. intersection, B. cul-de-sac, C. roundabout, D. T-junction",
+      "GT": "D"
+    },
+    "accident type": {
+      "question": "What kind of accident occurred? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. car collision at intersection, B. bike crash on the sidewalk, C. falling object from building, D. Car hits car and cyclist is in nearmiss",
+      "GT": "D"
+    },
+    "accident reason": {
+      "question": "Why did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. The vehicle driver is in distracted driving, B. The vehicle was speeding excessively, C. Cyclists does not notice the coming vehicles when crossing the street., D. Pedestrians does not notice the coming vehicles when crossing the street.",
+      "GT": "A"
+    },
+    "prevention method": {
+      "question": "How could this accident be prevented? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Motorcyclists should maintain a safe distance from other vehicles and signal their intentions clearly., B. Vehicles should avoid high speeds when changing lanes or turning and carefully observe approaching vehicles and pedestrians., C. Bicyclists should wear helmets and use designated bike lanes to enhance their safety on the road., D. Truck drivers should regularly check their blind spots and avoid sudden lane changes to prevent accidents.",
+      "GT": "B"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_78.mp4": {
+    "weather and light": {
+      "question": "What's the weather and lighting? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. sunny day, B. cloudy night, C. rainy afternoon, D. stormy morning",
+      "GT": "A"
+    },
+    "location": {
+      "question": "Where did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. rural, B. mountain, C. suburban, D. urban",
+      "GT": "D"
+    },
+    "road type": {
+      "question": "What type of road is shown? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. motorway, B. arterials, C. residential, D. alley",
+      "GT": "B"
+    },
+    "accident type": {
+      "question": "What kind of accident occurred? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. bicycle collides with car, B. car hits pedestrian, C. ego-car hits a crossing pedestrian, D. truck overturns on highway",
+      "GT": "B"
+    },
+    "accident reason": {
+      "question": "Why did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Vehicles do not notice the pedestrians when driving, B. Cyclists does not notice the coming vehicles when crossing the street., C. Road conditions were icy and slippery, D. Speeding caused loss of vehicle control",
+      "GT": "A"
+    },
+    "prevention method": {
+      "question": "How could this accident be prevented? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Pedestrians should always check for traffic before crossing the street, B. Bus drivers need to maintain a safe distance from zebra crossings, C. Motorcyclists should wear reflective gear to increase visibility at crossings, D. Drivers should slow down and yield at zebra crossings",
+      "GT": "D"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_79.mp4": {
+    "weather and light": {
+      "question": "What's the weather and lighting? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. cloudy day, B. snowy day, C. rainy evening, D. stormy night",
+      "GT": "B"
+    },
+    "location": {
+      "question": "Where did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. rural, B. suburban, C. urban, D. remote",
+      "GT": "C"
+    },
+    "road type": {
+      "question": "What type of road is shown? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. residential, B. highway, C. alley, D. arterials",
+      "GT": "D"
+    },
+    "accident type": {
+      "question": "What kind of accident occurred? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. motorcycle collides with car, B. ego-car hits a crossing pedestrian, C. car hits pedestrian, D. truck overturns on highway",
+      "GT": "C"
+    },
+    "accident reason": {
+      "question": "Why did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. poor road conditions led to the accident, B. Pedestrians didn't follow traffic rules, C. Cyclists does not notice the coming vehicles when crossing the street., D. Speeding car ignored traffic signals",
+      "GT": "B"
+    },
+    "prevention method": {
+      "question": "How could this accident be prevented? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Pedestrians should follow traffic rules, B. Cyclists should wear helmets while riding near traffic, C. Bus drivers must adhere to speed limits in urban areas, D. Motorists should check their mirrors before changing lanes",
+      "GT": "A"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_80.mp4": {
+    "weather and light": {
+      "question": "What's the weather and lighting? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. cloudy evening, B. stormy afternoon, C. sunny day, D. foggy morning",
+      "GT": "C"
+    },
+    "location": {
+      "question": "Where did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. urban, B. suburban, C. rural, D. commercial",
+      "GT": "C"
+    },
+    "road type": {
+      "question": "What type of road is shown? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. residential, B. motorway, C. alley, D. arterials",
+      "GT": "D"
+    },
+    "accident type": {
+      "question": "What kind of accident occurred? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. car hits pedestrian, B. bicycle collides with car, C. motorcycle crashes into tree, D. ego-car hits a crossing pedestrian",
+      "GT": "A"
+    },
+    "accident reason": {
+      "question": "Why did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Driver was texting while driving, B. Cyclists does not notice the coming vehicles when crossing the street., C. Cyclist ignored traffic signals, D. Pedestrian does not notice the coming vehicles when crossing the street.",
+      "GT": "D"
+    },
+    "prevention method": {
+      "question": "How could this accident be prevented? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Cyclists should wear helmets to ensure safety, B. Bus drivers should be trained to recognize pedestrians, C. Pedestrians should follow traffic rules, D. Motorists should always stop for red lights at intersections",
+      "GT": "C"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_81.mp4": {
+    "weather and light": {
+      "question": "What's the weather and lighting? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. cloudy day, B. stormy night, C. rainy afternoon, D. sunny day",
+      "GT": "D"
+    },
+    "location": {
+      "question": "Where did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. rural, B. urban, C. suburban, D. coastal",
+      "GT": "B"
+    },
+    "road type": {
+      "question": "What type of road is shown? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. residential, B. motorway, C. cul-de-sac, D. arterials",
+      "GT": "D"
+    },
+    "accident type": {
+      "question": "What kind of accident occurred? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. ego-car hits a crossing pedestrian, B. pedestrian was hit by surrounding vehicle, C. bicycle collides with parked car, D. motorcycle crashes into a barrier",
+      "GT": "A"
+    },
+    "accident reason": {
+      "question": "Why did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Cyclists does not notice the coming vehicles when crossing the street., B. Pedestrian does not notice the coming vehicles when crossing the street., C. Vehicle had a brake failure, D. Motorcyclist was speeding through the intersection",
+      "GT": "B"
+    },
+    "prevention method": {
+      "question": "How could this accident be prevented? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Cyclists should wear bright clothing to increase visibility, B. Bus drivers should ensure their vehicles are well-maintained, C. Skateboarders should avoid riding on busy streets at peak hours, D. Pedestrians should check both ways before crossing.",
+      "GT": "D"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_82.mp4": {
+    "weather and light": {
+      "question": "What's the weather and lighting? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. cloudy day, B. stormy night, C. rainy evening, D. sunny day",
+      "GT": "D"
+    },
+    "location": {
+      "question": "Where did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. rural, B. urban, C. suburban, D. mountainous",
+      "GT": "B"
+    },
+    "road type": {
+      "question": "What type of road is shown? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. residential, B. highway, C. alley, D. arterials",
+      "GT": "D"
+    },
+    "accident type": {
+      "question": "What kind of accident occurred? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. ego-car hits a crossing pedestrian, B. pedestrian was hit by surrounding vehicle, C. bicycle hits a parked car, D. motorcycle crashes into a barrier",
+      "GT": "A"
+    },
+    "accident reason": {
+      "question": "Why did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Pedestrians didn't follow traffic rules, B. Pedestrian does not notice the coming vehicles when crossing the street., C. Cyclists does not notice the coming vehicles when crossing the street., D. Bicyclist swerved into traffic unexpectedly",
+      "GT": "A"
+    },
+    "prevention method": {
+      "question": "How could this accident be prevented? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Cyclists should wear helmets while riding near traffic, B. Truck drivers should ensure their loads are secure before driving, C. Bus drivers should communicate with pedestrians at bus stops, D. Pedestrians should follow traffic rules",
+      "GT": "D"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_83.mp4": {
+    "weather and light": {
+      "question": "What's the weather and lighting? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. sunny day, B. cloudy evening, C. stormy afternoon, D. foggy morning",
+      "GT": "A"
+    },
+    "location": {
+      "question": "Where did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. urban, B. rural, C. suburban, D. industrial",
+      "GT": "A"
+    },
+    "road type": {
+      "question": "What type of road is shown? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. residential, B. arterials, C. cul-de-sac, D. expressway",
+      "GT": "B"
+    },
+    "accident type": {
+      "question": "What kind of accident occurred? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. motorcycle collides with another bike, B. ego-car hits a crossing pedestrian, C. bicycle crashes into a parked car, D. car hits pedestrian",
+      "GT": "D"
+    },
+    "accident reason": {
+      "question": "Why did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Vehicles do not notice the pedestrians when driving, B. Cyclists does not notice the coming vehicles when crossing the street., C. Road was wet and slippery, D. Pedestrians were jaywalking unexpectedly",
+      "GT": "A"
+    },
+    "prevention method": {
+      "question": "How could this accident be prevented? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Pedestrians should always look both ways before crossing the street, B. Bus drivers need to maintain a safe distance from zebra crossings, C. Cyclists should signal their intentions clearly when approaching crossings, D. Drivers should slow down and yield at zebra crossings",
+      "GT": "D"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_84.mp4": {
+    "weather and light": {
+      "question": "What's the weather and lighting? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. cloudy day, B. stormy evening, C. rainy night, D. clear night",
+      "GT": "D"
+    },
+    "location": {
+      "question": "Where did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. urban, B. suburban, C. rural, D. coastal",
+      "GT": "C"
+    },
+    "road type": {
+      "question": "What type of road is shown? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. highways, B. local, C. arterials, D. alleys",
+      "GT": "C"
+    },
+    "accident type": {
+      "question": "What kind of accident occurred? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. ego-car hits a crossing pedestrian, B. pedestrian was hit by surrounding vehicle, C. bicycle hits a parked car, D. motorcycle skids on wet road",
+      "GT": "A"
+    },
+    "accident reason": {
+      "question": "Why did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Driver was speeding through the intersection, B. Pedestrian does not notice the coming vehicles when crossing the street, C. Cyclists does not notice the coming vehicles when crossing the street., D. Another vehicle ran a red light unexpectedly.",
+      "GT": "B"
+    },
+    "prevention method": {
+      "question": "How could this accident be prevented? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Cyclists should wear helmets and use bike lanes, B. Bus drivers should increase their speed to clear intersections, C. Motorists should avoid using their turn signals in busy areas, D. Vehicle should reduce speed when their vision is blocked.",
+      "GT": "D"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_85.mp4": {
+    "weather and light": {
+      "question": "What's the weather and lighting? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. sunny day, B. cloudy evening, C. stormy afternoon, D. rainy morning",
+      "GT": "A"
+    },
+    "location": {
+      "question": "Where did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. rural, B. urban, C. coastal, D. mountain",
+      "GT": "A"
+    },
+    "road type": {
+      "question": "What type of road is shown? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. local, B. highway, C. arterials, D. alley",
+      "GT": "C"
+    },
+    "accident type": {
+      "question": "What kind of accident occurred? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. ego-car hits a crossing pedestrian, B. pedestrian was hit by surrounding vehicle, C. car crashes into a tree, D. motorcycle rear-ends another vehicle",
+      "GT": "A"
+    },
+    "accident reason": {
+      "question": "Why did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Driver was speeding through the intersection, B. Cyclists does not notice the coming vehicles when crossing the street, C. Pedestrian does not notice the coming vehicles when crossing the street, D. Another vehicle ran a red light unexpectedly.",
+      "GT": "C"
+    },
+    "prevention method": {
+      "question": "How could this accident be prevented? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Pedestrians should see both ways before crossing., B. Cyclists should wear helmets and use hand signals, C. Drivers should always check their mirrors before turning, D. Bus drivers should maintain a safe distance from pedestrians",
+      "GT": "A"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_86.mp4": {
+    "weather and light": {
+      "question": "What's the weather and lighting? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. cloudy day, B. rainy night, C. stormy evening, D. sunny day",
+      "GT": "D"
+    },
+    "location": {
+      "question": "Where did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. urban, B. rural, C. coastal, D. mountainous",
+      "GT": "A"
+    },
+    "road type": {
+      "question": "What type of road is shown? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. residential, B. arterials, C. highway, D. cul-de-sac",
+      "GT": "B"
+    },
+    "accident type": {
+      "question": "What kind of accident occurred? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. bicycle collides with car, B. ego-car hits a crossing pedestrian, C. car hits pedestrian, D. truck rolls over on highway",
+      "GT": "C"
+    },
+    "accident reason": {
+      "question": "Why did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Pedestrian didn't follow traffic rules., B. Cyclists does not notice the coming vehicles when crossing the street, C. Tire blowout caused loss of control, D. Vehicles do not notice the pedestrians when driving",
+      "GT": "D"
+    },
+    "prevention method": {
+      "question": "How could this accident be prevented? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Bus drivers should decrease their speed to clear the intersection quickly, B. Pedestrians should avoid using mobile phones when crossing the street, C. Motorcyclists should wear brighter clothing to be more visible to drivers, D. Drivers should slow down and yield at zebra crossings",
+      "GT": "D"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_87.mp4": {
+    "weather and light": {
+      "question": "What's the weather and lighting? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. cloudy day, B. clear night, C. stormy night, D. rainy evening",
+      "GT": "B"
+    },
+    "location": {
+      "question": "Where did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. rural, B. coastal, C. urban, D. mountainous",
+      "GT": "C"
+    },
+    "road type": {
+      "question": "What type of road is shown? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. arterials, B. residential, C. motorway, D. alley",
+      "GT": "A"
+    },
+    "accident type": {
+      "question": "What kind of accident occurred? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. bicycle collides with car, B. ego-car hits a crossing pedestrian, C. truck hits parked vehicle, D. car hits pedestrian",
+      "GT": "D"
+    },
+    "accident reason": {
+      "question": "Why did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. poor road conditions led to the accident, B. Vehicles do not notice the pedestrians when driving, C. Cyclists does not notice the coming vehicles when crossing the street, D. Road was slippery from recent rain",
+      "GT": "B"
+    },
+    "prevention method": {
+      "question": "How could this accident be prevented? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Drivers should slow down and yield at zebra crossings, B. Pedestrians should always remain alert and avoid using their phones near crosswalks, C. Bus drivers should maintain a safe distance and watch for pedestrians at intersections, D. Cyclists should wear helmets and signal their turns when approaching crosswalks",
+      "GT": "A"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_88.mp4": {
+    "weather and light": {
+      "question": "What's the weather and lighting? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. cloudy evening, B. stormy afternoon, C. rainy morning, D. sunny day",
+      "GT": "D"
+    },
+    "location": {
+      "question": "Where did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. rural, B. coastal, C. urban, D. mountainous",
+      "GT": "C"
+    },
+    "road type": {
+      "question": "What type of road is shown? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. local, B. express, C. cul-de-sac, D. arterials",
+      "GT": "D"
+    },
+    "accident type": {
+      "question": "What kind of accident occurred? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. ego-car hits a crossing pedestrian, B. car hits pedestrian, C. motorcycle crashes into barrier, D. truck overturns on highway",
+      "GT": "B"
+    },
+    "accident reason": {
+      "question": "Why did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Driver's vision was blocked., B. Driver was speeding through the intersection, C. Cyclists does not notice the coming vehicles when crossing the street, D. Road was slippery due to rain",
+      "GT": "A"
+    },
+    "prevention method": {
+      "question": "How could this accident be prevented? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Cyclists should wear bright clothing while riding, B. Vehicle should reduce speed when the vision is blocked., C. Bus drivers should always check their mirrors before turning, D. Motorists should avoid using their phones while driving",
+      "GT": "B"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_89.mp4": {
+    "weather and light": {
+      "question": "What's the weather and lighting? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. cloudy day, B. sunny day, C. stormy night, D. rainy afternoon",
+      "GT": "B"
+    },
+    "location": {
+      "question": "Where did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. rural, B. suburban, C. highway, D. urban",
+      "GT": "D"
+    },
+    "road type": {
+      "question": "What type of road is shown? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. residential, B. highway, C. alley, D. arterials",
+      "GT": "D"
+    },
+    "accident type": {
+      "question": "What kind of accident occurred? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. car hits pedestrian, B. bicycle collides with car, C. ego-car hits a crossing pedestrian, D. truck overturns on highway",
+      "GT": "A"
+    },
+    "accident reason": {
+      "question": "Why did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. vehicles drive too fast with short braking distance, B. Cyclists does not notice the coming vehicles when crossing the street, C. Pedestrians does not notice the coming vehicles when crossing the street, D. mechanical failure of the vehicle brakes",
+      "GT": "A"
+    },
+    "prevention method": {
+      "question": "How could this accident be prevented? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Pedestrians should wear bright clothing to be more visible to drivers, B. Motorcyclists should practice defensive riding techniques to avoid collisions, C. Bus drivers should adhere to strict schedules to minimize road congestion, D. Vehicles should maintain a safe following distance for emergency braking",
+      "GT": "D"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_90.mp4": {
+    "weather and light": {
+      "question": "What's the weather and lighting? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. cloudy night, B. rainy evening, C. stormy day, D. sunny day",
+      "GT": "D"
+    },
+    "location": {
+      "question": "Where did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. urban, B. rural, C. suburban, D. desert",
+      "GT": "A"
+    },
+    "road type": {
+      "question": "What type of road is shown? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. roundabout, B. intersection, C. cul-de-sac, D. T-junction",
+      "GT": "D"
+    },
+    "accident type": {
+      "question": "What kind of accident occurred? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. bicycle collides with another bike, B. ego-car hits a crossing pedestrian, C. car hits pedestrian, D. truck rear-ends another vehicle",
+      "GT": "C"
+    },
+    "accident reason": {
+      "question": "Why did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. poor road conditions led to the accident, B. Cyclists does not notice the coming vehicles when crossing the street, C. Vehicle malfunction led to loss of control, D. Vehicles do not notice the pedestrians when turning or changing lanes",
+      "GT": "D"
+    },
+    "prevention method": {
+      "question": "How could this accident be prevented? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Motorcyclists should maintain a safe distance from other vehicles and signal their intentions clearly., B. Vehicles should avoid high speeds when changing lanes or turning and carefully observe approaching vehicles and pedestrians., C. Bus drivers should ensure their passengers are seated before making any turns or lane changes., D. Bicyclists should wear helmets and use bike lanes to avoid collisions with vehicles.",
+      "GT": "B"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_91.mp4": {
+    "weather and light": {
+      "question": "What's the weather and lighting? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. cloudy day, B. stormy night, C. sunny day, D. rainy evening",
+      "GT": "C"
+    },
+    "location": {
+      "question": "Where did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. rural, B. suburban, C. urban, D. industrial",
+      "GT": "C"
+    },
+    "road type": {
+      "question": "What type of road is shown? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. residential, B. highway, C. alley, D. arterials",
+      "GT": "D"
+    },
+    "accident type": {
+      "question": "What kind of accident occurred? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. car collides with another vehicle, B. bicycle hits a parked car, C. pedestrian was hit by surrounding vehicle, D. ego-car hits a crossing pedestrian",
+      "GT": "D"
+    },
+    "accident reason": {
+      "question": "Why did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Cyclists does not notice the coming vehicles when crossing the street, B. Pedestrians does not notice the coming vehicles when crossing the street, C. Cyclist ignored traffic signals, D. Pedestrians didn't follow traffic rules",
+      "GT": "D"
+    },
+    "prevention method": {
+      "question": "How could this accident be prevented? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Cyclists should wear helmets and ride on bike lanes, B. Pedestrians shouldn't jaywalk., C. Bus drivers need to be trained on pedestrian safety protocols, D. Motorists should always stop for red traffic lights at intersections",
+      "GT": "B"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_92.mp4": {
+    "weather and light": {
+      "question": "What's the weather and lighting? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. cloudy day, B. stormy night, C. rainy evening, D. sunny day",
+      "GT": "D"
+    },
+    "location": {
+      "question": "Where did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. rural, B. suburban, C. industrial, D. urban",
+      "GT": "D"
+    },
+    "road type": {
+      "question": "What type of road is shown? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. arterials, B. residential, C. cul-de-sac, D. expressway",
+      "GT": "A"
+    },
+    "accident type": {
+      "question": "What kind of accident occurred? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. pedestrian was hit by surrounding vehicle, B. ego-car hits a crossing pedestrian, C. bicycle hits a parked car, D. motorcycle skids on wet road",
+      "GT": "B"
+    },
+    "accident reason": {
+      "question": "Why did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Cyclists does not notice the coming vehicles when crossing the street, B. Pedestrians didn't follow traffic rules, C. Bicycle swerved into traffic unexpectedly, D. Mechanical failure in the vehicle occurred",
+      "GT": "B"
+    },
+    "prevention method": {
+      "question": "How could this accident be prevented? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Cyclists should wear reflective gear at night, B. Bus drivers should maintain a safe distance from pedestrians, C. Pedestrians should follow traffic rules, D. Motorcyclists should avoid speeding in crowded areas",
+      "GT": "C"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_93.mp4": {
+    "weather and light": {
+      "question": "What's the weather and lighting? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. cloudy day, B. snowy day, C. stormy night, D. rainy evening",
+      "GT": "B"
+    },
+    "location": {
+      "question": "Where did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. rural, B. suburban, C. highway, D. urban",
+      "GT": "D"
+    },
+    "road type": {
+      "question": "What type of road is shown? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. highway, B. arterials, C. alley, D. cul-de-sac",
+      "GT": "B"
+    },
+    "accident type": {
+      "question": "What kind of accident occurred? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. bicycle collides with car, B. car hits pedestrian, C. ego-car hits a crossing pedestrian, D. truck overturns on highway",
+      "GT": "B"
+    },
+    "accident reason": {
+      "question": "Why did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Driver was speeding through the intersection, B. Pedestrians didn't follow traffic rules, C. Cyclists does not notice the coming vehicles when crossing the street, D. Cyclist ignored traffic signals at the crossing",
+      "GT": "B"
+    },
+    "prevention method": {
+      "question": "How could this accident be prevented? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Pedestrians should follow traffic rules, B. Cyclists should follow traffic rules, C. Bus drivers should avoid stopping near pedestrian areas, D. Motorists should always check their blind spots before turning",
+      "GT": "A"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_94.mp4": {
+    "weather and light": {
+      "question": "What's the weather and lighting? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. cloudy day, B. sunny day, C. stormy night, D. rainy afternoon",
+      "GT": "B"
+    },
+    "location": {
+      "question": "Where did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. rural, B. urban, C. mountain, D. beach",
+      "GT": "B"
+    },
+    "road type": {
+      "question": "What type of road is shown? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. residential, B. expressway, C. dirt, D. arterials",
+      "GT": "D"
+    },
+    "accident type": {
+      "question": "What kind of accident occurred? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. car collides with another car, B. bicycle crashes into a tree, C. ego-car hits a pedestrian, D. motorcycle loses control on highway",
+      "GT": "C"
+    },
+    "accident reason": {
+      "question": "Why did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Pedestrians didn't notice coming vehicle, B. Driver was speeding through the intersection, C. Cyclists does not notice the coming vehicles when crossing the street, D. Distracted driver texting while driving",
+      "GT": "A"
+    },
+    "prevention method": {
+      "question": "How could this accident be prevented? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Pedestrians should wear reflective clothing at night, B. Drivers should avoid using their phones while driving, C. Pedestrians should see both ways before crossing, D. Bus drivers should always check their mirrors before turning",
+      "GT": "C"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_95.mp4": {
+    "weather and light": {
+      "question": "What's the weather and lighting? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. cloudy day, B. stormy evening, C. rainy night, D. snowy day",
+      "GT": "D"
+    },
+    "location": {
+      "question": "Where did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. rural, B. suburban, C. industrial, D. urban",
+      "GT": "D"
+    },
+    "road type": {
+      "question": "What type of road is shown? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. local, B. expressway, C. arterials, D. cul-de-sac",
+      "GT": "C"
+    },
+    "accident type": {
+      "question": "What kind of accident occurred? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. car hits pedestrian, B. bike collides with car, C. truck overturns on highway, D. ego-car hits a crossing pedestrian",
+      "GT": "A"
+    },
+    "accident reason": {
+      "question": "Why did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. The vehicle driver is in distracted driving, B. the road was wet from recent rain, C. Cyclists does not notice the coming vehicles when crossing the street, D. Pedestrians does not notice the coming vehicles when crossing the street",
+      "GT": "A"
+    },
+    "prevention method": {
+      "question": "How could this accident be prevented? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Vehicles should avoid speeding in bad weather or on challenging roads like mountains and curves, B. Motorcyclists should wear protective gear and follow speed limits in bad weather, C. Truck drivers should maintain their vehicles regularly to ensure safety on the road, D. Bicyclists should use reflective gear and signal their turns to enhance visibility",
+      "GT": "A"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_96.mp4": {
+    "weather and light": {
+      "question": "What's the weather and lighting? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. cloudy day, B. stormy evening, C. foggy morning, D. clear night",
+      "GT": "D"
+    },
+    "location": {
+      "question": "Where did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. rural, B. suburban, C. urban, D. highway",
+      "GT": "C"
+    },
+    "road type": {
+      "question": "What type of road is shown? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. intersection, B. highway, C. cul-de-sac, D. alley",
+      "GT": "A"
+    },
+    "accident type": {
+      "question": "What kind of accident occurred? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. car collides with another vehicle, B. bicycle hits a parked car, C. motorcycle loses control on road, D. ego-car hits a pedestrian",
+      "GT": "D"
+    },
+    "accident reason": {
+      "question": "Why did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. poor road conditions led to the accident, B. Vehicle malfunction caused the crash, C. Pedestrian moves or stays on the road, D. Road was slippery due to heavy rain",
+      "GT": "C"
+    },
+    "prevention method": {
+      "question": "How could this accident be prevented? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Vehicle should reduce when turning, B. Cyclists should wear reflective clothing at night, C. Pedestrians should be more aware of their surroundings, D. Motorcyclists should always signal before changing lanes",
+      "GT": "A"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_97.mp4": {
+    "weather and light": {
+      "question": "What's the weather and lighting? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. sunny day, B. cloudy day, C. stormy night, D. rainy evening",
+      "GT": "A"
+    },
+    "location": {
+      "question": "Where did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. rural, B. suburban, C. urban, D. highway",
+      "GT": "C"
+    },
+    "road type": {
+      "question": "What type of road is shown? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. residential, B. expressway, C. cul-de-sac, D. arterials",
+      "GT": "D"
+    },
+    "accident type": {
+      "question": "What kind of accident occurred? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. pedestrian was hit by surrounding vehicle, B. ego-car hits a crossing pedestrian, C. bicycle crashes into a lamppost, D. motorcycle skids on wet pavement",
+      "GT": "B"
+    },
+    "accident reason": {
+      "question": "Why did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Pedestrians didn't follow traffic rules, B. Cyclists does not notice the coming vehicles when crossing the street, C. Pedestrian does not use crosswalk when crossing the street, D. Cyclist failed to yield at the crosswalk",
+      "GT": "A"
+    },
+    "prevention method": {
+      "question": "How could this accident be prevented? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Cyclists should wear helmets while riding, B. Bus drivers should check for pedestrians before turning, C. Skateboarders should avoid busy streets during rush hour, D. Vehicle should reduce speed at intersection.",
+      "GT": "D"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_98.mp4": {
+    "weather and light": {
+      "question": "What's the weather and lighting? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. cloudy day, B. rainy evening, C. clear night, D. stormy night",
+      "GT": "C"
+    },
+    "location": {
+      "question": "Where did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. rural, B. coastal, C. urban, D. mountainous",
+      "GT": "C"
+    },
+    "road type": {
+      "question": "What type of road is shown? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. highways, B. alleys, C. arterials, D. cul-de-sacs",
+      "GT": "C"
+    },
+    "accident type": {
+      "question": "What kind of accident occurred? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. ego-car hits a crossing pedestrian, B. car hits pedestrian, C. motorcycle hits a wall, D. truck overturns on highway",
+      "GT": "B"
+    },
+    "accident reason": {
+      "question": "Why did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Cyclists does not notice the coming vehicles when crossing the street, B. Vehicle was speeding through the intersection, C. Motorcycle had a mechanical failure, D. Pedestrians didn't follow traffic rules",
+      "GT": "D"
+    },
+    "prevention method": {
+      "question": "How could this accident be prevented? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Cyclists should wear reflective gear while riding, B. Pedestrians should follow traffic rules, C. Bus drivers should maintain a safe distance from pedestrians, D. Motorists should always check their mirrors before turning",
+      "GT": "B"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_99.mp4": {
+    "weather and light": {
+      "question": "What's the weather and lighting? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. cloudy night, B. stormy afternoon, C. foggy morning, D. sunny day",
+      "GT": "D"
+    },
+    "location": {
+      "question": "Where did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. rural, B. suburban, C. urban, D. industrial",
+      "GT": "C"
+    },
+    "road type": {
+      "question": "What type of road is shown? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. highway, B. intersection, C. cul-de-sac, D. roundabout",
+      "GT": "B"
+    },
+    "accident type": {
+      "question": "What kind of accident occurred? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. car hits pedestrian, B. bicycle collides with car, C. motorcycle crashes into barrier, D. ego-car hits a crossing pedestrian",
+      "GT": "A"
+    },
+    "accident reason": {
+      "question": "Why did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Pedestrians does not notice the coming vehicles when crossing the street, B. Cyclists does not notice the coming vehicles when crossing the street, C. Vehicles do not notice the pedestrians when turning or changing lanes, D. Distracted by a phone while driving",
+      "GT": "C"
+    },
+    "prevention method": {
+      "question": "How could this accident be prevented? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Pedestrians should maintain a safe distance from other vehicles and signal their intentions clearly., B. Bus drivers should regularly check their mirrors and ensure passengers are seated before moving., C. Vehicles should avoid high speeds when changing lanes or turning and carefully observe approaching vehicles and pedestrians., D. Cyclists should always wear helmets and use designated bike lanes to enhance their safety on the road.",
+      "GT": "C"
+    }
+  },
+  "./VRU_videos/DoTA/VRU_100.mp4": {
+    "weather and light": {
+      "question": "What's the weather and lighting? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. cloudy evening, B. stormy afternoon, C. sunny day, D. rainy morning",
+      "GT": "C"
+    },
+    "location": {
+      "question": "Where did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. rural, B. suburban, C. industrial, D. urban",
+      "GT": "D"
+    },
+    "road type": {
+      "question": "What type of road is shown? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. highway, B. cul-de-sac, C. intersection, D. alley",
+      "GT": "C"
+    },
+    "accident type": {
+      "question": "What kind of accident occurred? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. bike collides with car, B. ego-car hits a crossing pedestrian, C. car hits pedestrian, D. motorcycle crashes into wall",
+      "GT": "C"
+    },
+    "accident reason": {
+      "question": "Why did the accident happen? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Pedestrians does not notice the coming vehicles when crossing the street, B. vehicles drive too fast with short braking distance, C. road conditions were icy and slippery, D. Cyclists does not notice the coming vehicles when crossing the street",
+      "GT": "B"
+    },
+    "prevention method": {
+      "question": "How could this accident be prevented? Choose the correct option (A, B, C, or D) without any explanations.",
+      "options": "A. Motorcyclists should maintain a safe distance and signal their intentions clearly to prevent accidents., B. Vehicles should avoid high speeds when changing lanes or turning and carefully observe approaching vehicles and pedestrians., C. Cyclists should refrain from riding in blind spots and be aware of their surroundings at all times., D. Bus drivers should ensure regular maintenance of their vehicles to avoid mechanical failures during turns.",
+      "GT": "B"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "./VRU_videos/CAP_DATA/VRU_1.mp4": {
+    "weather and light": {
+      "pred": null,
+      "GT": "A"
+    },
+    "location": {
+      "pred": "D",
+      "GT": "D"
+    },
+    "road type": {
+      "pred": "B",
+      "GT": "C"
+    },
+    "accident type": {
+      "pred": "B",
+      "GT": "A"
+    },
+    "accident reason": {
+      "pred": "D",
+      "GT": "A"
+    },
+    "prevention method": {
+      "pred": "B",
+      "GT": "B"
+    }
+  }
+}

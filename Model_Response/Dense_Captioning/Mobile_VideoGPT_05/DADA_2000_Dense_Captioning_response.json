@@ -1,0 +1,671 @@
+{
+  "./VRU_videos/DADA_2000/VRU_1.mp4": {
+    "pred": "The vehicle in the video is driving down a residential street."
+  },
+  "./VRU_videos/DADA_2000/VRU_2.mp4": {
+    "pred": "The vehicle in the video is driving down a narrow, winding road."
+  },
+  "./VRU_videos/DADA_2000/VRU_3.mp4": {
+    "pred": "The vehicle in front of the car is a sedan with a license plate of 6357 UYU."
+  },
+  "./VRU_videos/DADA_2000/VRU_4.mp4": {
+    "pred": "The vehicle in the video is a truck with a rear-mounted camera mounted on its roof."
+  },
+  "./VRU_videos/DADA_2000/VRU_5.mp4": {
+    "pred": "The red car was involved in a collision with another vehicle."
+  },
+  "./VRU_videos/DADA_2000/VRU_6.mp4": {
+    "pred": "The vehicle in front of the camera is a white car with a license plate of 6317 UY."
+  },
+  "./VRU_videos/DADA_2000/VRU_7.mp4": {
+    "pred": "The vehicle in front of the car is a sedan with a license plate of 6317 UYV."
+  },
+  "./VRU_videos/DADA_2000/VRU_8.mp4": {
+    "pred": "The vehicle in front of the car is a white truck with a blue stripe."
+  },
+  "./VRU_videos/DADA_2000/VRU_9.mp4": {
+    "pred": "The vehicle in the video is driving on a road at night. The driver, wearing a helmet and jacket, is seen speeding down the road with his car following closely behind him. As they approach an intersection, he stops to make a right turn. The traffic light turns red, and the vehicle continues to stop as it approaches the intersection. A pedestrian appears from the left side of the frame and starts crossing the street while the other vehicles are still stopped."
+  },
+  "./VRU_videos/DADA_2000/VRU_10.mp4": {
+    "pred": "The vehicle is seen driving down the road, passing a bridge."
+  },
+  "./VRU_videos/DADA_2000/VRU_11.mp4": {
+    "pred": "The car is driving down the road and passing a red sign."
+  },
+  "./VRU_videos/DADA_2000/VRU_12.mp4": {
+    "pred": "The car in front of the camera is a Toyota Prius, and it has just collided with another vehicle."
+  },
+  "./VRU_videos/DADA_2000/VRU_13.mp4": {
+    "pred": "The vehicle in the video is driving down a country road."
+  },
+  "./VRU_videos/DADA_2000/VRU_14.mp4": {
+    "pred": "The vehicle in front of the car is a motorcycle with a red and white color scheme."
+  },
+  "./VRU_videos/DADA_2000/VRU_15.mp4": {
+    "pred": "The vehicle in the video is driving down a narrow street lined with buildings and parked cars. The driver, who appears to be male wearing a blue shirt, is seen approaching an intersection where there are two trucks parked on the side of the road. As he approaches, he notices that one truck has pulled over another, which is causing traffic congestion. He then stops his car at the intersection, and as he waits for the traffic light to turn green, he sees a white van with a blue logo passing by from behind.\n\nAs the traffic light turns green, the driver proceeds to follow the white van, which is moving slowly due to the heavy traffic. The driver follows closely behind the van, indicating that they need to maintain their speed while navigating through the congested traffic. Eventually, the driver reaches the intersection and begins to slow down, allowing the van to pull away. The scene shows the van's rear end coming into view, suggesting it may have been involved in a collision or accident.\n\nAfter stopping"
+  },
+  "./VRU_videos/DADA_2000/VRU_16.mp4": {
+    "pred": "The car was speeding down the highway and collided with a pedestrian."
+  },
+  "./VRU_videos/DADA_2000/VRU_17.mp4": {
+    "pred": "The video shows a traffic jam on the road with several cars stuck in traffic. A yellow bus is passing by, and there are trees lining the street. The car that was involved in the collision is black and has a license plate of 6317 UYU."
+  },
+  "./VRU_videos/DADA_2000/VRU_18.mp4": {
+    "pred": "The car in the video is driving on a busy road with other cars and pedestrians. The car starts to collide with another vehicle, which appears to be a white sedan. As the collision progresses, the driver of the car loses control and falls over, causing both vehicles to crash into each other."
+  },
+  "./VRU_videos/DADA_2000/VRU_19.mp4": {
+    "pred": "The crash occurred on a road with a white house and greenery in the background. The driver of the car was wearing a blue shirt, and he fell to his knees after colliding with another vehicle."
+  },
+  "./VRU_videos/DADA_2000/VRU_20.mp4": {
+    "pred": "The vehicle in the video is driving on a road at night. The driver is wearing a helmet and is following another car that has just passed by. As they approach, they notice a pedestrian crossing the street from the left side of the road. The traffic light turns red, and the vehicle stops to allow them to cross."
+  },
+  "./VRU_videos/DADA_2000/VRU_21.mp4": {
+    "pred": "The bus is seen passing through the intersection, and a person wearing a blue shirt is walking on the sidewalk."
+  },
+  "./VRU_videos/DADA_2000/VRU_22.mp4": {
+    "pred": "The vehicle in front of the car is a white Toyota Prius."
+  },
+  "./VRU_videos/DADA_2000/VRU_23.mp4": {
+    "pred": "The car is driving down the street and collides with a pedestrian."
+  },
+  "./VRU_videos/DADA_2000/VRU_24.mp4": {
+    "pred": "The car is driving down the road and passing a white van."
+  },
+  "./VRU_videos/DADA_2000/VRU_25.mp4": {
+    "pred": "The vehicle in the video is driving down a mountainous road."
+  },
+  "./VRU_videos/DADA_2000/VRU_26.mp4": {
+    "pred": "The car was speeding and driving fast on the road."
+  },
+  "./VRU_videos/DADA_2000/VRU_27.mp4": {
+    "pred": "The vehicle is seen driving down the road, passing a red truck parked on the side of the street. The car passes by a blue building with a sign that reads \"FIRE\" and then turns to the right at an intersection."
+  },
+  "./VRU_videos/DADA_2000/VRU_28.mp4": {
+    "pred": "The vehicle in front of the car with the flashing light is a sedan."
+  },
+  "./VRU_videos/DADA_2000/VRU_29.mp4": {
+    "pred": "The vehicle is seen driving down the road, passing a pedestrian who was lying on the ground. The car then turns to the right and approaches another vehicle that had collided with it."
+  },
+  "./VRU_videos/DADA_2000/VRU_30.mp4": {
+    "pred": "The car was driving down the street when it collided with a man standing on the sidewalk."
+  },
+  "./VRU_videos/DADA_2000/VRU_31.mp4": {
+    "pred": "The bus is seen driving down the road, passing by a yellow car and several other cars. The camera captures the bus from behind as it moves forward."
+  },
+  "./VRU_videos/DADA_2000/VRU_32.mp4": {
+    "pred": "The vehicle in front of the car with plate number 975643 is involved in a collision."
+  },
+  "./VRU_videos/DADA_2000/VRU_33.mp4": {
+    "pred": "The car is driving down the street and collides with a truck."
+  },
+  "./VRU_videos/DADA_2000/VRU_34.mp4": {
+    "pred": "The video shows a collision between a motorcycle and a car on the road."
+  },
+  "./VRU_videos/DADA_2000/VRU_35.mp4": {
+    "pred": "The car is driving down the street and passing through a crosswalk."
+  },
+  "./VRU_videos/DADA_2000/VRU_36.mp4": {
+    "pred": "The vehicle in front of the car is a white van with a blue and yellow logo on its side."
+  },
+  "./VRU_videos/DADA_2000/VRU_37.mp4": {
+    "pred": "The vehicle is approaching a red signboard with Chinese characters that reads \"Bakery\" and \"Food.\""
+  },
+  "./VRU_videos/DADA_2000/VRU_38.mp4": {
+    "pred": "The vehicle in the video is driving on a wet road, and it hits another car."
+  },
+  "./VRU_videos/DADA_2000/VRU_39.mp4": {
+    "pred": "The vehicle in front of the car is a sedan with a black exterior and silver alloy wheels."
+  },
+  "./VRU_videos/DADA_2000/VRU_40.mp4": {
+    "pred": "The vehicle in the video is seen driving on a road at night. It starts to move forward and then collides with another car, causing it to crash."
+  },
+  "./VRU_videos/DADA_2000/VRU_41.mp4": {
+    "pred": "The car was driving slowly and the pedestrian was walking."
+  },
+  "./VRU_videos/DADA_2000/VRU_42.mp4": {
+    "pred": "The vehicle in front of the car is a white Toyota Prius."
+  },
+  "./VRU_videos/DADA_2000/VRU_43.mp4": {
+    "pred": "The vehicle is seen driving down the road, passing a sign that reads EXIT ONLY. As it approaches another intersection, it encounters a pedestrian crossing the street and stops to allow them to cross."
+  },
+  "./VRU_videos/DADA_2000/VRU_44.mp4": {
+    "pred": "The car was driving down the road when it collided with a truck."
+  },
+  "./VRU_videos/DADA_2000/VRU_45.mp4": {
+    "pred": "The white car collided with a motorcycle on the road."
+  },
+  "./VRU_videos/DADA_2000/VRU_46.mp4": {
+    "pred": "The car was driving down the road when it collided with a white van."
+  },
+  "./VRU_videos/DADA_2000/VRU_47.mp4": {
+    "pred": "The vehicle in the video is driving down a busy city street."
+  },
+  "./VRU_videos/DADA_2000/VRU_48.mp4": {
+    "pred": "The car was driving down the street when it collided with a pedestrian."
+  },
+  "./VRU_videos/DADA_2000/VRU_49.mp4": {
+    "pred": "The video shows a person riding a motorcycle down the road."
+  },
+  "./VRU_videos/DADA_2000/VRU_50.mp4": {
+    "pred": "The vehicle in the video is a red car that was involved in an accident."
+  },
+  "./VRU_videos/DADA_2000/VRU_51.mp4": {
+    "pred": "The video shows a car driving down the road and colliding with another vehicle."
+  },
+  "./VRU_videos/DADA_2000/VRU_52.mp4": {
+    "pred": "The video shows a car crashing into the back of another vehicle."
+  },
+  "./VRU_videos/DADA_2000/VRU_53.mp4": {
+    "pred": "The vehicle in the video is a car with its headlights on."
+  },
+  "./VRU_videos/DADA_2000/VRU_54.mp4": {
+    "pred": "The vehicle in front of the car is a blue truck with a license plate of 63712."
+  },
+  "./VRU_videos/DADA_2000/VRU_55.mp4": {
+    "pred": "The crash occurred on a road with a white house and parked cars in the background. A man wearing a black jacket was seen standing near the car, while another person was sitting on the ground nearby. The scene took place during daylight hours under clear skies."
+  },
+  "./VRU_videos/DADA_2000/VRU_56.mp4": {
+    "pred": "The car in front of the camera is a white Toyota Prius, and it has just passed through an intersection."
+  },
+  "./VRU_videos/DADA_2000/VRU_57.mp4": {
+    "pred": "The vehicle in the video is a car with its license plate number 675412. The driver of the car, wearing a red jacket and blue jeans, is seen running towards the intersection while holding onto the door handle. As he approaches the intersection, he turns to his right and proceeds straight ahead. He then stops at the intersection, where there are several cars parked on the side of the road. A pedestrian is also present, standing near the sidewalk."
+  },
+  "./VRU_videos/DADA_2000/VRU_58.mp4": {
+    "pred": "The car is driving down the road and passing by a blue signboard that says SUNHOO."
+  },
+  "./VRU_videos/DADA_2000/VRU_59.mp4": {
+    "pred": "The crash occurred in a city with tall buildings and trees. A man wearing a black jacket was walking towards the left side of the frame while carrying a blue shopping bag. He passed by a yellow fence, which had been set up for traffic control. The scene then shifted to show a person on a motorcycle approaching from behind. As the camera moved forward, it captured more people passing by, including a woman riding a bicycle and another person on a scooter."
+  },
+  "./VRU_videos/DADA_2000/VRU_60.mp4": {
+    "pred": "The car is driving down the road and passing by a red bus."
+  },
+  "./VRU_videos/DADA_2000/VRU_61.mp4": {
+    "pred": "The blue truck collided with the white car."
+  },
+  "./VRU_videos/DADA_2000/VRU_62.mp4": {
+    "pred": "The crash occurred in a busy city street with a traffic light. A motorcyclist was seen riding down the road, and another person was sitting on a motorcycle next to him. The scene was captured from inside a vehicle."
+  },
+  "./VRU_videos/DADA_2000/VRU_63.mp4": {
+    "pred": "The video shows a traffic jam in an urban area."
+  },
+  "./VRU_videos/DADA_2000/VRU_64.mp4": {
+    "pred": "The video shows a traffic jam on the road with cars and motorcycles moving slowly. A white car is seen driving down the street, while other vehicles are stopped at an intersection. The scene then shifts to show a man riding a motorcycle in front of the camera."
+  },
+  "./VRU_videos/DADA_2000/VRU_65.mp4": {
+    "pred": "The video shows a traffic jam on the road with cars stopped at an intersection."
+  },
+  "./VRU_videos/DADA_2000/VRU_66.mp4": {
+    "pred": "The video shows a car driving down the road and passing by other vehicles. A child is seen riding a bicycle on the side of the road, but then falls off onto the ground. The child gets up and walks towards the camera while the car continues to drive past him."
+  },
+  "./VRU_videos/DADA_2000/VRU_67.mp4": {
+    "pred": "The vehicle in the video is a white car with a license plate of 63754. The scene takes place on an empty road lined with trees and buildings, where several cars are parked. A large building with a red roof can be seen behind the vehicles. As the camera moves forward, it captures more people walking around the area, including a man wearing a black jacket and hat who appears to be taking pictures or recording something."
+  },
+  "./VRU_videos/DADA_2000/VRU_68.mp4": {
+    "pred": "The vehicle in the video is a white sedan with a license plate of 10679. It was driving on a road at night, and it collided with another car that had been speeding ahead."
+  },
+  "./VRU_videos/DADA_2000/VRU_69.mp4": {
+    "pred": "The vehicle in front of the camera is a yellow car with a license plate of 6317 UYU."
+  },
+  "./VRU_videos/DADA_2000/VRU_70.mp4": {
+    "pred": "The vehicle in front of the car is a blue sedan with a license plate L21675. The driver, who appears to be male and Caucasian, is wearing a helmet and glasses while driving on an urban street lined with buildings and trees. As he approaches a pedestrian crossing, he stops at the intersection due to a red light."
+  },
+  "./VRU_videos/DADA_2000/VRU_71.mp4": {
+    "pred": "The white car was driving slowly and deliberately, approaching the intersection."
+  },
+  "./VRU_videos/DADA_2000/VRU_72.mp4": {
+    "pred": "The vehicle in the video is a motorcycle that has crashed into a traffic light."
+  },
+  "./VRU_videos/DADA_2000/VRU_73.mp4": {
+    "pred": "The car is driving down the street and collides with a motorcycle."
+  },
+  "./VRU_videos/DADA_2000/VRU_74.mp4": {
+    "pred": "The car was driving down the road when it collided with a truck."
+  },
+  "./VRU_videos/DADA_2000/VRU_75.mp4": {
+    "pred": "The car is driving towards the traffic light and then turns to the right."
+  },
+  "./VRU_videos/DADA_2000/VRU_76.mp4": {
+    "pred": "The vehicle in front of the camera is a red bus with the word Shanghai on its side."
+  },
+  "./VRU_videos/DADA_2000/VRU_77.mp4": {
+    "pred": "The vehicle in the video is seen driving on a road with a sign indicating that it is closed to traffic. The driver then proceeds straight ahead, and as he approaches another car, he turns left at an angle. He passes by a white van parked on the side of the road, which has its headlights on. As he continues his journey, he comes to a stop near a parking area marked with yellow cones. A white van is parked nearby, and there are several other cars parked in the same area."
+  },
+  "./VRU_videos/DADA_2000/VRU_78.mp4": {
+    "pred": "The car in the video is driving on a busy city street."
+  },
+  "./VRU_videos/DADA_2000/VRU_79.mp4": {
+    "pred": "The car was speeding down the road and collided with a man who was riding a scooter."
+  },
+  "./VRU_videos/DADA_2000/VRU_80.mp4": {
+    "pred": "The car in front of the camera is a white Toyota Prius."
+  },
+  "./VRU_videos/DADA_2000/VRU_81.mp4": {
+    "pred": "The car is driving down the road and passing a traffic sign."
+  },
+  "./VRU_videos/DADA_2000/VRU_82.mp4": {
+    "pred": "The vehicle in front of the car is a white sedan with a license plate of 6317 UYU."
+  },
+  "./VRU_videos/DADA_2000/VRU_83.mp4": {
+    "pred": "The car is driving down the road and passes a pedestrian."
+  },
+  "./VRU_videos/DADA_2000/VRU_84.mp4": {
+    "pred": "The car in front of the man is a Toyota Prius, and it has just passed through an intersection."
+  },
+  "./VRU_videos/DADA_2000/VRU_85.mp4": {
+    "pred": "The car is driving down the road and passing by a lot of cars."
+  },
+  "./VRU_videos/DADA_2000/VRU_86.mp4": {
+    "pred": "The vehicle in the video is driving down a busy city street."
+  },
+  "./VRU_videos/DADA_2000/VRU_87.mp4": {
+    "pred": "The man in the black shirt and jeans falls to the ground after being hit by a car."
+  },
+  "./VRU_videos/DADA_2000/VRU_88.mp4": {
+    "pred": "The car was speeding down the street and collided with a bicycle."
+  },
+  "./VRU_videos/DADA_2000/VRU_89.mp4": {
+    "pred": "The video shows a car driving down the road and colliding with another vehicle."
+  },
+  "./VRU_videos/DADA_2000/VRU_90.mp4": {
+    "pred": "The car was driving on the right lane when it collided with a pedestrian."
+  },
+  "./VRU_videos/DADA_2000/VRU_91.mp4": {
+    "pred": "The vehicle in the video is a green car that was involved in an accident."
+  },
+  "./VRU_videos/DADA_2000/VRU_92.mp4": {
+    "pred": "The white van was involved in a collision with another vehicle."
+  },
+  "./VRU_videos/DADA_2000/VRU_93.mp4": {
+    "pred": "The blue truck collided with the white van."
+  },
+  "./VRU_videos/DADA_2000/VRU_94.mp4": {
+    "pred": "The car in front of the pedestrian is stopped at a red light."
+  },
+  "./VRU_videos/DADA_2000/VRU_95.mp4": {
+    "pred": "The car in front of the car following is a yellow sedan with plate number 12376."
+  },
+  "./VRU_videos/DADA_2000/VRU_96.mp4": {
+    "pred": "The driver of the black car was seen standing on the side of the road, holding a bucket."
+  },
+  "./VRU_videos/DADA_2000/VRU_97.mp4": {
+    "pred": "The car was driving down the road when it collided with a pedestrian."
+  },
+  "./VRU_videos/DADA_2000/VRU_98.mp4": {
+    "pred": "The video shows a man on a scooter crashing into the side of the road."
+  },
+  "./VRU_videos/DADA_2000/VRU_99.mp4": {
+    "pred": "The video shows a car driving down the road, passing by other cars and pedestrians. The car is seen approaching an intersection where there are several parked cars. As it approaches the intersection, the car stops at the red light, waiting for the traffic light to turn green. However, when the traffic light turns green, the car continues to stop as no other vehicles or pedestrians are visible in the frame."
+  },
+  "./VRU_videos/DADA_2000/VRU_100.mp4": {
+    "pred": "The video shows a car driving down the street and colliding with another vehicle."
+  },
+  "./VRU_videos/DADA_2000/VRU_101.mp4": {
+    "pred": "The crash occurred on a busy road with traffic lights and other vehicles. A red car was seen driving in front of the motorcycle, which had crashed into it. The driver of the motorcycle then turned to the left side of the street."
+  },
+  "./VRU_videos/DADA_2000/VRU_102.mp4": {
+    "pred": "The crash occurred in a city street with a large number of vehicles. A motorcycle and several cars were involved, causing the vehicle to tilt sideways and eventually overturning. The rider was seen lying on the ground while the other two individuals continued to ride past him."
+  },
+  "./VRU_videos/DADA_2000/VRU_103.mp4": {
+    "pred": "The vehicle in the video is driving down a busy road with many cars and pedestrians. The driver, who appears to be male, is wearing a black shirt and dark pants. He is riding his motorcycle at high speed on the road. As he approaches an intersection, there are several vehicles waiting for him. Suddenly, the motorcycle collides with one of them, causing it to overturn and fall over. The rider falls off the bike as well. The motorcycle then stops near the intersection where other vehicles are also stopped."
+  },
+  "./VRU_videos/DADA_2000/VRU_104.mp4": {
+    "pred": "The crash occurred in an urban setting with a green traffic light. A motorcycle and several other vehicles were present, including a red car that was involved in the incident. The scene shows a person wearing a helmet who is lying on the ground while another individual is seen standing nearby."
+  },
+  "./VRU_videos/DADA_2000/VRU_105.mp4": {
+    "pred": "The video shows a car driving down the road and crashing into a motorcycle."
+  },
+  "./VRU_videos/DADA_2000/VRU_106.mp4": {
+    "pred": "The crash occurred on a busy street with a large number of cars parked. A man wearing a blue shirt and black pants was riding his bicycle down the road, while another person in a white hat was standing near the car. The scene was captured by a camera mounted on a vehicle's dashboard."
+  },
+  "./VRU_videos/DADA_2000/VRU_107.mp4": {
+    "pred": "The vehicle in front of the motorcycle is a white truck with a plate number of 1267."
+  },
+  "./VRU_videos/DADA_2000/VRU_108.mp4": {
+    "pred": "The vehicle in the video is driving on a snowy road at night."
+  },
+  "./VRU_videos/DADA_2000/VRU_109.mp4": {
+    "pred": "The crash occurred in an urban setting with a traffic light at the intersection. A cyclist was seen riding across the street, and another person on a bicycle approached from behind. The scene then shifted to show two cars stopped at the crosswalk, one of which had just passed by. As the video progressed, a blue car appeared and collided with the cyclist who was still sitting on his bike."
+  },
+  "./VRU_videos/DADA_2000/VRU_110.mp4": {
+    "pred": "The car is seen driving down the road, passing a green fence and a building with a blue sign. The car passes by a white SUV parked on the side of the street."
+  },
+  "./VRU_videos/DADA_2000/VRU_111.mp4": {
+    "pred": "The car is speeding down the road and collides with a man on a scooter."
+  },
+  "./VRU_videos/DADA_2000/VRU_112.mp4": {
+    "pred": "The vehicle in front of the car that collided with the other was a white sedan."
+  },
+  "./VRU_videos/DADA_2000/VRU_113.mp4": {
+    "pred": "The car was driving down the street when it collided with a bus."
+  },
+  "./VRU_videos/DADA_2000/VRU_114.mp4": {
+    "pred": "The white car was involved in a collision with the truck."
+  },
+  "./VRU_videos/DADA_2000/VRU_115.mp4": {
+    "pred": "The red car was involved in a collision with the blue truck."
+  },
+  "./VRU_videos/DADA_2000/VRU_116.mp4": {
+    "pred": "The crash occurred on a rainy day in the city. A red truck with its front open and a bicycle were involved in an accident."
+  },
+  "./VRU_videos/DADA_2000/VRU_117.mp4": {
+    "pred": "The vehicle in front of the car is a white van with a blue stripe."
+  },
+  "./VRU_videos/DADA_2000/VRU_118.mp4": {
+    "pred": "The vehicle in the video is a white Toyota Camry with the plate number LK1678. The driver, who appears to be male and Caucasian, is wearing a yellow shirt and black pants. He is seen driving on the road at night under artificial lighting from street lamps and buildings. As he approaches the intersection, he sees another car ahead and proceeds to make a right turn."
+  },
+  "./VRU_videos/DADA_2000/VRU_119.mp4": {
+    "pred": "The video shows a car driving down the street and colliding with another vehicle."
+  },
+  "./VRU_videos/DADA_2000/VRU_120.mp4": {
+    "pred": "The video shows a car driving down the street and colliding with other cars."
+  },
+  "./VRU_videos/DADA_2000/VRU_121.mp4": {
+    "pred": "The white car collided with the bus."
+  },
+  "./VRU_videos/DADA_2000/VRU_122.mp4": {
+    "pred": "The video shows a traffic jam on the road with cars stopped and people walking in front of them. A car is seen driving slowly, while another car passes by it. The traffic light turns green as the car waits for it to move forward."
+  },
+  "./VRU_videos/DADA_2000/VRU_123.mp4": {
+    "pred": "The video shows a car driving down the road and colliding with another vehicle."
+  },
+  "./VRU_videos/DADA_2000/VRU_124.mp4": {
+    "pred": "The red car collided with the pedestrian."
+  },
+  "./VRU_videos/DADA_2000/VRU_125.mp4": {
+    "pred": "The video shows a white car driving down the street, passing by other cars and pedestrians. The car is seen making a right turn at an intersection, where it collides with another vehicle."
+  },
+  "./VRU_videos/DADA_2000/VRU_126.mp4": {
+    "pred": "The vehicle in front of the car is a white van with its rear lights on."
+  },
+  "./VRU_videos/DADA_2000/VRU_127.mp4": {
+    "pred": "The car in front of the car with the green van is involved in a collision."
+  },
+  "./VRU_videos/DADA_2000/VRU_128.mp4": {
+    "pred": "The crash occurred in a city street with traffic lights and buildings. A man wearing a red jacket was riding a motorcycle on the left side of the road, while another person in blue was walking across the crosswalk. The scene was captured by a camera mounted on a vehicle's dashboard."
+  },
+  "./VRU_videos/DADA_2000/VRU_129.mp4": {
+    "pred": "The video shows a traffic jam in an urban area during rush hour. A red car is seen driving through the intersection, but it comes to a stop at the crosswalk before proceeding further down the road. The scene is captured from inside a vehicle, with the camera angle showing the rear of the car and the side mirror reflecting the surroundings."
+  },
+  "./VRU_videos/DADA_2000/VRU_130.mp4": {
+    "pred": "The white SUV was driving down the street when it collided with a silver car."
+  },
+  "./VRU_videos/DADA_2000/VRU_131.mp4": {
+    "pred": "The blue car was involved in a collision with the white van."
+  },
+  "./VRU_videos/DADA_2000/VRU_132.mp4": {
+    "pred": "The crash occurred on a busy city street with vehicles and pedestrians. A person wearing a red shirt was seen walking across the street, while another individual in black shorts and a backpack walked past him. The scene then shifted to show a man carrying a pink bag as he crossed the street from left to right. He passed by several cars including one with a license plate that read \"10357\". As he approached the intersection, he saw a pedestrian crossing the street from the opposite direction of his path. The traffic light at the intersection showed green, allowing him to cross safely."
+  },
+  "./VRU_videos/DADA_2000/VRU_133.mp4": {
+    "pred": "The vehicle in front of the car with the red hood is a motorcycle."
+  },
+  "./VRU_videos/DADA_2000/VRU_134.mp4": {
+    "pred": "The car in front of the camera is a white Toyota Prius."
+  },
+  "./VRU_videos/DADA_2000/VRU_135.mp4": {
+    "pred": "The car collided with a pedestrian who was wearing a red coat."
+  },
+  "./VRU_videos/DADA_2000/VRU_136.mp4": {
+    "pred": "The video shows a blue car driving down the road."
+  },
+  "./VRU_videos/DADA_2000/VRU_137.mp4": {
+    "pred": "The video shows a car driving down the road and colliding with another vehicle."
+  },
+  "./VRU_videos/DADA_2000/VRU_138.mp4": {
+    "pred": "The vehicle in front of the motorcycle is a yellow bus."
+  },
+  "./VRU_videos/DADA_2000/VRU_139.mp4": {
+    "pred": "The white van collided with a red car."
+  },
+  "./VRU_videos/DADA_2000/VRU_140.mp4": {
+    "pred": "The car in the video is driving on a road during the night. The scene shows several cars passing by, including one with the license plate number \"KJ 516\". A person wearing a helmet and jacket is seen riding a scooter down the street. As the camera moves forward, it captures more of the surroundings, including buildings and other vehicles."
+  },
+  "./VRU_videos/DADA_2000/VRU_141.mp4": {
+    "pred": "The vehicle in front of the car is a white sedan with a license plate of 63417."
+  },
+  "./VRU_videos/DADA_2000/VRU_142.mp4": {
+    "pred": "The vehicle in front of the car with the rear lights flashing is a white sedan."
+  },
+  "./VRU_videos/DADA_2000/VRU_143.mp4": {
+    "pred": "The car in the video is driving on a wet road."
+  },
+  "./VRU_videos/DADA_2000/VRU_144.mp4": {
+    "pred": "The car in front of the camera is a white Toyota Prius."
+  },
+  "./VRU_videos/DADA_2000/VRU_145.mp4": {
+    "pred": "The video shows a black Toyota sedan driving down the street."
+  },
+  "./VRU_videos/DADA_2000/VRU_146.mp4": {
+    "pred": "The blue car was involved in a collision with another vehicle."
+  },
+  "./VRU_videos/DADA_2000/VRU_147.mp4": {
+    "pred": "The video shows a man in yellow shorts and a black shirt lying on the ground while another person is sitting on the sidewalk. The scene takes place at an intersection with traffic lights, where the man falls to the ground due to the speed of the cars passing by."
+  },
+  "./VRU_videos/DADA_2000/VRU_148.mp4": {
+    "pred": "The vehicle in front of the camera is a white car with a license plate of 6317 UYU."
+  },
+  "./VRU_videos/DADA_2000/VRU_149.mp4": {
+    "pred": "The car in the video is driving on a busy road with other vehicles."
+  },
+  "./VRU_videos/DADA_2000/VRU_150.mp4": {
+    "pred": "The car is driving down the road and passing a pedestrian."
+  },
+  "./VRU_videos/DADA_2000/VRU_151.mp4": {
+    "pred": "The car in front of the camera is a black Toyota Prius with plate number 3567."
+  },
+  "./VRU_videos/DADA_2000/VRU_152.mp4": {
+    "pred": "The car in front of the white van is stopped at a traffic light."
+  },
+  "./VRU_videos/DADA_2000/VRU_153.mp4": {
+    "pred": "The bus is seen driving down the road, passing by a large crowd of people."
+  },
+  "./VRU_videos/DADA_2000/VRU_154.mp4": {
+    "pred": "The blue car collided with the white car."
+  },
+  "./VRU_videos/DADA_2000/VRU_155.mp4": {
+    "pred": "The vehicle in the video is a motorcycle that has just collided with another motorcyclist."
+  },
+  "./VRU_videos/DADA_2000/VRU_156.mp4": {
+    "pred": "The car is stopped at the intersection, and a man in a black shirt is seen crossing the street."
+  },
+  "./VRU_videos/DADA_2000/VRU_157.mp4": {
+    "pred": "The car in front of the white car is stopped at a traffic light."
+  },
+  "./VRU_videos/DADA_2000/VRU_158.mp4": {
+    "pred": "The vehicle in the video is a white sedan with a license plate of 6217 UYD. It was driving on an empty road during rush hour, and it passed through a traffic light at the intersection. The scene took place in a city with tall buildings lining the street."
+  },
+  "./VRU_videos/DADA_2000/VRU_159.mp4": {
+    "pred": "The car in front of the white SUV is stopped at a traffic light."
+  },
+  "./VRU_videos/DADA_2000/VRU_160.mp4": {
+    "pred": "The car is speeding down the road and almost colliding with a pedestrian."
+  },
+  "./VRU_videos/DADA_2000/VRU_161.mp4": {
+    "pred": "The car in front of the camera is a white Mercedes."
+  },
+  "./VRU_videos/DADA_2000/VRU_162.mp4": {
+    "pred": "The car was driving towards the intersection and then turned left. As it approached, a pedestrian in a white shirt crossed the street from the right side of the road to the left. The traffic light at the intersection showed red, and the car stopped waiting for the green signal."
+  },
+  "./VRU_videos/DADA_2000/VRU_163.mp4": {
+    "pred": "The vehicle in front of the car with the red truck is a sedan."
+  },
+  "./VRU_videos/DADA_2000/VRU_164.mp4": {
+    "pred": "The car in front of the white van was involved in a collision."
+  },
+  "./VRU_videos/DADA_2000/VRU_165.mp4": {
+    "pred": "The vehicle in the video is a white van with two men on it."
+  },
+  "./VRU_videos/DADA_2000/VRU_166.mp4": {
+    "pred": "The red car is seen driving on the road."
+  },
+  "./VRU_videos/DADA_2000/VRU_167.mp4": {
+    "pred": "The bus collided with a pedestrian."
+  },
+  "./VRU_videos/DADA_2000/VRU_168.mp4": {
+    "pred": "The car in front of the cyclist is stopped at a red light."
+  },
+  "./VRU_videos/DADA_2000/VRU_169.mp4": {
+    "pred": "The vehicle is seen driving down the road, passing by a red signboard that reads \"STOP HERE\" and then continues to drive."
+  },
+  "./VRU_videos/DADA_2000/VRU_170.mp4": {
+    "pred": "The video shows a man riding a bicycle down the street. He falls off his bike and is seen lying on the ground, while another car drives past him."
+  },
+  "./VRU_videos/DADA_2000/VRU_171.mp4": {
+    "pred": "The red car collided with the white truck."
+  },
+  "./VRU_videos/DADA_2000/VRU_172.mp4": {
+    "pred": "The vehicle in the video is a motorcycle that has just passed through an intersection. The rider, wearing a helmet and goggles, is seen approaching the intersection with caution as he approaches a pedestrian crossing. As the motorcycle passes by the pedestrian, it causes a collision."
+  },
+  "./VRU_videos/DADA_2000/VRU_173.mp4": {
+    "pred": "The vehicle in front of the motorcycle is a Toyota Prius."
+  },
+  "./VRU_videos/DADA_2000/VRU_174.mp4": {
+    "pred": "The car is seen driving down the road and then collides with a motorcycle."
+  },
+  "./VRU_videos/DADA_2000/VRU_175.mp4": {
+    "pred": "The vehicle in front of the car is a white truck with a blue and yellow logo."
+  },
+  "./VRU_videos/DADA_2000/VRU_176.mp4": {
+    "pred": "The car was driving towards the intersection and stopped at a red light. The pedestrian then turned to the right side of the road, but the traffic light remained red for several seconds before turning green."
+  },
+  "./VRU_videos/DADA_2000/VRU_177.mp4": {
+    "pred": "The car is driving down the road and collides with a bicycle."
+  },
+  "./VRU_videos/DADA_2000/VRU_178.mp4": {
+    "pred": "The crash occurred in a busy city street."
+  },
+  "./VRU_videos/DADA_2000/VRU_179.mp4": {
+    "pred": "The crash occurred at a crosswalk where the pedestrian was crossing. The vehicle in front of the cyclist, which is a red car, collided with the pedestrian and flipped over onto its side."
+  },
+  "./VRU_videos/DADA_2000/VRU_180.mp4": {
+    "pred": "The video shows a car driving through an intersection and colliding with a bicycle."
+  },
+  "./VRU_videos/DADA_2000/VRU_181.mp4": {
+    "pred": "The car in the video is a silver sedan with plate number 64579."
+  },
+  "./VRU_videos/DADA_2000/VRU_182.mp4": {
+    "pred": "The blue car was involved in a collision with another vehicle."
+  },
+  "./VRU_videos/DADA_2000/VRU_183.mp4": {
+    "pred": "The car was driving slowly and the person on the bike was riding at a moderate speed. The car stopped in front of the pedestrian crossing, which is marked with a yellow line."
+  },
+  "./VRU_videos/DADA_2000/VRU_184.mp4": {
+    "pred": "The video shows a cyclist crashing on the side of the road."
+  },
+  "./VRU_videos/DADA_2000/VRU_185.mp4": {
+    "pred": "The vehicle in the front is seen crashing into a bus."
+  },
+  "./VRU_videos/DADA_2000/VRU_186.mp4": {
+    "pred": "The car is driving down the road and passing a large bridge."
+  },
+  "./VRU_videos/DADA_2000/VRU_187.mp4": {
+    "pred": "The vehicle in front of the car is a sedan with a rear spoiler and a license plate that reads \"1234\"."
+  },
+  "./VRU_videos/DADA_2000/VRU_188.mp4": {
+    "pred": "The car in front of the white sedan was stopped at a traffic light."
+  },
+  "./VRU_videos/DADA_2000/VRU_189.mp4": {
+    "pred": "The white car was the first to stop at the intersection."
+  },
+  "./VRU_videos/DADA_2000/VRU_190.mp4": {
+    "pred": "The vehicle in the video is seen driving on a busy road at night. The scene shows several vehicles, including cars and buses, moving through the intersection. A person wearing a helmet can be seen riding a bicycle down the street. As the traffic light turns red, the car ahead stops and waits for the green signal to turn off."
+  },
+  "./VRU_videos/DADA_2000/VRU_191.mp4": {
+    "pred": "The vehicle in front of the car that collided with the pedestrian is a white Toyota."
+  },
+  "./VRU_videos/DADA_2000/VRU_192.mp4": {
+    "pred": "The truck with the number 4235701 was driving down the road when it collided with a white car."
+  },
+  "./VRU_videos/DADA_2000/VRU_193.mp4": {
+    "pred": "The vehicle in front of the car with the plate number 3164502 is stopped at a traffic light."
+  },
+  "./VRU_videos/DADA_2000/VRU_194.mp4": {
+    "pred": "The vehicle in the video is a red truck with a large rear tire."
+  },
+  "./VRU_videos/DADA_2000/VRU_195.mp4": {
+    "pred": "The red car is seen driving towards the intersection and then stops at a traffic light."
+  },
+  "./VRU_videos/DADA_2000/VRU_196.mp4": {
+    "pred": "The car in the video is driving down a road at night. It passes by several other cars, including one with a red light on it and another with a white car. The car ahead of the red car has its brake lights on. As the car approaches the intersection, it comes to a stop due to a traffic jam caused by the heavy traffic."
+  },
+  "./VRU_videos/DADA_2000/VRU_197.mp4": {
+    "pred": "The vehicle in front of the car that collided with the other was a sedan."
+  },
+  "./VRU_videos/DADA_2000/VRU_198.mp4": {
+    "pred": "The car in the scene is a silver sedan with a license plate of 61745. It was seen driving on an empty road at night, and it collided with another vehicle that had its brake lights on."
+  },
+  "./VRU_videos/DADA_2000/VRU_199.mp4": {
+    "pred": "The car in front of the silver sedan was involved in a collision."
+  },
+  "./VRU_videos/DADA_2000/VRU_200.mp4": {
+    "pred": "The vehicle in front of the car with the yellow sticker is a white Toyota."
+  },
+  "./VRU_videos/DADA_2000/VRU_201.mp4": {
+    "pred": "The crash occurred in an urban setting with a traffic light and pedestrian crossing. The scene was captured by a camera mounted on the side of the road, which is located at the intersection. A red car passed by as the person fell to the ground."
+  },
+  "./VRU_videos/DADA_2000/VRU_202.mp4": {
+    "pred": "The car is driving down the street and passing by a shop with Chinese characters."
+  },
+  "./VRU_videos/DADA_2000/VRU_203.mp4": {
+    "pred": "The crash occurred on a bridge in front of a building with the text \"BANG\" visible. The scene was captured by a camera mounted on a vehicle, and there were several bystanders gathered around the area. A person wearing a blue jacket was seen standing near the railing while another person was sitting on the ground."
+  },
+  "./VRU_videos/DADA_2000/VRU_204.mp4": {
+    "pred": "The vehicle in the video is a motorcycle that has crashed into the crosswalk."
+  },
+  "./VRU_videos/DADA_2000/VRU_205.mp4": {
+    "pred": "The vehicle is approaching a pedestrian who has just passed by."
+  },
+  "./VRU_videos/DADA_2000/VRU_206.mp4": {
+    "pred": "The vehicle in the video is driving down a road with traffic lights."
+  },
+  "./VRU_videos/DADA_2000/VRU_207.mp4": {
+    "pred": "The vehicle in front of the car with the rear light flashing is a white sedan."
+  },
+  "./VRU_videos/DADA_2000/VRU_208.mp4": {
+    "pred": "The vehicle in the video is driving on a two-lane road with traffic cones placed along the sides. The driver is wearing a helmet and a white shirt, while the other person is wearing black pants and a black jacket. They are both riding motorcycles."
+  },
+  "./VRU_videos/DADA_2000/VRU_209.mp4": {
+    "pred": "The bus is seen driving down the road, passing by a pedestrian."
+  },
+  "./VRU_videos/DADA_2000/VRU_210.mp4": {
+    "pred": "The vehicle in front of the car that crashed is a Toyota Prius."
+  },
+  "./VRU_videos/DADA_2000/VRU_211.mp4": {
+    "pred": "The crash occurred in a busy city street with several vehicles and pedestrians. A red car was seen driving down the road, while a person wearing a blue jacket was riding a bicycle. The traffic light at the intersection was green, but there were no cars passing through. As the video progressed, more people started to appear on the sidewalk, including a man in a white shirt who was walking towards the camera."
+  },
+  "./VRU_videos/DADA_2000/VRU_212.mp4": {
+    "pred": "The car is involved in a collision with another vehicle."
+  },
+  "./VRU_videos/DADA_2000/VRU_213.mp4": {
+    "pred": "The car was driving down the street when it collided with a bicycle."
+  },
+  "./VRU_videos/DADA_2000/VRU_214.mp4": {
+    "pred": "The car is driving down the road and passing a blue scooter."
+  },
+  "./VRU_videos/DADA_2000/VRU_215.mp4": {
+    "pred": "The car was driving down the road when it collided with a bicycle."
+  },
+  "./VRU_videos/DADA_2000/VRU_216.mp4": {
+    "pred": "The vehicle in front of the car is a blue truck with the license plate 675412."
+  },
+  "./VRU_videos/DADA_2000/VRU_217.mp4": {
+    "pred": "The car in front of the person is a Toyota Prius."
+  },
+  "./VRU_videos/DADA_2000/VRU_218.mp4": {
+    "pred": "The red bus is seen driving down the road."
+  },
+  "./VRU_videos/DADA_2000/VRU_219.mp4": {
+    "pred": "The yellow bus collided with the white car."
+  },
+  "./VRU_videos/DADA_2000/VRU_220.mp4": {
+    "pred": "The vehicle in front of the motorcycle is a Honda CR-V."
+  },
+  "./VRU_videos/DADA_2000/VRU_221.mp4": {
+    "pred": "The crash occurred on a busy street with several cars parked and people walking around. A man wearing a black jacket was standing near the car while two children were sitting in a stroller beside him. The scene then shifted to show a man in a yellow shirt and another man in a gray jacket walking down the street, followed by a woman in a red coat who was also seen walking."
+  },
+  "./VRU_videos/DADA_2000/VRU_222.mp4": {
+    "pred": "The video shows a traffic jam on the road with cars and motorcycles moving in different directions. A car is seen driving down the street, while two people are riding bikes. The scene then shifts to show more cars passing by as the camera moves forward."
+  },
+  "./VRU_videos/DADA_2000/VRU_223.mp4": {
+    "pred": "The blue car was the first to stop at the intersection."
+  }
+}

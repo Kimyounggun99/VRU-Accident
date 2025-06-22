@@ -1,0 +1,7 @@
+📊 Category-wise Accuracy:
+- weather and light: 676/1000 (67.60%)
+- location: 819/1000 (81.90%)
+- road type: 514/1000 (51.40%)
+- accident type: 480/1000 (48.00%)
+- accident reason: 481/1000 (48.10%)
+- prevention method: 619/1000 (61.90%)
