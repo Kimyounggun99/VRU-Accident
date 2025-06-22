@@ -20,20 +20,21 @@ This benchmark uniquely focuses on understanding the **causal, contextual, and p
 | VQA (6 categories)| 6,000   | 24,000            | ~3,400         |
 | Dense Captioning  | 1,000   | -                 | 1,000          |
 
-**VQA Categories:**
-1. Weather & Light  
-2. Traffic Environment  
-3. Road Configuration  
-4. Accident Type  
-5. Accident Cause  
-6. Accident Prevention Measure
-
 ---
 
 ## 🧠 Tasks
 
 ### 📌 Video Question Answering (VQA)
 Each video includes 6 question-answer pairs with 1 correct answer and 3 contextually relevant counterfactuals.
+
+**VQA Categories:**
+- Weather & Light 
+-  Traffic Environment  
+- Road Configuration  
+- Accident Type  
+- Accident Cause  
+- Accident Prevention Measure
+
 
 ### 📝 Dense Captioning
 Each video is paired with a detailed, high-quality description capturing:
