@@ -43,20 +43,6 @@ Each video is paired with a detailed, high-quality description capturing:
 
 ---
 
-## 📊 Benchmark Results (VQA)
-
-| Model                 | AccAVG (%) |
-|----------------------|------------|
-| Gemini 1.5-Flash     | **66.9**   |
-| LLaVA-Video (7B)     | 64.4       |
-| InternVL3 (8B)       | 64.4       |
-| Qwen2-VL (7B)        | 52.1       |
-| Human Expert         | **95.0**   |
-
-> MLLMs show strong performance on visually grounded attributes but struggle with **causal reasoning** and **collision understanding**.
-
----
-
 ## 🚀 Getting Started
 
 ### Clone the repo
