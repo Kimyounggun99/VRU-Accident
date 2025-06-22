@@ -65,14 +65,17 @@ Each video is paired with a detailed, high-quality description capturing:
 # Create environment
 conda create -n VRU-Accident python=3.10 -y
 conda activate VRU-Accident
-
+```
+```bash
 # Clone repository
 git clone https://github.com/Kimyounggun99/VRU-Accident.git
 cd VRU-Accident
+```
 
+```bash
 # Install dependencies
 pip install -r requirements.txt
-
+```
 
 🧠 MLLM Weights Setup
 You must manually download the following model weights:
@@ -87,12 +90,14 @@ Video-XL-2 (7B): [link4]
 
 Place them under the following directory structure:
 
-```
+```bash
 ./VRU-Accident/Models/
 ├── Video_XL_Pro_3B/
 ├── Video-XL-2/
 └── Mobile_VideoGPT/
     ├── Mobile_VideoGPT_05B/
     └── Mobile_VideoGPT_15B/
+```
+
 All other model weights will be downloaded automatically during evaluation.
 
