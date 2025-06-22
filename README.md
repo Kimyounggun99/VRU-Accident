@@ -1,10 +1,5 @@
 # VRU-Accident: A Vision-Language Benchmark for Video QA and Dense Captioning on Crash Understanding of Vulnerable Road Users
 
-[![Paper](https://img.shields.io/badge/ICCV-2025-blue)](https://arxiv.org/abs/XXXX.XXXXX)  
-[Project Website](https://github.com/VRU-Accident/VRU-Accident) • [Paper (arXiv)](https://arxiv.org/abs/XXXX.XXXXX)
-
----
-
 ## 🛑 Overview
 
 **VRU-Accident** is a large-scale vision-language benchmark designed to evaluate multimodal large language models (MLLMs) in traffic accident scenarios involving **Vulnerable Road Users (VRUs)**, such as pedestrians and cyclists.
