@@ -53,7 +53,6 @@ Each video is paired with a detailed, high-quality description capturing:
 
 - Python 3.10
 - CUDA 12.4
-- PyTorch ≥ 2.2
 
 > Tested on Ubuntu 20.04 with NVIDIA TITAN RTX
 
