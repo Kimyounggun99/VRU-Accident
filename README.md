@@ -109,14 +109,26 @@ Visit our [Hugging Face page !!!!!!!!!!!!! need to change](https://huggingface.c
 ./VRU-Accident/
 ├── MetaData/
 │   ├── CAP_DATA/
+│   │      ├── CAP_DATA_VQA_annotation.json
+│   │      └── CAP_DATA_Dense_Caption.json
 │   ├── DADA_2000/
+│   │      ├── DADA_2000_VQA_annotation.json
+│   │      └── DADA_2000_Dense_Caption.json
 │   ├── DoTA/
+│   │      ├── DoTA_VQA_annotation.json
+│   │      └── DoTA_Dense_Caption.json
 │   └── VRU_Accident/
+│          ├── VRU_Accident_VQA_annotation.json
+│          └── VRU_Accident_Dense_Caption.json
 └── VRU_videos/
     ├── CAP_DATA/
+    │      └── VRU_1.mp4, ... , VRU_287.mp4
     ├── DADA_2000/
+    │      └── VRU_1.mp4, ... , VRU_223.mp4
     ├── DoTA/
+    │      └── VRU_1.mp4, ... , VRU_100.mp4
     └── VRU_Accident/
+           └── VRU_1.mp4, ... , VRU_390.mp4
 ```
 
 ---
