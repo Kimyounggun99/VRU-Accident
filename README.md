@@ -77,16 +77,12 @@ cd VRU-Accident
 pip install -r requirements.txt
 ```
 
-🧠 MLLM Weights Setup
-You must manually download the following model weights:
+---
 
-Mobile-VideoGPT (0.5B): [link1]
 
-Mobile-VideoGPT (1.5B): [link2]
+### 🧠 MLLM Weights Setup
 
-Video-XL-Pro (3B): [link3]
-
-Video-XL-2 (7B): [link4]
+You must manually download the following model weights: [Mobile-VideoGPT(0.5B)](https://huggingface.co/Amshaker/Mobile-VideoGPT-0.5B), [Mobile-VideoGPT(1.5B)](https://huggingface.co/Amshaker/Mobile-VideoGPT-1.5B), [Video-XL-Pro(3B)](https://huggingface.co/MINT-SJTU/Video-XL-Pro-3B), and [Video-XL-2(7B)](https://huggingface.co/BAAI/Video-XL-2).
 
 Place them under the following directory structure:
 
@@ -100,4 +96,156 @@ Place them under the following directory structure:
 ```
 
 All other model weights will be downloaded automatically during evaluation.
+
+
+---
+
+
+### 📁 Dataset Structure
+
+Visit our [Hugging Face page !!!!!!!!!!!!! need to change](https://huggingface.co/datasets) to download all 1,000 accident videos and corresponding annotations. Organize the files as follows:
+
+```bash
+./VRU-Accident/
+├── MetaData/
+│   ├── CAP_DATA/
+│   ├── DADA_2000/
+│   ├── DoTA/
+│   └── VRU_Accident/
+└── VRU_videos/
+    ├── CAP_DATA/
+    ├── DADA_2000/
+    ├── DoTA/
+    └── VRU_Accident/
+```
+
+---
+
+
+### 🤖 Model Response Generation
+
+#### Open-Source Models
+
+Run follow command to generate model responses:
+
+```bash
+python main.py \
+  --task {VQA/Dense_Captioning} \
+  --dataset {CAP_DATA/DADA_2000/DoTA/VRU_Accident} \
+  --mode generation \
+  --save_path ./Model_Response/{VQA/Dense_Captioning}/{Model_Name}/{Dataset_Name}_{Task}_response.json \
+  --model InternVL3_8B
+```
+
+Examples:
+
+```bash
+python main.py \
+  --task VQA \
+  --dataset VRU_Accident \
+  --mode generation \
+  --save_path ./Model_Response/VQA/InternVL3_8B/VRU_Accident_VQA_response.json \
+  --model InternVL3_8B
+```
+and
+
+```bash
+python main.py \
+  --task Dense_Captioning \
+  --dataset VRU_Accident \
+  --mode generation \
+  --save_path ./Model_Response/Dense_Captioning/InternVL3_8B/VRU_Accident_Dense_Captioning_response.json \
+  --model InternVL3_8B
+```
+
+#### Closed-Source Models (API Key Required)
+We provide the code to generate responses of GPT-4o-mini and Gemini-1.5-Flash.
+
+```bash
+python main.py \
+  --task VQA \
+  --dataset {CAP_DATA/DADA_2000/DoTA/VRU_Accident} \
+  --mode generation \
+  --save_path ./Model_Response/VQA/{GPT_4o_mini/Gemini_15_flash}/{Dataset_Name}_{Task}_response.json \
+  --model InternVL3_8B
+```
+
+Examples:
+
+```bash
+python main.py \
+  --task VQA \
+  --dataset VRU_Accident \
+  --mode generation \
+  --save_path ./Model_Response/VQA/GPT_4o_mini/VRU_Accident_VQA_response.json \
+  --model GPT_4o_mini \
+  --api_key <Your_API_Key>
+```
+
+and 
+
+```bash
+python main.py \
+  --task VQA \
+  --dataset VRU_Accident \
+  --mode generation \
+  --save_path ./Model_Response/VQA/Gemini_15_flash/VRU_Accident_VQA_response.json \
+  --model Gemini_15_flash \
+  --api_key <Your_API_Key>
+```
+
+---
+
+### 🧪 Evaluation
+
+#### VQA Evaluation
+
+
+```bash
+python main.py \
+  --task VQA \
+  --mode evaluation \
+  --load_path ./Model_Response/VQA/<Model_Name> \
+  --save_path ./results/VQA/<Model_Name>_VQA_Acc.json \
+  --model <Model_Name> \
+  --dataset All
+```
+
+Example:
+
+```bash
+python main.py \
+  --task VQA \
+  --mode evaluation \
+  --load_path ./Model_Response/VQA/Qwen2_VL_7B \
+  --save_path ./results/VQA/Qwen2_VL_7B_VQA_Acc.json \
+  --model Qwen2_VL_7B \
+  --dataset All
+```
+
+#### Dense Captioning Evaluation
+
+```bash
+  --task Dense_Captioning \
+  --dataset All \
+  --mode test \
+  --model <Model_Name>
+```
+
+Example:
+
+```bash
+python main.py \
+  --task Dense_Captioning \
+  --dataset All \
+  --mode test \
+  --model InternVL25_4B
+```
+
+
+
+### 📦 Already generated model responses and results are available under:
+
+- ./Model_Response/
+- ./results/
 
