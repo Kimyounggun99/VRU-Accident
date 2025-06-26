@@ -1,4 +1,4 @@
-# VRU-Accident: A Vision-Language Benchmark for Video QA and Dense Captioning on Crash Understanding of Vulnerable Road Users
+# VRU-Accident: A Vision-Language Benchmark for Video Question Answering and Dense Captioning for Accident Scene Understanding
 
 ## 🛑 Overview
 
