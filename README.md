@@ -81,7 +81,7 @@ pip install -r requirements.txt
 
 ### 🧠 MLLM Weights Setup
 
-You must manually download the following model weights: [Mobile-VideoGPT(0.5B)](https://huggingface.co/Amshaker/Mobile-VideoGPT-0.5B), [Mobile-VideoGPT(1.5B)](https://huggingface.co/Amshaker/Mobile-VideoGPT-1.5B), [Video-XL-Pro(3B)](https://huggingface.co/MINT-SJTU/Video-XL-Pro-3B), and [Video-XL-2(7B)](https://huggingface.co/BAAI/Video-XL-2).
+You must manually download the following model weights: [Mobile-VideoGPT(1.5B)](https://huggingface.co/Amshaker/Mobile-VideoGPT-1.5B), [Video-XL-Pro(3B)](https://huggingface.co/MINT-SJTU/Video-XL-Pro-3B), and [Video-XL-2(7B)](https://huggingface.co/BAAI/Video-XL-2).
 
 Place them under the following directory structure:
 
