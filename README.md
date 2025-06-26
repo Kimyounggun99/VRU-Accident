@@ -141,7 +141,7 @@ Run follow command to generate model responses:
 ```bash
 python main.py \
   --task {VQA/Dense_Captioning} \
-  --dataset {CAP_DATA/DADA_2000/DoTA/VRU_Accident} \
+  --dataset {CAP_DATA/DADA_2000/DoTA/MANUAL_DATA} \
   --mode generation \
   --save_path ./Model_Response/{VQA/Dense_Captioning}/{Model_Name}/{Dataset_Name}_{Task}_response.json \
   --model InternVL3_8B
@@ -152,17 +152,17 @@ Examples:
 ```bash
 python main.py \
   --task VQA \
-  --dataset VRU_Accident \
+  --dataset MANUAL_DATA \
   --mode generation \
-  --save_path ./Model_Response/VQA/InternVL3_8B/VRU_Accident_VQA_response.json \
+  --save_path ./Model_Response/VQA/InternVL3_8B/MANUAL_DATA_VQA_response.json \
   --model InternVL3_8B
 ```
 ```bash
 python main.py \
   --task Dense_Captioning \
-  --dataset VRU_Accident \
+  --dataset MANUAL_DATA \
   --mode generation \
-  --save_path ./Model_Response/Dense_Captioning/InternVL3_8B/VRU_Accident_Dense_Captioning_response.json \
+  --save_path ./Model_Response/Dense_Captioning/InternVL3_8B/MANUAL_DATA_Dense_Captioning_response.json \
   --model InternVL3_8B
 ```
 
@@ -172,7 +172,7 @@ We provide the code to generate responses of GPT-4o-mini and Gemini-1.5-Flash.
 ```bash
 python main.py \
   --task VQA \
-  --dataset {CAP_DATA/DADA_2000/DoTA/VRU_Accident} \
+  --dataset {CAP_DATA/DADA_2000/DoTA/MANUAL_DATA} \
   --mode generation \
   --save_path ./Model_Response/VQA/{GPT_4o_mini/Gemini_15_flash}/{Dataset_Name}_{Task}_response.json \
   --model InternVL3_8B
@@ -183,9 +183,9 @@ Examples:
 ```bash
 python main.py \
   --task VQA \
-  --dataset VRU_Accident \
+  --dataset MANUAL_DATA \
   --mode generation \
-  --save_path ./Model_Response/VQA/GPT_4o_mini/VRU_Accident_VQA_response.json \
+  --save_path ./Model_Response/VQA/GPT_4o_mini/MANUAL_DATA_VQA_response.json \
   --model GPT_4o_mini \
   --api_key <Your_API_Key>
 ```
@@ -193,9 +193,9 @@ python main.py \
 ```bash
 python main.py \
   --task VQA \
-  --dataset VRU_Accident \
+  --dataset MANUAL_DATA \
   --mode generation \
-  --save_path ./Model_Response/VQA/Gemini_15_flash/VRU_Accident_VQA_response.json \
+  --save_path ./Model_Response/VQA/Gemini_15_flash/MANUAL_DATA_VQA_response.json \
   --model Gemini_15_flash \
   --api_key <Your_API_Key>
 ```
