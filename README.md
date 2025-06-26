@@ -115,9 +115,9 @@ Visit our [Hugging Face page](https://huggingface.co/datasets/VRUAccidentAnonymo
 │   ├── DoTA/
 │   │      ├── DoTA_VQA_annotation.json
 │   │      └── DoTA_Dense_Caption.json
-│   └── VRU_Accident/
-│          ├── VRU_Accident_VQA_annotation.json
-│          └── VRU_Accident_Dense_Caption.json
+│   └── MANUAL_DATA/
+│          ├── MANUAL_DATA_VQA_annotation.json
+│          └── MANUAL_DATA_Dense_Caption.json
 └── VRU_videos/ # total number of videos: 1000
     ├── CAP_DATA/
     │      └── VRU_1.mp4, ... , VRU_287.mp4
@@ -125,7 +125,7 @@ Visit our [Hugging Face page](https://huggingface.co/datasets/VRUAccidentAnonymo
     │      └── VRU_1.mp4, ... , VRU_223.mp4
     ├── DoTA/
     │      └── VRU_1.mp4, ... , VRU_100.mp4
-    └── VRU_Accident/
+    └── MANUAL_DATA/
            └── VRU_1.mp4, ... , VRU_390.mp4
 ```
 
