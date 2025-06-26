@@ -90,7 +90,6 @@ Place them under the following directory structure:
 ├── Video_XL_Pro_3B/
 ├── Video-XL-2/
 └── Mobile_VideoGPT/
-    ├── Mobile_VideoGPT_05B/
     └── Mobile_VideoGPT_15B/
 ```
 
