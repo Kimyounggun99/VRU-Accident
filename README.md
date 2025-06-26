@@ -248,6 +248,14 @@ python main.py \
   --model InternVL25_4B
 ```
 
+#### Evaluate All MLLMs on both tasks
+
+Run following command to evaluate all MLLMs on both tasks in VRU-Accident benchmark.
+
+```bash
+bash eval_all.sh
+```
+
 
 ---
 
