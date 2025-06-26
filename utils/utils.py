@@ -20,7 +20,7 @@ import cv2
 def get_arg_parse():
     parser = argparse.ArgumentParser()
     parser.add_argument('--task', type=str, required=True, help= 'VQA/Dense_Captioning')
-    parser.add_argument('--dataset', type=str, required=True, help= 'CAP_DATA/DADA_2000/DoTA/VRU_Accident')
+    parser.add_argument('--dataset', type=str, required=True, help= 'CAP_DATA/DADA_2000/DoTA/MANUAL_DATA')
     parser.add_argument('--mode', type=str, required=True, help='generation/evaluation')     
     parser.add_argument('--save_path', type=str, help= './(Model_Response or results)/...')
     parser.add_argument('--load_path', type=str, help= './Model_Response/LLaVA_NeXT_Video_VQA_response.json')
@@ -183,7 +183,7 @@ def DataLoader(args):
 
             eval_data[video] = {}
 
-            if args.model =='LLaVA_NeXT_Video' or args.model =='LLaVA_OneVision' or 'Qwen' in args.model or args.model == 'VideoLLaMA3' or args.model == 'Mobile_VideoGPT_05' or args.model == 'Mobile_VideoGPT_15' or args.model == 'Video_XL2' or args.model == 'Video_XL_Pro' or args.model=='GPT_4o_mini':
+            if args.model =='LLaVA_NeXT_Video' or args.model =='LLaVA_OneVision' or 'Qwen' in args.model or args.model == 'Mobile_VideoGPT_15' or args.model == 'Video_XL2' or args.model == 'Video_XL_Pro' or args.model=='GPT_4o_mini':
                 container = av.open(video)
                 total_frames = container.streams.video[0].frames
                 indices = np.arange(0, total_frames, total_frames / 8).astype(int)
@@ -251,16 +251,6 @@ def build_conversation_template(args, annotation, video_path, all_items):
             },
         ]
 
-    elif args.model == 'VideoLLaMA3':
-        conversation = [
-            {
-                "role": "user",
-                "content": [
-                    {"type": "video", "video": {"video_path": video_path, "fps": 1, "max_frames": 4}},
-                    {"type": "text", "text": question_options},
-                ]
-            },
-        ]
 
     elif args.model == 'LLaVA_Video':
         conv_template = "qwen_1_5"
@@ -270,7 +260,7 @@ def build_conversation_template(args, annotation, video_path, all_items):
         conv.append_message(conv.roles[1], None)
         conversation = conv.get_prompt()
 
-    elif args.model == 'Video_XL2' or args.model == 'Mobile_VideoGPT_05' or args.model == 'Mobile_VideoGPT_15':
+    elif args.model == 'Video_XL2' or args.model == 'Mobile_VideoGPT_15':
         conversation = question_options
     elif args.model == 'Video_XL_Pro':
         conversation = f"<|im_start|>system\nYou are a helpful assistant.<|im_end|>\n<|im_start|>user\n<image>\n{question_options}<|im_end|>\n<|im_start|>assistant\n"
@@ -298,7 +288,7 @@ def postprocessor(args, output):
             final_output = output
         elif args.model == 'LLaVA_OneVision':
             final_output = output.split('\n')[-1].split('.')[0]
-        elif args.model == 'VideoLLaMA3' or args.model == 'Mobile_VideoGPT_05' or args.model == 'Mobile_VideoGPT_15':
+        elif args.model == 'Mobile_VideoGPT_15':
             final_output = extract_single_choice(output)
         elif 'Qwen' in args.model:
             final_output = extract_single_choice(output.split('\n')[-1])

@@ -1,0 +1,35 @@
+python main.py --task VQA --dataset All --mode test --model GPT_4o_mini
+python main.py --task VQA --dataset All --mode test --model Gemini_15_flash
+python main.py --task VQA --dataset All --mode test --model InternVL25_1B
+python main.py --task VQA --dataset All --mode test --model InternVL25_2B
+python main.py --task VQA --dataset All --mode test --model InternVL25_4B
+python main.py --task VQA --dataset All --mode test --model InternVL25_8B
+python main.py --task VQA --dataset All --mode test --model InternVL2_8B
+python main.py --task VQA --dataset All --mode test --model InternVL3_2B
+python main.py --task VQA --dataset All --mode test --model InternVL3_8B
+python main.py --task VQA --dataset All --mode test --model LLaVA_NeXT_Video
+python main.py --task VQA --dataset All --mode test --model LLaVA_OneVision
+python main.py --task VQA --dataset All --mode test --model LLaVA_Video
+python main.py --task VQA --dataset All --mode test --model Mobile_VideoGPT_15
+python main.py --task VQA --dataset All --mode test --model Qwen25_VL
+python main.py --task VQA --dataset All --mode test --model Qwen2_VL_7B
+python main.py --task VQA --dataset All --mode test --model Video_XL2
+python main.py --task VQA --dataset All --mode test --model Video_XL_Pro
+
+
+python main.py --task Dense_Captioning --dataset All --mode test --model Gemini_15_flash
+python main.py --task Dense_Captioning --dataset All --mode test --model InternVL25_1B
+python main.py --task Dense_Captioning --dataset All --mode test --model InternVL25_2B
+python main.py --task Dense_Captioning --dataset All --mode test --model InternVL25_4B
+python main.py --task Dense_Captioning --dataset All --mode test --model InternVL25_8B
+python main.py --task Dense_Captioning --dataset All --mode test --model InternVL2_8B
+python main.py --task Dense_Captioning --dataset All --mode test --model InternVL3_2B
+python main.py --task Dense_Captioning --dataset All --mode test --model InternVL3_8B
+python main.py --task Dense_Captioning --dataset All --mode test --model LLaVA_NeXT_Video
+python main.py --task Dense_Captioning --dataset All --mode test --model LLaVA_OneVision
+python main.py --task Dense_Captioning --dataset All --mode test --model LLaVA_Video
+python main.py --task Dense_Captioning --dataset All --mode test --model Mobile_VideoGPT_15
+python main.py --task Dense_Captioning --dataset All --mode test --model Qwen25_VL
+python main.py --task Dense_Captioning --dataset All --mode test --model Qwen2_VL_7B
+python main.py --task Dense_Captioning --dataset All --mode test --model Video_XL2
+python main.py --task Dense_Captioning --dataset All --mode test --model Video_XL_Pro

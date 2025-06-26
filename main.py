@@ -15,7 +15,7 @@ from Models.GPT import GPT_4o_mini
 import google.generativeai as genai
 
 import sys
-sys.path.append("/data/kim/VRU_Accident/Models/Video_XL_Pro_3B")
+sys.path.append("./Your_Path/VRU_Accident/Models/Video_XL_Pro_3B") # Fill out your path
 from videoxlpro.videoxlpro.demo_utils import process_video, load_image_processor, generate_response 
 
 from tqdm import tqdm
@@ -33,7 +33,7 @@ def main(args):
             model.eval()
         elif args.model == 'Video_XL2' or args.model == 'Video_XL_Pro' or 'InternVL' in args.model:
             model, tokenizer = build_model(args)
-        elif args.model == 'Mobile_VideoGPT_05' or args.model == 'Mobile_VideoGPT_15':
+        elif args.model == 'Mobile_VideoGPT_15':
             image_processor, tokenizer, model = build_model(args)
 
 
@@ -68,8 +68,7 @@ def main(args):
                     max_new_tokens = 10
                 elif args.task == 'Dense_Captioning':
                     max_new_tokens = 200
-                    if args.model == 'Gemini_15_flash' or args.model == 'GPT_4o_mini':
-                        ValueError("We don't support Dense Captioning task with closed source model")
+                    
                 else:
                     ValueError('We only support VQA and Dense_Captioning tasks.')
 
@@ -100,7 +99,7 @@ def main(args):
                 elif args.model == 'GPT_4o_mini':
                     response = GPT_4o_mini(video_frames, conversation, args.api_key)
 
-                elif args.model == 'Mobile_VideoGPT_05' or args.model == 'Mobile_VideoGPT_15':
+                elif args.model == 'Mobile_VideoGPT_15':
                     input_ids, video_frames, context_frames, stop_str = image_processor(
                         model, tokenizer, video_path, conversation
                     )
@@ -109,15 +108,7 @@ def main(args):
                         response = tokenizer.batch_decode(output_ids, skip_special_tokens=True)[0].strip()
                     if response.endswith(stop_str):
                         response = response[:-len(stop_str)].strip()
-                
-                elif args.model == 'VideoLLaMA3':
-                    inputs = processor(conversation=conversation, return_tensors="pt")
-                    inputs = {k: v.cuda() if isinstance(v, torch.Tensor) else v for k, v in inputs.items()}
-                    if "pixel_values" in inputs:
-                        inputs["pixel_values"] = inputs["pixel_values"].to(torch.bfloat16)
-                
-                    output_ids = model.generate(**inputs, max_new_tokens=max_new_tokens)
-                    response = processor.batch_decode(output_ids, skip_special_tokens=True)[0].strip()
+
                 elif 'InternVL' in args.model:
                     response, history = model.chat(tokenizer, video_frames, conversation, {'max_new_tokens':max_new_tokens, 'do_sample':True},
                                num_patches_list=all_items['num_patches_list'], history=None, return_history=True)

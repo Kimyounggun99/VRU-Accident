@@ -3,9 +3,7 @@ from .LLaVA_Video import build_LLaVA_Video
 from .Video_XL2 import build_Video_XL2
 from .Video_XL_Pro import build_Video_XL_Pro
 from .LLaVA_OneVision import build_LLaVA_OneVision
-from .Mobile_VideoGPT.Mobile_VideoGPT_05 import build_Mobile_VideoGPT_05
 from .Mobile_VideoGPT.Mobile_VideoGPT_15 import build_Mobile_VideoGPT_15
-from .VideoLLaMA3 import build_VideoLLaMA3
 from .Qwen import build_Qwen
 from .InternVL import build_InternVL
 
@@ -26,15 +24,9 @@ def build_model(args):
     elif args.model == 'LLaVA_OneVision':
         model, processor = build_LLaVA_OneVision()
         return model, processor
-    elif args.model == 'Mobile_VideoGPT_05':
-        image_processor, tokenizer, model = build_Mobile_VideoGPT_05()
-        return image_processor, tokenizer, model
     elif args.model == 'Mobile_VideoGPT_15':
         image_processor, tokenizer, model = build_Mobile_VideoGPT_15()
         return image_processor, tokenizer, model
-    elif args.model == 'VideoLLaMA3':
-        model, processor = build_VideoLLaMA3()
-        return model, processor
     elif 'Qwen' in args.model: 
         model, processor = build_Qwen(args)
         return model, processor

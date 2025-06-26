@@ -1,0 +1,22 @@
+{
+    "BLEU": 0.035,
+    "METEOR": 0.27,
+    "ROUGE": {
+        "ROUGE1": {
+            "precision": 0.422,
+            "recall": 0.46,
+            "fmeasure": 0.436
+        },
+        "ROUGE2": {
+            "precision": 0.113,
+            "recall": 0.124,
+            "fmeasure": 0.117
+        },
+        "ROUGEL": {
+            "precision": 0.219,
+            "recall": 0.24,
+            "fmeasure": 0.227
+        }
+    },
+    "COMET": 0.686
+}
