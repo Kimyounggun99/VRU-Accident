@@ -138,7 +138,7 @@ def evaluate_rouge(references, hypotheses):
 def Dense_Captioning_eval(args):
 
     # Load COMET model
-    comet_path = download_model("Unbabel/wmt22-comet-da")  # or another COMET model
+    comet_path = download_model("Unbabel/wmt22-comet-da") 
     comet = load_from_checkpoint(comet_path)
 
 

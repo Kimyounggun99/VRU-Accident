@@ -5,7 +5,7 @@ from PIL import Image
 import numpy as np
 
 def encode_image(image: Image.Image) -> str:
-    """이미지를 base64 인코딩된 string으로 변환."""
+ 
     buffered = BytesIO()
     image.save(buffered, format="PNG")
     return base64.b64encode(buffered.getvalue()).decode()
@@ -32,13 +32,13 @@ def GPT_4o_mini(video_frames_np: np.ndarray, question: str, api_key: str):
 
     client = openai.OpenAI(api_key=api_key)
 
-    # 이미지 크기 줄이기 (중요)
+
     def resize_image(img: Image.Image, size=(360, 640)):
         return img.resize(size)
 
     images = [resize_image(Image.fromarray(f.astype(np.uint8))) for f in video_frames_np[:4]]
 
-    # 메시지 구성
+ 
     messages = [
         {
             "role": "user",

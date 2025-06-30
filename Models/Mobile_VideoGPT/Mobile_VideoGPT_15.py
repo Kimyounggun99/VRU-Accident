@@ -6,7 +6,7 @@ from .mobilevideogpt.utils import preprocess_input
 
 
 def build_Mobile_VideoGPT_15():
-    pretrained_path = "/data/kim/VRU_Accident/Models/Mobile_VideoGPT/Mobile_VideoGPT_15B"
+    pretrained_path = "Your_Path/VRU_Accident/Models/Mobile_VideoGPT/Mobile_VideoGPT_15B" # Fill out your absolute path
     config = AutoConfig.from_pretrained(pretrained_path)
     tokenizer = AutoTokenizer.from_pretrained(pretrained_path, use_fast=False)
     model = AutoModelForCausalLM.from_pretrained(
