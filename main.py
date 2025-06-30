@@ -15,8 +15,8 @@ from Models.GPT import GPT_4o_mini
 import google.generativeai as genai
 
 import sys
-sys.path.append("./Your_Path/VRU_Accident/Models/Video_XL_Pro_3B") # Fill out your path
-from videoxlpro.videoxlpro.demo_utils import process_video, load_image_processor, generate_response 
+#sys.path.append("./Your_Path/VRU_Accident/Models/Video_XL_Pro_3B") # Fill out your path
+#from videoxlpro.videoxlpro.demo_utils import process_video, load_image_processor, generate_response 
 
 from tqdm import tqdm
 

@@ -6,7 +6,7 @@ import torch
 import nltk
 nltk.download('wordnet')
 from nltk.tokenize import word_tokenize
-from nltk.translate.bleu_score import sentence_bleu, SmoothingFunction
+from pycocoevalcap.spice.spice import Spice
 from nltk.translate.meteor_score import meteor_score
 from rouge_score import rouge_scorer
 from comet import download_model, load_from_checkpoint
@@ -78,22 +78,25 @@ def load_json_captions(filepath, field='gt'):
     caption_list = [data[key][field] for key in data]
     print(f"Loaded {len(caption_list)} captions from {filepath}")
     return caption_list
- 
-def evaluate_bleu(references, hypotheses):
+
+
+def evaluate_spice(refs, hyps):
     """
-    Compute average BLEU score.
+    refs, hyps: two lists of 1000 strings each (reference & hypothesis captions)
+    Returns: (overall_f1, individual_f1_list)
     """
+    assert len(refs) == len(hyps) == 1000
  
-    smooth_func = SmoothingFunction().method1
-    scores = [
-        sentence_bleu([ref.split()], hyp.split(), smoothing_function=smooth_func)
-        for ref, hyp in zip(references, hypotheses)
-    ]
-
-    return sum(scores) / len(scores)
+    gts = {str(i): [refs[i]] for i in range(1000)}
+    res = {str(i): [hyps[i]] for i in range(1000)}
  
-
-
+    scorer = Spice()
+    overall_f1, scores = scorer.compute_score(gts, res)
+ 
+    # scores is a list of dicts per sample; we extract the F1 under 'All'
+    f1_list = [score_dict["All"]["f"] for score_dict in scores]
+ 
+    return overall_f1, f1_list
 
 def evaluate_meteor(references, hypotheses):
     """
@@ -161,10 +164,9 @@ def Dense_Captioning_eval(args):
 
         all_gen_captions.extend(gen_captions)
         all_gt_captions.extend(gt_captions)
-
-    # === Metrics ===
-    print("\nEvaluating BLEU...")
-    avg_bleu = evaluate_bleu(all_gt_captions, all_gen_captions)
+    
+    print("Evaluating SPCIE...")
+    avg_spice = evaluate_spice(all_gt_captions, all_gen_captions)
 
     print("Evaluating METEOR...")
     avg_meteor = evaluate_meteor(all_gt_captions, all_gen_captions)
@@ -183,10 +185,12 @@ def Dense_Captioning_eval(args):
     comet_scores = model_output.scores
     avg_comet_score = sum(comet_scores) / len(comet_scores)
     
+    avg_spice = avg_spice[0]
 
     result_dict = {
-        "BLEU": round(avg_bleu, 3),
+        "SPICE": round(avg_spice, 3),
         "METEOR": round(avg_meteor, 3),
+        "COMET": round(avg_comet_score, 3),
         "ROUGE": {
             r_type.upper(): {
                 "precision": round(scores["precision"], 3),
@@ -194,7 +198,6 @@ def Dense_Captioning_eval(args):
                 "fmeasure": round(scores["fmeasure"], 3)
             } for r_type, scores in rouge_scores.items()
         },
-        "COMET": round(avg_comet_score, 3),
     }
 
     os.makedirs(os.path.dirname(save_path), exist_ok=True)

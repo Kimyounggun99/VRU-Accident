@@ -1,6 +1,7 @@
 {
-    "BLEU": 0.016,
+    "SPICE": 0.129,
     "METEOR": 0.246,
+    "COMET": 0.665,
     "ROUGE": {
         "ROUGE1": {
             "precision": 0.363,
@@ -17,6 +18,5 @@
             "recall": 0.209,
             "fmeasure": 0.192
         }
-    },
-    "COMET": 0.665
+    }
 }
