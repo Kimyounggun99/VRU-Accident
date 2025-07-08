@@ -101,7 +101,7 @@ All other model weights will be downloaded automatically during evaluation.
 
 ### 📁 Dataset Structure
 
-Visit our [Hugging Face page](https://huggingface.co/datasets/VRUAccidentAnonymous/VRU-Accident) to download all 1,000 accident videos and corresponding annotations. Organize the files as follows:
+Visit our [Hugging Face page](https://huggingface.co/datasets/kyh9191/VRU-Accident) to download all 1,000 accident videos and corresponding annotations. Organize the files as follows:
 
 ```bash
 ./VRU-Accident/
