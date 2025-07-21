@@ -265,6 +265,21 @@ bash eval_all.sh
 - ./results/
 ---
 
+## Citation
+
+```bash
+@misc{kim2025vruaccidentvisionlanguagebenchmarkvideo,
+      title={VRU-Accident: A Vision-Language Benchmark for Video Question Answering and Dense Captioning for Accident Scene Understanding}, 
+      author={Younggun Kim and Ahmed S. Abdelrahman and Mohamed Abdel-Aty},
+      year={2025},
+      eprint={2507.09815},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2507.09815}, 
+}
+```
+
+
 ### 📢 Acknowledgement
 In addition to the 390 VRU-involved accident videos we newly collected, we also curated VRU-relevant videos from three publicly available accident datasets: [MM-AU](http://www.lotvsmmau.net/), [DADA-2000](https://github.com/JWFangit/LOTVS-DADA), and [DoTA](https://github.com/MoonBlvd/Detection-of-Traffic-Anomaly).
 
