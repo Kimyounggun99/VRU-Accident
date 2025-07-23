@@ -61,20 +61,18 @@ Each video is paired with a detailed, high-quality description capturing:
 ### ⚙️ Installation
 
 ```bash
-# Create environment
-conda create -n VRU-Accident python=3.10 -y
-conda activate VRU-Accident
-```
-```bash
 # Clone repository
 git clone https://github.com/Kimyounggun99/VRU-Accident.git
 cd VRU-Accident
 ```
-
 ```bash
-# Install dependencies
-pip install -r requirements.txt
+# Create environment and install dependencies
+conda env create -f environment.yml
+conda activate VRU-Accident
+pip install torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/cu124
+pip install -r requirements.txt --no-deps
 ```
+
 
 ---
 
