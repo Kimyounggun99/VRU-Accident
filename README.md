@@ -1,9 +1,11 @@
+
+
+# VRU-Accident: A Vision-Language Benchmark for Video Question Answering and Dense Captioning for Accident Scene Understanding
 [![arXiv](https://img.shields.io/badge/arXiv-2507.09815-b31b1b.svg)](https://arxiv.org/abs/2507.09815)
 [![Project Page](https://img.shields.io/badge/Project-Page-blue.svg)](https://vru-accident.github.io/)
 [![Hugging Face](https://img.shields.io/badge/Dataset-HuggingFace-yellow.svg)](https://huggingface.co/datasets/kyh9191/VRU-Accident)
 
 
-# VRU-Accident: A Vision-Language Benchmark for Video Question Answering and Dense Captioning for Accident Scene Understanding
 
 ## 🛑 Overview
 
