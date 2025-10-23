@@ -1,11 +1,12 @@
 
 
 # VRU-Accident: A Vision-Language Benchmark for Video Question Answering and Dense Captioning for Accident Scene Understanding
+[![ICCVW](https://img.shields.io/badge/ICCVW_2025-Paper-blue)](https://openaccess.thecvf.com/content/ICCV2025W/2COOOL/html/Kim_VRU-Accident_A_Vision-Language_Benchmark_for_Video_Question_Answering_and_Dense_ICCVW_2025_paper.html)
 [![arXiv](https://img.shields.io/badge/arXiv-2507.09815-b31b1b.svg)](https://arxiv.org/abs/2507.09815)
 [![Project Page](https://img.shields.io/badge/Project-Page-blue.svg)](https://vru-accident.github.io/)
 [![Hugging Face](https://img.shields.io/badge/Dataset-HuggingFace-yellow.svg)](https://huggingface.co/datasets/kyh9191/VRU-Accident)
 
-
+## 🏆 Oral, Best Student Paper Award – 2COOOL Workshop, ICCV 2025 🏆
 
 ## 🛑 Overview
 
@@ -273,6 +274,15 @@ bash eval_all.sh
 ## Citation
 
 ```bash
+@InProceedings{Kim_2025_ICCV,
+    author    = {Kim, Younggun and Abdelrahman, Ahmed S. and Abdel-Aty, Mohamed},
+    title     = {VRU-Accident: A Vision-Language Benchmark for Video Question Answering and Dense Captioning for Accident Scene Understanding},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV) Workshops},
+    month     = {October},
+    year      = {2025},
+    pages     = {761-771}
+}
+
 @misc{kim2025vruaccidentvisionlanguagebenchmarkvideo,
       title={VRU-Accident: A Vision-Language Benchmark for Video Question Answering and Dense Captioning for Accident Scene Understanding}, 
       author={Younggun Kim and Ahmed S. Abdelrahman and Mohamed Abdel-Aty},
