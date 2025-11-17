@@ -220,10 +220,11 @@ def extract_single_choice(text):
     return None
 
 def build_conversation_template(args, annotation, video_path, all_items):
-    options = annotation['options']
+    
     
     if args.task == 'VQA':
         question = annotation['question']
+        options = annotation['options']
         question_options= question + " " + options
     else:
         question_options = '''
