@@ -62,7 +62,6 @@ def main(args):
                 
                 conversation = build_conversation_template(args, annotation, video_path, all_items)
 
-                gt= annotation['GT']
 
                 if args.task == 'VQA':
                     max_new_tokens = 10
@@ -117,7 +116,7 @@ def main(args):
 
                 if args.task == 'VQA':
                     save_dict[video_path][category]['pred'] = final_output
-                    save_dict[video_path][category]['GT'] = gt
+                    save_dict[video_path][category]['GT'] = annotation['GT']
                 else:
                     save_dict[video_path]['pred'] = final_output
                     break
