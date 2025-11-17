@@ -173,32 +173,41 @@ def read_video_pyav(container, indices):
 def DataLoader(args):
     folder_path = os.path.join("./MetaData", args.dataset) #./MetaData
 
+
     json_files = [f for f in os.listdir(folder_path) if f.endswith(".json")]
+    if args.task == 'VQA':
+        filename = json_files[0]
+    else:
+        filename = json_files[1]
+
     eval_data= {}
-    for filename in json_files:
-        file_path = os.path.join(folder_path, filename)
-        with open(file_path, "r", encoding="utf-8") as f:
-            data = json.load(f)
-        for video, categories in tqdm(data.items(), desc=f"Loading {file_path}..."):
-
-            eval_data[video] = {}
-
-            if args.model =='LLaVA_NeXT_Video' or args.model =='LLaVA_OneVision' or 'Qwen' in args.model or args.model == 'Mobile_VideoGPT_15' or args.model == 'Video_XL2' or args.model == 'Video_XL_Pro' or args.model=='GPT_4o_mini':
-                container = av.open(video)
-                total_frames = container.streams.video[0].frames
-                indices = np.arange(0, total_frames, total_frames / 8).astype(int)
-                clip = read_video_pyav(container, indices)
-            elif args.model == 'LLaVA_Video':
-                clip,frame_time,video_time = load_video(video, 16, 1, force_sample=True)
-            elif args.model=='Gemini_15_flash' or args.model == 'GPT_4o_mini':
-                clip,frame_time,video_time = load_video(video, 8, 1, force_sample=True)
-            elif 'InternVL' in args.model:
-                
-                clip, num_patches_list = InternVL_load_video(video, num_segments=8, max_num=1)
-                clip = clip.to(torch.bfloat16).cuda()
-                eval_data[video]['num_patches_list'] = num_patches_list
-            eval_data[video]['annotation'] = categories
-            eval_data[video]['frames'] = clip
+    
+    file_path = os.path.join(folder_path, filename)
+ 
+    with open(file_path, "r", encoding="utf-8") as f:
+        data = json.load(f)
+    
+    for video, categories in tqdm(data.items(), desc=f"Loading {file_path}..."):
+        if 'mp4' not in video:
+            video = video+'.mp4'
+      
+        eval_data[video] = {}
+        if args.model =='LLaVA_NeXT_Video' or args.model =='LLaVA_OneVision' or 'Qwen' in args.model or args.model == 'Mobile_VideoGPT_15' or args.model == 'Video_XL2' or args.model == 'Video_XL_Pro' or args.model=='GPT_4o_mini':
+            container = av.open(video)
+            total_frames = container.streams.video[0].frames
+            indices = np.arange(0, total_frames, total_frames / 8).astype(int)
+            clip = read_video_pyav(container, indices)
+        elif args.model == 'LLaVA_Video':
+            clip,frame_time,video_time = load_video(video, 16, 1, force_sample=True)
+        elif args.model=='Gemini_15_flash' or args.model == 'GPT_4o_mini':
+            clip,frame_time,video_time = load_video(video, 8, 1, force_sample=True)
+        elif 'InternVL' in args.model:
+            
+            clip, num_patches_list = InternVL_load_video(video, num_segments=8, max_num=1)
+            clip = clip.to(torch.bfloat16).cuda()
+            eval_data[video]['num_patches_list'] = num_patches_list
+        eval_data[video]['annotation'] = categories
+        eval_data[video]['frames'] = clip
 
 
     return eval_data
